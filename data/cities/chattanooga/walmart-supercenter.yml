@@ -1,12 +1,12 @@
-id: 5315597751
-type: node
+id: 51175556
+type: way
 shop: supermarket
-latitude: 35.008324
-longitude: -85.20513600000001
-postcode: "37411"
+latitude: 35.0299305
+longitude: -85.15412810000001
+postcode: "37421"
 city: Chattanooga
-street: "Greenway View Drive"
-housenumber: 490
-phone: "+1-423-892-8911"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5251/chattanooga-tn/whats-new"
+street: "Gunbarrel Road"
+housenumber: 2020
+phone: "+1-423-899-7021"
+opening_hours: "24/7"
+website: "https://www.walmart.com/store/1469/chattanooga-tn/whats-new"

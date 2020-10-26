@@ -1,12 +1,12 @@
-id: 5649894700
-type: node
-shop: tyres
-latitude: 35.0282569
-longitude: -85.1562363
-postcode: "37421"
+id: 51805299
+type: way
+shop: car repair
+latitude: 35.0103115
+longitude: -85.21983200000001
+postcode: "37411"
 city: Chattanooga
-street: "Gunbarrel Road"
-housenumber: 1916
-phone: "+1-423-296-0925"
+street: "Brainerd Road"
+housenumber: 5503
+phone: "+1-423-664-5503"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/chattanooga/tn/0921/"
+website: "https://www.expressoil.com/stores/chattanooga/tn/0923/"
