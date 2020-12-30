@@ -1,4 +1,4 @@
 ---
-title: "Autozone"
+title: "AutoZone"
 url: /clarksville/autozone/
 ---
