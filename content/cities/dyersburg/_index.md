@@ -1,6 +1,6 @@
 ---
 title: Dyersburg
 url: /dyersburg/
-latitude: 36.0345159
-longitude: -89.3856281
+latitude: 36.0346393
+longitude: -89.38574960000001
 ---
