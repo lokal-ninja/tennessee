@@ -7,5 +7,5 @@ city: Nashville
 street: "Gallatin Avenue"
 housenumber: 1401
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00 Sa 08:00-23:00 Su 09:00-22:00"
+opening_hours: "Mo-Fr 06:00-23:00; Sa 08:00-23:00; Su 09:00-22:00"
 website: ""
