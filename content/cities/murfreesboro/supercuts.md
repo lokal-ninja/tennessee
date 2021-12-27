@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /murfreesboro/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

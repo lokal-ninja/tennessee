@@ -1,5 +1,5 @@
 ---
 title: "Shapow"
 url: /memphis/shapow/
-shop: hairdresser
+shop: Friseur
 ---

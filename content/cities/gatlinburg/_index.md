@@ -1,6 +1,6 @@
 ---
 title: Gatlinburg
 url: /gatlinburg/
-latitude: 35.714259000000006
-longitude: -83.5101638
+latitude: 35.711
+longitude: -83.52
 ---

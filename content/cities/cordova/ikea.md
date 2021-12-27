@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /cordova/ikea/
-shop: furniture
+shop: Möbel
 ---

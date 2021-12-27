@@ -1,5 +1,5 @@
 ---
 title: "Lowes"
 url: /savannah/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

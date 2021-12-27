@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cleveland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

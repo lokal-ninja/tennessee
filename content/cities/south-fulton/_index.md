@@ -1,6 +1,6 @@
 ---
 title: South Fulton
 url: /south-fulton/
-latitude: 36.4914943
-longitude: -88.87596640000001
+latitude: 36.502
+longitude: -88.876
 ---

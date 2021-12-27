@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /murfreesboro/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

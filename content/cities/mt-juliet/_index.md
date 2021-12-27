@@ -1,6 +1,6 @@
 ---
 title: Mt Juliet
 url: /mt-juliet/
-latitude: 
-longitude: 
+latitude: 36.228
+longitude: -86.515
 ---

@@ -1,6 +1,6 @@
 ---
 title: Greenback
 url: /greenback/
-latitude: 35.6611904
-longitude: -84.1721357
+latitude: 35.642
+longitude: -84.149
 ---

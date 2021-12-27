@@ -1,6 +1,6 @@
 ---
 title: Rogersville
 url: /rogersville/
-latitude: 36.407317
-longitude: -83.0054423
+latitude: 36.396
+longitude: -83.013
 ---

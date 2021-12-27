@@ -1,5 +1,5 @@
 ---
 title: "Walmart Fuel Center"
 url: /clarksville/walmart-fuel-center/
-shop: convenience
+shop: Lebensmittel
 ---

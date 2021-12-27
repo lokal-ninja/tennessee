@@ -1,5 +1,5 @@
 ---
 title: "TRIM"
 url: /nashville/trim/
-shop: hairdresser
+shop: Friseur
 ---

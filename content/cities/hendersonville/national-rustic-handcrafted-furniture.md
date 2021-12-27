@@ -1,5 +1,5 @@
 ---
 title: "National Rustic Handcrafted Furniture"
 url: /hendersonville/national-rustic-handcrafted-furniture/
-shop: furniture
+shop: Möbel
 ---

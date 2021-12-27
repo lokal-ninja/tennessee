@@ -1,5 +1,5 @@
 ---
 title: "White House"
 url: /sevierville/white-house/
-shop: shop
+shop: Allgemein
 ---

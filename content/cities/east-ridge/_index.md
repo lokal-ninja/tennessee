@@ -1,6 +1,6 @@
 ---
 title: East Ridge
 url: /east-ridge/
-latitude: 36.2523154
-longitude: -83.2512806
+latitude: 35.001
+longitude: -85.257
 ---

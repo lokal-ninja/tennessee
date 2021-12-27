@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /antioch/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

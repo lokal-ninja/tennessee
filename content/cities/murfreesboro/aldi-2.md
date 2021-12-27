@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /murfreesboro/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

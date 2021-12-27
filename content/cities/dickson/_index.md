@@ -1,6 +1,6 @@
 ---
 title: Dickson
 url: /dickson/
-latitude: 36.1459327
-longitude: -87.34805920000001
+latitude: 36.06
+longitude: -87.381
 ---

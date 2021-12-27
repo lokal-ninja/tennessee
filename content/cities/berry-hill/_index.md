@@ -1,6 +1,6 @@
 ---
 title: Berry Hill
 url: /berry-hill/
-latitude: 36.117002500000005
-longitude: -86.7663876
+latitude: 36.113
+longitude: -86.768
 ---

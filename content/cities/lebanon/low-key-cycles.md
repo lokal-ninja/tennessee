@@ -1,5 +1,5 @@
 ---
 title: "Low Key Cycles"
 url: /lebanon/low-key-cycles/
-shop: motorcycle
+shop: Motorrad
 ---

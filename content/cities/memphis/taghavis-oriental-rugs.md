@@ -1,5 +1,5 @@
 ---
 title: "Taghavi's Oriental Rugs"
 url: /memphis/taghavis-oriental-rugs/
-shop: shop
+shop: Allgemein
 ---

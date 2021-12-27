@@ -1,5 +1,5 @@
 ---
 title: "Jim Cray Gallery"
 url: /gatlinburg/jim-cray-gallery/
-shop: art
+shop: Kunst
 ---

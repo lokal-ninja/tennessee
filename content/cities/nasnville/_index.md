@@ -1,6 +1,6 @@
 ---
 title: Nasnville
 url: /nasnville/
-latitude: 
-longitude: 
+latitude: 36.077
+longitude: -86.947
 ---

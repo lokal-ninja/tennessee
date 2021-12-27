@@ -1,6 +1,6 @@
 ---
 title: Rocky Top
 url: /rocky-top/
-latitude: 
-longitude: 
+latitude: 36.221
+longitude: -84.158
 ---

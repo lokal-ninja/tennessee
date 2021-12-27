@@ -1,6 +1,6 @@
 ---
 title: Pleasent View
 url: /pleasent-view/
-latitude: 
-longitude: 
+latitude: 36.393
+longitude: -87.02
 ---

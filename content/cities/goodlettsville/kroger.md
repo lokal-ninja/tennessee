@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /goodlettsville/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

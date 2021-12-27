@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /chattanooga/talbots/
-shop: clothes
+shop: Kleidung
 ---

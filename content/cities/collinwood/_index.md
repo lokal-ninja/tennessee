@@ -1,6 +1,6 @@
 ---
 title: Collinwood
 url: /collinwood/
-latitude: 35.1743268
-longitude: -87.73734110000001
+latitude: 35.174
+longitude: -87.737
 ---

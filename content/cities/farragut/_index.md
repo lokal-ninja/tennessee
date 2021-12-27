@@ -1,6 +1,6 @@
 ---
 title: Farragut
 url: /farragut/
-latitude: 35.884523800000004
-longitude: -84.15352610000001
+latitude: 35.881
+longitude: -84.16
 ---

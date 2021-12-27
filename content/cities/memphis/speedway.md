@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /memphis/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

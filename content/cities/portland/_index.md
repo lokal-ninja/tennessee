@@ -1,6 +1,6 @@
 ---
 title: Portland
 url: /portland/
-latitude: 36.5817089
-longitude: -86.5163833
+latitude: 36.628
+longitude: -86.566
 ---

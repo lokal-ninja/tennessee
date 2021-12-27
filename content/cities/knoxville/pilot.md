@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /knoxville/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

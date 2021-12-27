@@ -1,6 +1,6 @@
 ---
 title: Enville
 url: /enville/
-latitude: 35.3847998
-longitude: -88.4275442
+latitude: 35.383
+longitude: -88.384
 ---

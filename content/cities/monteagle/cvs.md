@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /monteagle/cvs/
-shop: shop
+shop: Allgemein
 ---

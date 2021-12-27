@@ -1,5 +1,5 @@
 ---
 title: "United Pipe Supply"
 url: /smyrna/united-pipe-supply/
-shop: wholesale
+shop: Großhandel
 ---

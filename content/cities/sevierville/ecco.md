@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /sevierville/ecco/
-shop: shoes
+shop: Schuhe
 ---

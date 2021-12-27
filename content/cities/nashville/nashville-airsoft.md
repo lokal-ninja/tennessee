@@ -1,5 +1,5 @@
 ---
 title: "Nashville Airsoft"
 url: /nashville/nashville-airsoft/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Synergy tattoo"
 url: /knoxville/synergy-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

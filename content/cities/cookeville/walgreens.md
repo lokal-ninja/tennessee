@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cookeville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /dyersburg/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

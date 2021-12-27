@@ -1,6 +1,6 @@
 ---
 title: Erwin
 url: /erwin/
-latitude: 36.1451082
-longitude: -82.41680550000001
+latitude: 36.155
+longitude: -82.408
 ---

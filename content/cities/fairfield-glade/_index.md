@@ -1,6 +1,6 @@
 ---
 title: Fairfield Glade
 url: /fairfield-glade/
-latitude: 
-longitude: 
+latitude: 36.009
+longitude: -84.894
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EasyPawn"
 url: /clarksville/easypawn/
-shop: pawnbroker
+shop: Leiher
 ---

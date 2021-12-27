@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /sevierville/skechers/
-shop: shoes
+shop: Schuhe
 ---

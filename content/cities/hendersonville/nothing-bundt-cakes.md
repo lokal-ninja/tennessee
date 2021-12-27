@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /hendersonville/nothing-bundt-cakes/
-shop: bakery
+shop: Bäckerei
 ---

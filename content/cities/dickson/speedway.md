@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dickson/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

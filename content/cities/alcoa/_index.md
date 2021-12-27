@@ -1,6 +1,6 @@
 ---
 title: Alcoa
 url: /alcoa/
-latitude: 35.7895271
-longitude: -83.9737935
+latitude: 35.773
+longitude: -83.988
 ---

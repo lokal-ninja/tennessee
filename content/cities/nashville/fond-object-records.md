@@ -1,5 +1,5 @@
 ---
 title: "Fond Object Records"
 url: /nashville/fond-object-records/
-shop: music
+shop: Musik
 ---

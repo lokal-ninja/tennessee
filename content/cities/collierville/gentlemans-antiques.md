@@ -1,5 +1,5 @@
 ---
 title: "Gentleman's Antiques"
 url: /collierville/gentlemans-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

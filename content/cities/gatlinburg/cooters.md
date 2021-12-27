@@ -1,5 +1,5 @@
 ---
 title: "Cooter's"
 url: /gatlinburg/cooters/
-shop: gift
+shop: Andenken
 ---

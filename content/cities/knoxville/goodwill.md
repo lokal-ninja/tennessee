@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /knoxville/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

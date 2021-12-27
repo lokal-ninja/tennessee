@@ -1,5 +1,5 @@
 ---
 title: "Pemex"
 url: /memphis/pemex/
-shop: convenience
+shop: Lebensmittel
 ---

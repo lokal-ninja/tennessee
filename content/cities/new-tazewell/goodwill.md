@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /new-tazewell/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

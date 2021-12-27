@@ -1,6 +1,6 @@
 ---
 title: Madison
 url: /madison/
-latitude: 35.605588700000006
-longitude: -88.852119
+latitude: 36.279
+longitude: -86.712
 ---

@@ -1,6 +1,6 @@
 ---
 title: McMinnville
 url: /mcminnville/
-latitude: 35.683404
-longitude: -85.76998160000001
+latitude: 35.7
+longitude: -85.785
 ---

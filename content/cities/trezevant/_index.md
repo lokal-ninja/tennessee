@@ -1,6 +1,6 @@
 ---
 title: Trezevant
 url: /trezevant/
-latitude: 36.011453
-longitude: -88.6228349
+latitude: 36.011
+longitude: -88.623
 ---

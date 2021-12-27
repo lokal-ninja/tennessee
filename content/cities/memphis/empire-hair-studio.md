@@ -1,5 +1,5 @@
 ---
 title: "Empire Hair Studio"
 url: /memphis/empire-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

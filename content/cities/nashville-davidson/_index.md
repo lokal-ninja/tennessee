@@ -1,6 +1,6 @@
 ---
 title: Nashville-Davidson
 url: /nashville-davidson/
-latitude: 
-longitude: 
+latitude: 36.238
+longitude: -86.628
 ---

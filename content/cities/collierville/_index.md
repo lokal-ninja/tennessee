@@ -1,6 +1,6 @@
 ---
 title: Collierville
 url: /collierville/
-latitude: 35.042036
-longitude: -89.6645266
+latitude: 35.025
+longitude: -89.717
 ---

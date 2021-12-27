@@ -1,5 +1,5 @@
 ---
 title: "Accupressure"
 url: /clarksville/accupressure/
-shop: massage
+shop: Massage
 ---

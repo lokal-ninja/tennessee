@@ -1,5 +1,5 @@
 ---
 title: "Columbia Outdoor Power"
 url: /columbia/columbia-outdoor-power/
-shop: shop
+shop: Allgemein
 ---

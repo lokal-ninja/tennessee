@@ -1,6 +1,6 @@
 ---
 title: Bartlett
 url: /bartlett/
-latitude: 35.204532900000004
-longitude: -89.87397530000001
+latitude: 35.208
+longitude: -89.784
 ---

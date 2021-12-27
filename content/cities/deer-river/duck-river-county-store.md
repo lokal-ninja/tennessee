@@ -1,5 +1,5 @@
 ---
 title: "Duck River County Store"
 url: /deer-river/duck-river-county-store/
-shop: convenience
+shop: Lebensmittel
 ---

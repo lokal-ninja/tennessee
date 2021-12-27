@@ -1,6 +1,6 @@
 ---
 title: Oneida
 url: /oneida/
-latitude: 36.4981341
-longitude: -84.5127162
+latitude: 36.513
+longitude: -84.506
 ---

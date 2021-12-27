@@ -1,6 +1,6 @@
 ---
 title: La Follette
 url: /la-follette/
-latitude: 
-longitude: 
+latitude: 36.347
+longitude: -84.159
 ---

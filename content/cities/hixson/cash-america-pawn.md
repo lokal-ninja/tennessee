@@ -1,5 +1,5 @@
 ---
 title: "Cash America Pawn"
 url: /hixson/cash-america-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Walden
 url: /walden/
-latitude: 35.1647933
-longitude: -85.3013483
+latitude: 35.155
+longitude: -85.317
 ---

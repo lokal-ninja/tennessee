@@ -1,6 +1,6 @@
 ---
 title: McCaysville
 url: /mccaysville/
-latitude: 
-longitude: 
+latitude: 34.988
+longitude: -84.369
 ---

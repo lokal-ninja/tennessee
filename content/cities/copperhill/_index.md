@@ -1,6 +1,6 @@
 ---
 title: Copperhill
 url: /copperhill/
-latitude: 34.9891567
-longitude: -84.37009760000001
+latitude: 34.989
+longitude: -84.37
 ---

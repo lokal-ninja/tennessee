@@ -1,6 +1,6 @@
 ---
 title: Jonesborough
 url: /jonesborough/
-latitude: 36.2944928
-longitude: -82.47340890000001
+latitude: 36.302
+longitude: -82.468
 ---
