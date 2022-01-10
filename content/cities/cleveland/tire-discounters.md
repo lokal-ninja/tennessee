@@ -1,5 +1,5 @@
 ---
 title: "Tire Discounters"
 url: /cleveland/tire-discounters/
-shop: Reifen
+shop: tyres
 ---

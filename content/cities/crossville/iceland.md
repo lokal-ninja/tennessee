@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /crossville/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

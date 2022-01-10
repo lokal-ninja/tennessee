@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hixson/target/
-shop: Warenhaus
+shop: department store
 ---

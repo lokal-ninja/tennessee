@@ -1,5 +1,5 @@
 ---
 title: "Mid America Pawn"
 url: /memphis/mid-america-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

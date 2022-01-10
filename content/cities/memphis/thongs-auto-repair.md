@@ -1,5 +1,5 @@
 ---
 title: "Thong's Auto Repair"
 url: /memphis/thongs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

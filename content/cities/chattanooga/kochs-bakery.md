@@ -1,5 +1,5 @@
 ---
 title: "Koch's Bakery"
 url: /chattanooga/kochs-bakery/
-shop: Bäckerei
+shop: bakery
 ---

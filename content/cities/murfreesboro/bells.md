@@ -1,5 +1,5 @@
 ---
 title: "Bell's"
 url: /murfreesboro/bells/
-shop: Schmuck
+shop: jewelry
 ---

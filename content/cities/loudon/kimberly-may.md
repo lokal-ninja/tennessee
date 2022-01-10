@@ -1,5 +1,5 @@
 ---
 title: "Kimberly May"
 url: /loudon/kimberly-may/
-shop: Friseur
+shop: hairdresser
 ---

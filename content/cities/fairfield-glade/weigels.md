@@ -1,5 +1,5 @@
 ---
 title: "Weigel's"
 url: /fairfield-glade/weigels/
-shop: Lebensmittel
+shop: convenience
 ---

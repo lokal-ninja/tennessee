@@ -1,5 +1,5 @@
 ---
 title: "Sprintz Furniture"
 url: /nashville-davidson/sprintz-furniture/
-shop: Möbel
+shop: furniture
 ---

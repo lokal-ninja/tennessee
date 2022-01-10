@@ -1,5 +1,5 @@
 ---
 title: "Cotten Music Center"
 url: /nashville/cotten-music-center/
-shop: Instrumente
+shop: musical instrument
 ---

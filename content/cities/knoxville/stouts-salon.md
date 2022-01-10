@@ -1,5 +1,5 @@
 ---
 title: "Stout’s Salon"
 url: /knoxville/stouts-salon/
-shop: Friseur
+shop: hairdresser
 ---

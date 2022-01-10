@@ -1,5 +1,5 @@
 ---
 title: "USA Self Storage"
 url: /elizabethton/usa-self-storage/
-shop: Mieten
+shop: storage rental
 ---

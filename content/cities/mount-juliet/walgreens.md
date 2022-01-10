@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mount-juliet/walgreens/
-shop: Drogerie
+shop: chemist
 ---

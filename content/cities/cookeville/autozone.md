@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cookeville/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rumble Seat Music"
 url: /nashville/rumble-seat-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flashback Heat"
 url: /johnson-city/flashback-heat/
-shop: Kleidung
+shop: clothes
 ---

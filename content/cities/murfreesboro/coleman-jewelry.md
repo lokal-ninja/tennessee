@@ -1,5 +1,5 @@
 ---
 title: "Coleman Jewelry"
 url: /murfreesboro/coleman-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

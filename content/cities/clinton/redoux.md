@@ -1,5 +1,5 @@
 ---
 title: "Redoux"
 url: /clinton/redoux/
-shop: Antiquitäten
+shop: antiques
 ---

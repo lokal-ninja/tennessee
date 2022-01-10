@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /smyrna/life-storage/
-shop: Mieten
+shop: storage rental
 ---

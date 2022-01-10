@@ -1,5 +1,5 @@
 ---
 title: "Buddy's Home Furnishing"
 url: /chattanooga/buddys-home-furnishing/
-shop: Möbel
+shop: furniture
 ---

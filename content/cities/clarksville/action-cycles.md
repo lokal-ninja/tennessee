@@ -1,5 +1,5 @@
 ---
 title: "Action Cycles"
 url: /clarksville/action-cycles/
-shop: Motorrad
+shop: motorcycle
 ---

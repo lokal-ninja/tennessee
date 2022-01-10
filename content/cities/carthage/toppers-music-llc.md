@@ -1,5 +1,5 @@
 ---
 title: "Topper's Music LLC"
 url: /carthage/toppers-music-llc/
-shop: Instrumente
+shop: musical instrument
 ---

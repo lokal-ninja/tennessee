@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /clarksville/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

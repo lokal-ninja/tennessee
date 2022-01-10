@@ -1,5 +1,5 @@
 ---
 title: "Pepperite"
 url: /memphis/pepperite/
-shop: Kopieren
+shop: copyshop
 ---

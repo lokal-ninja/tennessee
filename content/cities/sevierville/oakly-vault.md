@@ -1,5 +1,5 @@
 ---
 title: "Oakly Vault"
 url: /sevierville/oakly-vault/
-shop: Kleidung
+shop: clothes
 ---

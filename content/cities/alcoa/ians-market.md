@@ -1,5 +1,5 @@
 ---
 title: "Ian's Market"
 url: /alcoa/ians-market/
-shop: Supermarkt
+shop: supermarket
 ---

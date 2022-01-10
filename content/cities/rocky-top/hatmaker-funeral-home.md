@@ -1,5 +1,5 @@
 ---
 title: "Hatmaker Funeral Home"
 url: /rocky-top/hatmaker-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

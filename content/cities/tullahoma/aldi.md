@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /tullahoma/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

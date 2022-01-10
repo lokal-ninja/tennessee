@@ -1,5 +1,5 @@
 ---
 title: "Wedgehill Market"
 url: /nashville/wedgehill-market/
-shop: Lebensmittel
+shop: convenience
 ---

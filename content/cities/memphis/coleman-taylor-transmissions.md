@@ -1,5 +1,5 @@
 ---
 title: "Coleman Taylor Transmissions"
 url: /memphis/coleman-taylor-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

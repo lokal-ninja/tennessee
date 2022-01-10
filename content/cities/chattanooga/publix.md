@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /chattanooga/publix/
-shop: Supermarkt
+shop: supermarket
 ---

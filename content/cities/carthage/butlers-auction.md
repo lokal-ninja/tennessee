@@ -1,5 +1,5 @@
 ---
 title: "Butler's Auction"
 url: /carthage/butlers-auction/
-shop: Gebrauchtwaren
+shop: charity
 ---

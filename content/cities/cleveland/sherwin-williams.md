@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /cleveland/sherwin-williams/
-shop: Farben
+shop: paint
 ---

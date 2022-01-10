@@ -1,5 +1,5 @@
 ---
 title: "Auto Plus"
 url: /cleveland/auto-plus/
-shop: Autoteile
+shop: car parts
 ---

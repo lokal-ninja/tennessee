@@ -1,5 +1,5 @@
 ---
 title: "Bordeaux Foods"
 url: /nashville/bordeaux-foods/
-shop: Supermarkt
+shop: supermarket
 ---

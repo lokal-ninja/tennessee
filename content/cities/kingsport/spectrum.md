@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /kingsport/spectrum/
-shop: Handy
+shop: mobile phone
 ---

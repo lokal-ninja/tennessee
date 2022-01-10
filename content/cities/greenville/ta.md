@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /greenville/ta/
-shop: Lebensmittel
+shop: convenience
 ---

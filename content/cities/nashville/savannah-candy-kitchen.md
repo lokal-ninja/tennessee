@@ -1,5 +1,5 @@
 ---
 title: "Savannah Candy Kitchen"
 url: /nashville/savannah-candy-kitchen/
-shop: Süßwaren
+shop: confectionery
 ---

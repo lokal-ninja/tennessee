@@ -1,5 +1,5 @@
 ---
 title: "US Cellular"
 url: /clinton/us-cellular/
-shop: Handy
+shop: mobile phone
 ---

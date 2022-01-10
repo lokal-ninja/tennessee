@@ -1,5 +1,5 @@
 ---
 title: "Dandelions"
 url: /maryville/dandelions/
-shop: Kramladen
+shop: variety store
 ---

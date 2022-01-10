@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /athens/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

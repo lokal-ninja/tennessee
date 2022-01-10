@@ -1,5 +1,5 @@
 ---
 title: "The Kennel Shop"
 url: /clarksville/the-kennel-shop/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Philanthropy"
 url: /franklin/philanthropy/
-shop: Modehaus
+shop: boutique
 ---

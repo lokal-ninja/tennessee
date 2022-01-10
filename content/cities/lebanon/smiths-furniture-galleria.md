@@ -1,5 +1,5 @@
 ---
 title: "Smiths Furniture Galleria"
 url: /lebanon/smiths-furniture-galleria/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /hixson/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

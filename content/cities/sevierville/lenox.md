@@ -1,5 +1,5 @@
 ---
 title: "Lenox"
 url: /sevierville/lenox/
-shop: Allgemein
+shop: shop
 ---

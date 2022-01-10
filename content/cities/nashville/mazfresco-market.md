@@ -1,5 +1,5 @@
 ---
 title: "Mazfresco Market"
 url: /nashville/mazfresco-market/
-shop: Supermarkt
+shop: supermarket
 ---

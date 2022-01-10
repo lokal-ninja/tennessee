@@ -1,5 +1,5 @@
 ---
 title: "Bass"
 url: /sevierville/bass/
-shop: Allgemein
+shop: shop
 ---

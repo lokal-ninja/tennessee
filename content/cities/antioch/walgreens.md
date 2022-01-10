@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /antioch/walgreens/
-shop: Drogerie
+shop: chemist
 ---

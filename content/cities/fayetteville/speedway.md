@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fayetteville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

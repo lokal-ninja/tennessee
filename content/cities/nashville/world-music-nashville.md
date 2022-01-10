@@ -1,5 +1,5 @@
 ---
 title: "World Music Nashville"
 url: /nashville/world-music-nashville/
-shop: Instrumente
+shop: musical instrument
 ---

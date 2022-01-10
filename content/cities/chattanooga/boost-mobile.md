@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chattanooga/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

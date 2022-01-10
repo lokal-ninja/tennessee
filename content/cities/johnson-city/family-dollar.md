@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /johnson-city/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

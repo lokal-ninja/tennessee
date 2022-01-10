@@ -1,5 +1,5 @@
 ---
 title: "Rocky Top Markets"
 url: /loudon/rocky-top-markets/
-shop: Lebensmittel
+shop: convenience
 ---

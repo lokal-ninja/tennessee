@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /memphis/autozone/
-shop: Autoteile
+shop: car parts
 ---

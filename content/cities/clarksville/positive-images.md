@@ -1,5 +1,5 @@
 ---
 title: "Positive Images"
 url: /clarksville/positive-images/
-shop: Friseur
+shop: hairdresser
 ---

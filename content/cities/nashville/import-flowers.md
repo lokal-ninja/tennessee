@@ -1,5 +1,5 @@
 ---
 title: "Import Flowers"
 url: /nashville/import-flowers/
-shop: Blumen
+shop: florist
 ---

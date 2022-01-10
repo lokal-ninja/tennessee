@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /crossville/garage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elder's Ace Hardware"
 url: /chattanooga/elders-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

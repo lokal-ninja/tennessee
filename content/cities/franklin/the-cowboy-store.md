@@ -1,5 +1,5 @@
 ---
 title: "The Cowboy Store"
 url: /franklin/the-cowboy-store/
-shop: Andenken
+shop: gift
 ---

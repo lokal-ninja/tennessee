@@ -1,5 +1,5 @@
 ---
 title: "Hut 8"
 url: /johnson-city/hut-8/
-shop: Gebrauchtwaren
+shop: charity
 ---

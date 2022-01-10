@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mcminnville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

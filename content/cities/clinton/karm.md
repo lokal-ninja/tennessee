@@ -1,5 +1,5 @@
 ---
 title: "KARM"
 url: /clinton/karm/
-shop: Gebrauchtwaren
+shop: charity
 ---

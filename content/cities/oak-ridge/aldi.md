@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /oak-ridge/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

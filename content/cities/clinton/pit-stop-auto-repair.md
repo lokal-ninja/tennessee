@@ -1,5 +1,5 @@
 ---
 title: "Pit Stop Auto Repair"
 url: /clinton/pit-stop-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

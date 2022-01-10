@@ -1,5 +1,5 @@
 ---
 title: "Rural King"
 url: /clarksville/rural-king/
-shop: Dorfladen
+shop: general
 ---

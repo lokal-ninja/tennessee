@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clarksville/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hop In"
 url: /memphis/hop-in/
-shop: Lebensmittel
+shop: convenience
 ---

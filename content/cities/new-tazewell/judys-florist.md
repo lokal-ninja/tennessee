@@ -1,5 +1,5 @@
 ---
 title: "Judy's Florist"
 url: /new-tazewell/judys-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brooks Brothers"
 url: /sevierville/brooks-brothers/
-shop: Kleidung
+shop: clothes
 ---

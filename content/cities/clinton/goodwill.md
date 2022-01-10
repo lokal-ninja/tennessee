@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /clinton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /clarksville/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

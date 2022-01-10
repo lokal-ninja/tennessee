@@ -1,5 +1,5 @@
 ---
 title: "Moments"
 url: /greeneville/moments/
-shop: Allgemein
+shop: shop
 ---

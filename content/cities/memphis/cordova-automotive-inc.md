@@ -1,5 +1,5 @@
 ---
 title: "Cordova Automotive, Inc."
 url: /memphis/cordova-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

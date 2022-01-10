@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /clinton/hibbett-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Army Supply"
 url: /clarksville/army-supply/
-shop: Leiher
+shop: pawnbroker
 ---

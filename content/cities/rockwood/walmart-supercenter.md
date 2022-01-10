@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /rockwood/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---
