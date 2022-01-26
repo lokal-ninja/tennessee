@@ -1,5 +1,5 @@
 ---
-title: "DOLLAR GENERAL"
+title: "Dollar General"
 url: /chattanooga/dollar-general/
-shop: general
+shop: variety store
 ---
