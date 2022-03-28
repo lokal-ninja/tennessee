@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /new-tazewell/walmart/
-shop: supermarket
+shop: department store
 ---
