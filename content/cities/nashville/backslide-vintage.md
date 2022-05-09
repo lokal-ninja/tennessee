@@ -1,5 +1,5 @@
 ---
 title: "Backslide Vintage"
 url: /nashville/backslide-vintage/
-shop: shop
+shop: charity
 ---
