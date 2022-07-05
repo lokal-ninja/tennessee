@@ -1,6 +1,6 @@
 ---
 title: Kimball
 url: /kimball/
-latitude: 35.04
-longitude: -85.682
+latitude: 35.041
+longitude: -85.679
 ---
