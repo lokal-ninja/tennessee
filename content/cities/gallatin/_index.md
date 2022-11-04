@@ -1,6 +1,6 @@
 ---
 title: Gallatin
 url: /gallatin/
-latitude: 36.343
-longitude: -86.527
+latitude: 36.381
+longitude: -86.443
 ---
