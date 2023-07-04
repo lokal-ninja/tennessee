@@ -1,6 +1,6 @@
 ---
 title: Pigeon Forge
 url: /pigeon-forge/
-latitude: 35.803
-longitude: -83.571
+latitude: 35.816
+longitude: -83.578
 ---
