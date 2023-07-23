@@ -1,5 +1,5 @@
 ---
 title: "Greenbrier Grocery"
-url: /gatlinburg/greenbrier-grocery/
+url: /pittman-center/greenbrier-grocery/
 shop: general
 ---
