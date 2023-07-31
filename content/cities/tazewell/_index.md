@@ -1,6 +1,6 @@
 ---
 title: Tazewell
 url: /tazewell/
-latitude: 36.448
-longitude: -83.576
+latitude: 36.495
+longitude: -83.592
 ---
