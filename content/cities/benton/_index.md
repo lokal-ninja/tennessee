@@ -1,6 +1,6 @@
 ---
 title: Benton
 url: /benton/
-latitude: 35.169
-longitude: -84.656
+latitude: 35.184
+longitude: -84.642
 ---
