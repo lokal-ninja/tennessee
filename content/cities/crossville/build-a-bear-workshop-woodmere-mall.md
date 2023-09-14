@@ -1,5 +1,5 @@
 ---
 title: "Build-A-Bear Workshop"
-url: /crossville/build-a-bear-workshop/
+url: /crossville/build-a-bear-workshop-woodmere-mall/
 shop: toys
 ---

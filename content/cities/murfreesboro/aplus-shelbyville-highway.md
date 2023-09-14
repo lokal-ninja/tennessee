@@ -1,5 +1,5 @@
 ---
 title: "APlus"
-url: /murfreesboro/aplus/
+url: /murfreesboro/aplus-shelbyville-highway/
 shop: convenience
 ---

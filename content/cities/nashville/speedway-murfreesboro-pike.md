@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /nashville/speedway/
+url: /nashville/speedway-murfreesboro-pike/
 shop: convenience
 ---

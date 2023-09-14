@@ -1,5 +1,5 @@
 ---
 title: "Weigel's"
-url: /knoxville/weigels/
+url: /knoxville/weigels-kingston-pike/
 shop: convenience
 ---

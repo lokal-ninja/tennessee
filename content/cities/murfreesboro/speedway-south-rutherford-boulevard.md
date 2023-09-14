@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /murfreesboro/speedway/
+url: /murfreesboro/speedway-south-rutherford-boulevard/
 shop: convenience
 ---

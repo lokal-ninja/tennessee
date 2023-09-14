@@ -1,5 +1,5 @@
 ---
 title: "Git-N-Go"
-url: /clinton/git-n-go/
+url: /clinton/git-n-go-clinch-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /clarksville/speedway/
+url: /clarksville/speedway-tiny-town-road/
 shop: convenience
 ---

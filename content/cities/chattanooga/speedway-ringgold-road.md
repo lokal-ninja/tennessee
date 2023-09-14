@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /chattanooga/speedway/
+url: /chattanooga/speedway-ringgold-road/
 shop: convenience
 ---

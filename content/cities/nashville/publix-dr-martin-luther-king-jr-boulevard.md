@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /nashville/publix/
+url: /nashville/publix-dr-martin-luther-king-jr-boulevard/
 shop: supermarket
 ---

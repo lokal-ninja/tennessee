@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /cookeville/walmart-supercenter/
+url: /cookeville/walmart-supercenter-south-jefferson-avenue/
 shop: supermarket
 ---

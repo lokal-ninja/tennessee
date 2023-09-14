@@ -1,5 +1,5 @@
 ---
 title: "Express Oil Change & Tire Engineers"
-url: /murfreesboro/express-oil-change-and-tire-engineers/
+url: /murfreesboro/express-oil-change-and-tire-engineers-old-fort-parkway/
 shop: tyres
 ---

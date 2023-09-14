@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /memphis/aldi/
+url: /memphis/aldi-austin-peay-highway/
 shop: supermarket
 ---

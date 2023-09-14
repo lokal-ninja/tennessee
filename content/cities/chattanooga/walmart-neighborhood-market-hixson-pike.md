@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /chattanooga/walmart-neighborhood-market/
+url: /chattanooga/walmart-neighborhood-market-hixson-pike/
 shop: supermarket
 ---

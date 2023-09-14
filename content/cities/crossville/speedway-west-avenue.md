@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /crossville/speedway/
+url: /crossville/speedway-west-avenue/
 shop: convenience
 ---

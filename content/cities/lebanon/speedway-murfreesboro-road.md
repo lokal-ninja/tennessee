@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lebanon/speedway/
+url: /lebanon/speedway-murfreesboro-road/
 shop: convenience
 ---

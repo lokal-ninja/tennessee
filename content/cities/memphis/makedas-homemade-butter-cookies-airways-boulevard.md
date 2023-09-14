@@ -1,5 +1,5 @@
 ---
 title: "Makeda’s Homemade Butter Cookies"
-url: /memphis/makedas-homemade-butter-cookies/
+url: /memphis/makedas-homemade-butter-cookies-airways-boulevard/
 shop: pastry
 ---

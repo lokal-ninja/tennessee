@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /murfreesboro/kroger/
+url: /murfreesboro/kroger-west-northfield-boulevard/
 shop: supermarket
 ---
