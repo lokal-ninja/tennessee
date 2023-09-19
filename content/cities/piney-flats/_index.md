@@ -1,6 +1,6 @@
 ---
 title: Piney Flats
 url: /piney-flats/
-latitude: 36.426
-longitude: -82.32
+latitude: 36.425
+longitude: -82.317
 ---
