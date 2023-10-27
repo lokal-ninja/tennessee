@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /murfreesboro/speedway-battalion-way/
+url: /clarksville/speedway-tiny-town-road/
 shop: convenience
 ---
