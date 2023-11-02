@@ -1,6 +1,6 @@
 ---
 title: Maryville
 url: /maryville/
-latitude: 35.715
-longitude: -84.014
+latitude: 35.729
+longitude: -83.997
 ---
