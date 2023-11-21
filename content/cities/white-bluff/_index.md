@@ -1,6 +1,6 @@
 ---
 title: White Bluff
 url: /white-bluff/
-latitude: 36.108
-longitude: -87.219
+latitude: 36.104
+longitude: -87.2
 ---
