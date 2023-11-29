@@ -1,6 +1,6 @@
 ---
 title: Oliver Springs
 url: /oliver-springs/
-latitude: 36.031
-longitude: -84.324
+latitude: 36.037
+longitude: -84.331
 ---
