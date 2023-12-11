@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /memphis/extra-space-storage-country-park-drive/
+url: /memphis/extra-space-storage-union-avenue-2/
 shop: storage rental
 ---
