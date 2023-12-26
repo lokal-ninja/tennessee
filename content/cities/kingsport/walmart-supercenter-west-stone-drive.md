@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /chattanooga/walmart-supercenter-gunbarrel-road/
+url: /kingsport/walmart-supercenter-west-stone-drive/
 shop: supermarket
 ---
