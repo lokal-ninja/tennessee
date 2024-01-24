@@ -2,5 +2,5 @@
 title: Greeneville
 url: /greeneville/
 latitude: 36.163
-longitude: -82.831
+longitude: -82.836
 ---
