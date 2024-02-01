@@ -1,6 +1,6 @@
 ---
 title: Hixson
 url: /hixson/
-latitude: 35.187
-longitude: -85.19
+latitude: 35.138
+longitude: -85.245
 ---
