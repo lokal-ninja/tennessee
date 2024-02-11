@@ -1,6 +1,6 @@
 ---
 title: Tullahoma
 url: /tullahoma/
-latitude: 35.339
-longitude: -86.186
+latitude: 35.385
+longitude: -86.236
 ---

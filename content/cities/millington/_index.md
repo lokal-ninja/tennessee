@@ -1,6 +1,6 @@
 ---
 title: Millington
 url: /millington/
-latitude: 35.359
-longitude: -89.897
+latitude: 35.347
+longitude: -89.907
 ---

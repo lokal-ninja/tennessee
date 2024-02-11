@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /gallatin/aldi/
 shop: supermarket
 ---
