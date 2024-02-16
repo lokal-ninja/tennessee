@@ -1,6 +1,6 @@
 ---
 title: Clarkrange
 url: /clarkrange/
-latitude: 36.189
-longitude: -85.02
+latitude: 36.187
+longitude: -85.022
 ---
