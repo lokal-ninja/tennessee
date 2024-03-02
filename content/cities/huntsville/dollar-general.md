@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /ashland-city/dollar-general-frey-street/
+url: /huntsville/dollar-general/
 shop: variety store
 ---
