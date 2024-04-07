@@ -1,6 +1,6 @@
 ---
 title: Monteagle
 url: /monteagle/
-latitude: 35.24
-longitude: -85.838
+latitude: 35.236
+longitude: -85.854
 ---
