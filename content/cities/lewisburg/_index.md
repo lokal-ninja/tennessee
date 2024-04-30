@@ -1,6 +1,6 @@
 ---
 title: Lewisburg
 url: /lewisburg/
-latitude: 35.462
-longitude: -86.785
+latitude: 35.451
+longitude: -86.796
 ---
