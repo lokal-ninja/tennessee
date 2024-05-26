@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /knoxville/dollar-general-elm-street/
+url: /knoxville/dollar-general-amherst-road/
 shop: variety store
 ---
