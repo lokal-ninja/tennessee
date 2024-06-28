@@ -1,6 +1,6 @@
 ---
 title: Wartburg
 url: /wartburg/
-latitude: 36.102
-longitude: -84.575
+latitude: 36.103
+longitude: -84.592
 ---
