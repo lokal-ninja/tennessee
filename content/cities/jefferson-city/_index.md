@@ -1,6 +1,6 @@
 ---
 title: Jefferson City
 url: /jefferson-city/
-latitude: 36.117
-longitude: -83.49
+latitude: 36.113
+longitude: -83.495
 ---

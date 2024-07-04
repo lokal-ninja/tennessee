@@ -1,6 +1,6 @@
 ---
 title: Ooltewah
 url: /ooltewah/
-latitude: 35.08
-longitude: -85.059
+latitude: 35.059
+longitude: -85.069
 ---
