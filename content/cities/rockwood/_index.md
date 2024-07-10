@@ -1,6 +1,6 @@
 ---
 title: Rockwood
 url: /rockwood/
-latitude: 35.886
-longitude: -84.642
+latitude: 35.887
+longitude: -84.644
 ---
