@@ -1,11 +1,11 @@
-id: 5315598035
-type: node
-latitude: 36.24439
-longitude: -86.76291
+id: 745982185
+type: way
+latitude: 36.24383
+longitude: -86.76366
 postcode: "37207"
 city: Nashville
 street: "Dickerson Pike"
 housenumber: 3458
-phone: "+1-615-873-2222"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4435/nashville-tn/whats-new"
+phone: "+1 615-873-2222"
+opening_hours: "06:00-23:00"
+website: "https://www.walmart.com/store/4435-nashville-tn"
