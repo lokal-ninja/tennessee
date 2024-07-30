@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /hermitage/kroger-lebanon-pike/
+url: /franklin/kroger-mallory-lane/
 shop: supermarket
 ---
