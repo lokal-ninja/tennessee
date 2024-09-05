@@ -1,5 +1,5 @@
 ---
-title: "Hi Road"
+title: "HI Road"
 url: /clarksville/hi-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /hixson/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /clarksville/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

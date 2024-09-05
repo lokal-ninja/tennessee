@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cordova/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Monkey"
 url: /pigeon-forge/chocolate-monkey/
-shop: confectionery
+shop: Süßwaren
 ---

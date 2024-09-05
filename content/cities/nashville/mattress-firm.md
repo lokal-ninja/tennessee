@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /nashville/mattress-firm/
-shop: bed
+shop: Betten
 ---

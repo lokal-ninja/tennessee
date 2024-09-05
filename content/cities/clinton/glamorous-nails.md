@@ -1,5 +1,5 @@
 ---
 title: "Glamorous Nails"
 url: /clinton/glamorous-nails/
-shop: beauty
+shop: Kosmetik
 ---

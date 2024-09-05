@@ -1,5 +1,5 @@
 ---
 title: "Mundy Funeral Home - South  Chapel"
 url: /clarkrange/mundy-funeral-home-south-chapel/
-shop: funeral directors
+shop: Bestattungen
 ---

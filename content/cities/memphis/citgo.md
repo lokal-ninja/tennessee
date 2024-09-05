@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /memphis/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

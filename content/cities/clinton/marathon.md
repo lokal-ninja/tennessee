@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /clinton/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

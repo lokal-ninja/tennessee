@@ -1,5 +1,5 @@
 ---
 title: "Lee's Food Mart"
 url: /oliver-springs/lees-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

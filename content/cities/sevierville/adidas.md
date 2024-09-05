@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /sevierville/adidas/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carvana"
 url: /memphis/carvana/
-shop: car
+shop: Autohaus
 ---

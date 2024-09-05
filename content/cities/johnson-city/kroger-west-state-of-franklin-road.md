@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /johnson-city/kroger-west-state-of-franklin-road/
-shop: supermarket
+shop: Supermarkt
 ---

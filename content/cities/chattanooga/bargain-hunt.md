@@ -1,5 +1,5 @@
 ---
 title: "Bargain Hunt"
 url: /chattanooga/bargain-hunt/
-shop: charity
+shop: Gebrauchtwaren
 ---

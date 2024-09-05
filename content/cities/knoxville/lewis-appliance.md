@@ -1,5 +1,5 @@
 ---
 title: "Lewis Appliance"
 url: /knoxville/lewis-appliance/
-shop: appliance
+shop: Haushaltsgeräte
 ---

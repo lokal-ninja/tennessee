@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /murfreesboro/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

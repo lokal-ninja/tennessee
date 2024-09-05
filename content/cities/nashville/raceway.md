@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /nashville/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

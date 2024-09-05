@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /pigeon-forge/rei/
-shop: outdoor
+shop: Outdoor
 ---

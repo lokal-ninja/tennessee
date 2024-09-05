@@ -1,5 +1,5 @@
 ---
 title: "Mr. Speedy"
 url: /east-ridge/mr-speedy/
-shop: convenience
+shop: Lebensmittel
 ---

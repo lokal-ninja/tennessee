@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hermitage/publix/
-shop: supermarket
+shop: Supermarkt
 ---

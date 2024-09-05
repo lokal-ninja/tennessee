@@ -1,5 +1,5 @@
 ---
 title: "Lionesse Beauty Bar"
 url: /gatlinburg/lionesse-beauty-bar/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tullahoma/petsmart/
-shop: pet
+shop: Tiere
 ---

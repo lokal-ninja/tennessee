@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gallatin/publix/
-shop: supermarket
+shop: Supermarkt
 ---

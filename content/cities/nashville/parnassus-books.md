@@ -1,5 +1,5 @@
 ---
 title: "Parnassus Books"
 url: /nashville/parnassus-books/
-shop: books
+shop: Bücher
 ---

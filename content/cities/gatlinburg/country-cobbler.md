@@ -1,5 +1,5 @@
 ---
 title: "Country Cobbler"
 url: /gatlinburg/country-cobbler/
-shop: leather
+shop: Leder
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /murfreesboro/publix-memorial-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /chattanooga/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

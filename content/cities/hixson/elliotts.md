@@ -1,5 +1,5 @@
 ---
 title: "Elliotts"
 url: /hixson/elliotts/
-shop: shoes
+shop: Schuhe
 ---

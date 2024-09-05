@@ -1,5 +1,5 @@
 ---
 title: "EyeCandy Fragrances"
 url: /memphis/eyecandy-fragrances/
-shop: perfumery
+shop: Parfümerie
 ---

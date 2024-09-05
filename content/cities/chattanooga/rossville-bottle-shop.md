@@ -1,5 +1,5 @@
 ---
 title: "Rossville Bottle Shop"
 url: /chattanooga/rossville-bottle-shop/
-shop: alcohol
+shop: Spirituosen
 ---

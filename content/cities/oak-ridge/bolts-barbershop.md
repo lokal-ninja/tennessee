@@ -1,5 +1,5 @@
 ---
 title: "Bolt's Barbershop"
 url: /oak-ridge/bolts-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /crossville/desigual/
-shop: clothes
+shop: Kleidung
 ---

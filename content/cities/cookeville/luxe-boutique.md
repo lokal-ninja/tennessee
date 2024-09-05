@@ -1,5 +1,5 @@
 ---
 title: "Luxe Boutique"
 url: /cookeville/luxe-boutique/
-shop: clothes
+shop: Kleidung
 ---

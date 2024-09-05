@@ -1,5 +1,5 @@
 ---
 title: "Porsche of Nashville"
 url: /brentwood/porsche-of-nashville/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WestSide Salon"
 url: /cookeville/westside-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /powell/petsmart/
-shop: pet
+shop: Tiere
 ---

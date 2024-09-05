@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /white-house/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

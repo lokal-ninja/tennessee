@@ -1,5 +1,5 @@
 ---
 title: "Alvarez Market"
 url: /cleveland/alvarez-market/
-shop: convenience
+shop: Lebensmittel
 ---

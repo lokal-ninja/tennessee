@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /jefferson-city/walgreens/
-shop: chemist
+shop: Drogerie
 ---

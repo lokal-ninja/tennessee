@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /sevierville/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

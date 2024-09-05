@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hermitage/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

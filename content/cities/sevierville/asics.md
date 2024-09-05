@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /sevierville/asics/
-shop: shoes
+shop: Schuhe
 ---

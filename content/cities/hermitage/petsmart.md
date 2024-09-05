@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /hermitage/petsmart/
-shop: pet
+shop: Tiere
 ---

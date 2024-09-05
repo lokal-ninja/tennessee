@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /manchester/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

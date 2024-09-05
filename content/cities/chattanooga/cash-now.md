@@ -1,5 +1,5 @@
 ---
 title: "Cash Now"
 url: /chattanooga/cash-now/
-shop: pawnbroker
+shop: Leiher
 ---

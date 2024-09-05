@@ -1,5 +1,5 @@
 ---
 title: "KARM Thrift Store"
 url: /oak-ridge/karm-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

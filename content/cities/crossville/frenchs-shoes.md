@@ -1,5 +1,5 @@
 ---
 title: "French's Shoes"
 url: /crossville/frenchs-shoes/
-shop: shoes
+shop: Schuhe
 ---

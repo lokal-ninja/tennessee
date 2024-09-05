@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /brentwood/rei/
-shop: outdoor
+shop: Outdoor
 ---

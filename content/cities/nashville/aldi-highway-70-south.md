@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nashville/aldi-highway-70-south/
-shop: supermarket
+shop: Supermarkt
 ---

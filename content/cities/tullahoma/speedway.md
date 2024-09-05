@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tullahoma/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

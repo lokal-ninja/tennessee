@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tullahoma/publix/
-shop: supermarket
+shop: Supermarkt
 ---

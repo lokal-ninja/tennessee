@@ -1,5 +1,5 @@
 ---
 title: "Weigel's"
 url: /clinton/weigels/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McKay's Knoxville"
 url: /knoxville/mckays-knoxville/
-shop: books
+shop: Bücher
 ---

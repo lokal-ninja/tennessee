@@ -1,5 +1,5 @@
 ---
 title: "I LOVE JEWELRY"
 url: /gatlinburg/i-love-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

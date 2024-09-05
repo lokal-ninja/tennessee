@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /greeneville/publix/
-shop: supermarket
+shop: Supermarkt
 ---

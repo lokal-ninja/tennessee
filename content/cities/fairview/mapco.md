@@ -1,5 +1,5 @@
 ---
 title: "Mapco"
 url: /fairview/mapco/
-shop: convenience
+shop: Lebensmittel
 ---

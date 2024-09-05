@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /ooltewah/publix/
-shop: supermarket
+shop: Supermarkt
 ---

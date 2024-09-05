@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /crab-orchard/dollar-general/
-shop: variety store
+shop: Kramladen
 ---

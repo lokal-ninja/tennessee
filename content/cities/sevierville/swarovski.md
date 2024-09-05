@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /sevierville/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

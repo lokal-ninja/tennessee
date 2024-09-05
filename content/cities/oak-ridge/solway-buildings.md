@@ -1,5 +1,5 @@
 ---
 title: "Solway Buildings"
 url: /oak-ridge/solway-buildings/
-shop: shop
+shop: Allgemein
 ---

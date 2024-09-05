@@ -1,5 +1,5 @@
 ---
 title: "Audi Nashville"
 url: /brentwood/audi-nashville/
-shop: car
+shop: Autohaus
 ---

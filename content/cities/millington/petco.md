@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /millington/petco/
-shop: pet
+shop: Tiere
 ---

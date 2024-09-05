@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /kingsport/shell/
-shop: convenience
+shop: Lebensmittel
 ---

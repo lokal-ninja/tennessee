@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /dickson/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

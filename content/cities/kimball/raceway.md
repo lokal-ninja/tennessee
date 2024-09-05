@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /kimball/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

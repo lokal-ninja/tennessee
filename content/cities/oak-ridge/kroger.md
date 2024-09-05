@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /oak-ridge/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

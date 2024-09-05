@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /sevierville/pink/
-shop: clothes
+shop: Kleidung
 ---

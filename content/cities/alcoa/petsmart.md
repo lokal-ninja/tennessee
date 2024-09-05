@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /alcoa/petsmart/
-shop: pet
+shop: Tiere
 ---

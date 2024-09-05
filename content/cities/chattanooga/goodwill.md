@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /chattanooga/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

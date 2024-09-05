@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /dayton/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

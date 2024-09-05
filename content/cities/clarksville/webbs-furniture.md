@@ -1,5 +1,5 @@
 ---
 title: "Webb's Furniture"
 url: /clarksville/webbs-furniture/
-shop: furniture
+shop: Möbel
 ---

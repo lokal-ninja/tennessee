@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /chattanooga/supermercado/
-shop: supermarket
+shop: Supermarkt
 ---

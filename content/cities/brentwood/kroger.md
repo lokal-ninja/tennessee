@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /brentwood/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

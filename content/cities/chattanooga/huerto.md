@@ -1,5 +1,5 @@
 ---
 title: "Huerto"
 url: /chattanooga/huerto/
-shop: greengrocer
+shop: Gemüse & Obst
 ---
