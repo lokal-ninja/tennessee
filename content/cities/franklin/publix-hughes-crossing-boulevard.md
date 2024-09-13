@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /franklin/publix-hughes-crossing-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

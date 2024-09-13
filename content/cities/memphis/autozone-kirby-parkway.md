@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /memphis/autozone-kirby-parkway/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sykes Funeral Home"
 url: /clarksville/sykes-funeral-home-franklin-street/
-shop: Bestattungen
+shop: funeral directors
 ---

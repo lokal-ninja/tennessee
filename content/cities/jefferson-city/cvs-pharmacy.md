@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /jefferson-city/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

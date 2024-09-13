@@ -1,5 +1,5 @@
 ---
 title: "Darlin'"
 url: /nashville/darlin/
-shop: Kleidung
+shop: clothes
 ---

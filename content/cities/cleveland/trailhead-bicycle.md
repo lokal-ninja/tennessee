@@ -1,5 +1,5 @@
 ---
 title: "Trailhead Bicycle"
 url: /cleveland/trailhead-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

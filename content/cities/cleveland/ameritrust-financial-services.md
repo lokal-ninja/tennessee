@@ -1,5 +1,5 @@
 ---
 title: "Ameritrust Financial Services"
 url: /cleveland/ameritrust-financial-services/
-shop: Leiher
+shop: pawnbroker
 ---

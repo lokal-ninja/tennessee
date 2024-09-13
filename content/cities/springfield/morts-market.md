@@ -1,5 +1,5 @@
 ---
 title: "Mort's Market"
 url: /springfield/morts-market/
-shop: Lebensmittel
+shop: convenience
 ---

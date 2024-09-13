@@ -1,5 +1,5 @@
 ---
 title: "PFS Market"
 url: /baxter/pfs-market/
-shop: Lebensmittel
+shop: convenience
 ---

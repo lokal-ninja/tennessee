@@ -1,5 +1,5 @@
 ---
 title: "UPS Store Nashville - Bellevue"
 url: /nashville/ups-store-nashville-bellevue/
-shop: Kopieren
+shop: copyshop
 ---

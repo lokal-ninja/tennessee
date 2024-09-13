@@ -1,5 +1,5 @@
 ---
 title: "Baxter Pharmacy"
 url: /baxter/baxter-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

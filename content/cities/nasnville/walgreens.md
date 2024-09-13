@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /nasnville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

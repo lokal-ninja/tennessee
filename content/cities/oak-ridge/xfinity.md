@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /oak-ridge/xfinity/
-shop: Handy
+shop: mobile phone
 ---

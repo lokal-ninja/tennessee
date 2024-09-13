@@ -1,5 +1,5 @@
 ---
 title: "Warren County Apparel"
 url: /mcminnville/warren-county-apparel/
-shop: Pokal
+shop: trophy
 ---

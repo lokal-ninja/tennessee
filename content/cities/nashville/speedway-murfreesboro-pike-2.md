@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /nashville/speedway-murfreesboro-pike-2/
-shop: Lebensmittel
+shop: convenience
 ---

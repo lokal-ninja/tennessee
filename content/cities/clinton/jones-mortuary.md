@@ -1,5 +1,5 @@
 ---
 title: "Jones Mortuary"
 url: /clinton/jones-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

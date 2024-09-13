@@ -1,5 +1,5 @@
 ---
 title: "Clinton Muffler"
 url: /clinton/clinton-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /hermitage/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

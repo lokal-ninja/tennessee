@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /sneedville/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

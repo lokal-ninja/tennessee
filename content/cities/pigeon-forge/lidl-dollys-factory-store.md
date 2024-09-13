@@ -1,5 +1,5 @@
 ---
 title: "Lid'l Dolly's Factory Store"
 url: /pigeon-forge/lidl-dollys-factory-store/
-shop: Möbel
+shop: furniture
 ---

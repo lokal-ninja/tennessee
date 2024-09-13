@@ -1,5 +1,5 @@
 ---
 title: "Trace Bikes"
 url: /nashville/trace-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

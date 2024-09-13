@@ -1,5 +1,5 @@
 ---
 title: "Lily Jane"
 url: /columbia/lily-jane/
-shop: Allgemein
+shop: shop
 ---

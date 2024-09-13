@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /knoxville/autozone-clinton-highway/
-shop: Autoteile
+shop: car parts
 ---

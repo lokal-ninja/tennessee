@@ -1,5 +1,5 @@
 ---
 title: "Baxter's Orchard"
 url: /cosby/baxters-orchard/
-shop: Hofladen
+shop: farm
 ---

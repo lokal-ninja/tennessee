@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /sevierville/loft/
-shop: Kleidung
+shop: clothes
 ---

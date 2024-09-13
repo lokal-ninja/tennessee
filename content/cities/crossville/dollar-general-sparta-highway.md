@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /crossville/dollar-general-sparta-highway/
-shop: Kramladen
+shop: variety store
 ---

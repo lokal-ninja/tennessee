@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /cordova/kroger-north-houston-levee-road/
-shop: Supermarkt
+shop: supermarket
 ---

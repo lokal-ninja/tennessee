@@ -1,5 +1,5 @@
 ---
 title: "Big Time Boots"
 url: /nashville/big-time-boots/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /chattanooga/francescas/
-shop: Kleidung
+shop: clothes
 ---

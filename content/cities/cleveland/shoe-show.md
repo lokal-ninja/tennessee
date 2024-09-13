@@ -1,5 +1,5 @@
 ---
 title: "Shoe Show"
 url: /cleveland/shoe-show/
-shop: Schuhe
+shop: shoes
 ---

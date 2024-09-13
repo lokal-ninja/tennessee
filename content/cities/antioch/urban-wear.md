@@ -1,5 +1,5 @@
 ---
 title: "Urban Wear"
 url: /antioch/urban-wear/
-shop: Kleidung
+shop: clothes
 ---

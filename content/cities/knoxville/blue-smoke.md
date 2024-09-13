@@ -1,5 +1,5 @@
 ---
 title: "Blue Smoke"
 url: /knoxville/blue-smoke/
-shop: Tabak
+shop: tobacco
 ---

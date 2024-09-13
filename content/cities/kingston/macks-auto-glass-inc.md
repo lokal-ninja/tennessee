@@ -1,5 +1,5 @@
 ---
 title: "Mack's Auto Glass, Inc."
 url: /kingston/macks-auto-glass-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

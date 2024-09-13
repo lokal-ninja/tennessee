@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /white-bluff/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

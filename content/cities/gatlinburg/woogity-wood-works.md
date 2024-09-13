@@ -1,5 +1,5 @@
 ---
 title: "Woogity Wood Works"
 url: /gatlinburg/woogity-wood-works/
-shop: Dorfladen
+shop: general
 ---

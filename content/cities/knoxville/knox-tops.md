@@ -1,5 +1,5 @@
 ---
 title: "Knox Tops"
 url: /knoxville/knox-tops/
-shop: Autoteile
+shop: car parts
 ---

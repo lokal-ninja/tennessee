@@ -1,5 +1,5 @@
 ---
 title: "Baskin Robbins Ice Cream"
 url: /chattanooga/baskin-robbins-ice-cream/
-shop: Eisprodukte
+shop: ice cream
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Times Game House"
 url: /knoxville/good-times-game-house/
-shop: Spiele
+shop: games
 ---

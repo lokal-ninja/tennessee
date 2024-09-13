@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cleveland/aldi-mcgrady-drive-southeast/
-shop: Supermarkt
+shop: supermarket
 ---

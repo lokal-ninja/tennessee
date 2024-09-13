@@ -1,5 +1,5 @@
 ---
 title: "HouseLens"
 url: /nashville/houselens/
-shop: Allgemein
+shop: shop
 ---

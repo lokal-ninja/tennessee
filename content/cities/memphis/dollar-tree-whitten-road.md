@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /memphis/dollar-tree-whitten-road/
-shop: Kramladen
+shop: variety store
 ---

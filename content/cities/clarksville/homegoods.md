@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /clarksville/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

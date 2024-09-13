@@ -1,5 +1,5 @@
 ---
 title: "Plum Maternity"
 url: /clarksville/plum-maternity/
-shop: Kleidung
+shop: clothes
 ---

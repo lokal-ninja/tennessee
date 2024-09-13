@@ -1,5 +1,5 @@
 ---
 title: "Kim's Nails"
 url: /memphis/kims-nails/
-shop: Kosmetik
+shop: beauty
 ---

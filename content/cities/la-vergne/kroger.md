@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /la-vergne/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

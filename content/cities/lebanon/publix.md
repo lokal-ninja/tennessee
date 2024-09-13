@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lebanon/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gallatin/publix-maharris-drive/
-shop: Supermarkt
+shop: supermarket
 ---

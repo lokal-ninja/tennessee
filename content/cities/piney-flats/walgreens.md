@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /piney-flats/walgreens/
-shop: Drogerie
+shop: chemist
 ---

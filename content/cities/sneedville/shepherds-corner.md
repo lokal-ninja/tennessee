@@ -1,5 +1,5 @@
 ---
 title: "Shepherd's Corner"
 url: /sneedville/shepherds-corner/
-shop: Bücher
+shop: books
 ---

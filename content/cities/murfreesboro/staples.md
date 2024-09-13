@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /murfreesboro/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /knoxville/kroger-north-broadway/
-shop: Supermarkt
+shop: supermarket
 ---

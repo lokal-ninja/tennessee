@@ -1,5 +1,5 @@
 ---
 title: "Rouge"
 url: /johnson-city/rouge/
-shop: Friseur
+shop: hairdresser
 ---

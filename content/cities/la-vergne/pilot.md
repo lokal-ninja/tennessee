@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /la-vergne/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

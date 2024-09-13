@@ -1,5 +1,5 @@
 ---
 title: "Doe Valley Store-All"
 url: /mountain-city/doe-valley-store-all/
-shop: Mieten
+shop: storage rental
 ---

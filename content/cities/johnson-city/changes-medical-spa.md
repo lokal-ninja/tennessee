@@ -1,5 +1,5 @@
 ---
 title: "Changes Medical Spa"
 url: /johnson-city/changes-medical-spa/
-shop: Kosmetik
+shop: beauty
 ---

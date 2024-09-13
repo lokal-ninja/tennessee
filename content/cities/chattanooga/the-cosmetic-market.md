@@ -1,5 +1,5 @@
 ---
 title: "The Cosmetic Market"
 url: /chattanooga/the-cosmetic-market/
-shop: Andenken
+shop: gift
 ---

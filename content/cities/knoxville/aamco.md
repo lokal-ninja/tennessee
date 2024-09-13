@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /knoxville/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /clarksville/murphy-express/
-shop: Kiosk
+shop: kiosk
 ---

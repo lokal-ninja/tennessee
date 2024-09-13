@@ -1,5 +1,5 @@
 ---
 title: "Electronic Express"
 url: /gallatin/electronic-express/
-shop: Elektronik
+shop: electronics
 ---

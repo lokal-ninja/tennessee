@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /murfreesboro/kroger-old-fort-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

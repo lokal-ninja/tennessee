@@ -1,5 +1,5 @@
 ---
 title: "Cricket"
 url: /cleveland/cricket/
-shop: Handy
+shop: mobile phone
 ---

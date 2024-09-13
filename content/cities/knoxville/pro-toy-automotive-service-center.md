@@ -1,5 +1,5 @@
 ---
 title: "Pro Toy Automotive Service Center"
 url: /knoxville/pro-toy-automotive-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

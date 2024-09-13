@@ -1,5 +1,5 @@
 ---
 title: "Pedaltown Bicycle Company"
 url: /memphis/pedaltown-bicycle-company/
-shop: Fahrrad
+shop: bicycle
 ---

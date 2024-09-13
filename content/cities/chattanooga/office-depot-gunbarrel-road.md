@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /chattanooga/office-depot-gunbarrel-road/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nova Flow Cafe"
 url: /clarksville/nova-flow-cafe/
-shop: Kaffee
+shop: coffee
 ---

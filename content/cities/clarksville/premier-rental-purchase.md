@@ -1,5 +1,5 @@
 ---
 title: "Premier Rental Purchase"
 url: /clarksville/premier-rental-purchase/
-shop: Möbel
+shop: furniture
 ---

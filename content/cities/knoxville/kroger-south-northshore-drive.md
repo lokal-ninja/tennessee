@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /knoxville/kroger-south-northshore-drive/
-shop: Supermarkt
+shop: supermarket
 ---

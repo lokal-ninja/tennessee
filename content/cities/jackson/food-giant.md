@@ -1,5 +1,5 @@
 ---
 title: "Food Giant"
 url: /jackson/food-giant/
-shop: Lebensmittel
+shop: convenience
 ---

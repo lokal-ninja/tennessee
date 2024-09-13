@@ -1,5 +1,5 @@
 ---
 title: "Knoxville Wholesale Furniture"
 url: /knoxville/knoxville-wholesale-furniture/
-shop: Möbel
+shop: furniture
 ---

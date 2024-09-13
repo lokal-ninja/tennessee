@@ -1,5 +1,5 @@
 ---
 title: "Prichard Foods"
 url: /alexandria/prichard-foods/
-shop: Supermarkt
+shop: supermarket
 ---

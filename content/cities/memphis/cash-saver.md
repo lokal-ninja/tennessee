@@ -1,5 +1,5 @@
 ---
 title: "Cash Saver"
 url: /memphis/cash-saver/
-shop: Supermarkt
+shop: supermarket
 ---

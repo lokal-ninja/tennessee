@@ -1,5 +1,5 @@
 ---
 title: "Twice Daily"
 url: /kimball/twice-daily/
-shop: Lebensmittel
+shop: convenience
 ---

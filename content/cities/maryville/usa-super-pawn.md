@@ -1,5 +1,5 @@
 ---
 title: "USA Super Pawn"
 url: /maryville/usa-super-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

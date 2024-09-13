@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /sevierville/jared/
-shop: Schmuck
+shop: jewelry
 ---

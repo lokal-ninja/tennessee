@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /oak-ridge/belk/
-shop: Warenhaus
+shop: department store
 ---

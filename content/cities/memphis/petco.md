@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /memphis/petco/
-shop: Tiere
+shop: pet
 ---

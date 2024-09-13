@@ -1,5 +1,5 @@
 ---
 title: "West Towne Square"
 url: /elizabethton/west-towne-square/
-shop: Einkaufszentrum
+shop: mall
 ---

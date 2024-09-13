@@ -1,5 +1,5 @@
 ---
 title: "J H Repair Shop"
 url: /cleveland/j-h-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

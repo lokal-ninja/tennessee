@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /sevierville/big-lots/
-shop: Warenhaus
+shop: department store
 ---

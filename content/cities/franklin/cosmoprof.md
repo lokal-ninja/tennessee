@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /franklin/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

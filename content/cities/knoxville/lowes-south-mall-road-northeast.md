@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /knoxville/lowes-south-mall-road-northeast/
-shop: Baumarkt
+shop: doityourself
 ---

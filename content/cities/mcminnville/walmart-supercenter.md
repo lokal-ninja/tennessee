@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mcminnville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

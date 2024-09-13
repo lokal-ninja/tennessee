@@ -1,5 +1,5 @@
 ---
 title: "Fischer Evans"
 url: /chattanooga/fischer-evans/
-shop: Schmuck
+shop: jewelry
 ---

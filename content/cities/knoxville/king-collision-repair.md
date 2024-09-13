@@ -1,5 +1,5 @@
 ---
 title: "King Collision Repair"
 url: /knoxville/king-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

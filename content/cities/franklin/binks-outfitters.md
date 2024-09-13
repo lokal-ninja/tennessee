@@ -1,5 +1,5 @@
 ---
 title: "Bink's Outfitters"
 url: /franklin/binks-outfitters/
-shop: Kleidung
+shop: clothes
 ---

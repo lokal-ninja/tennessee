@@ -1,5 +1,5 @@
 ---
 title: "Superior Transmission"
 url: /cleveland/superior-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

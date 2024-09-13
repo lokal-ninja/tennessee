@@ -1,5 +1,5 @@
 ---
 title: "East Tennessee Auto Outlet"
 url: /athens/east-tennessee-auto-outlet/
-shop: Autohaus
+shop: car
 ---

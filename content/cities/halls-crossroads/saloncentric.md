@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /halls-crossroads/saloncentric/
-shop: Friseur
+shop: hairdresser
 ---

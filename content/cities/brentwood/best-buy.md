@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /brentwood/best-buy/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OshKosh B'gosh"
 url: /hendersonville/oshkosh-bgosh/
-shop: Kleidung
+shop: clothes
 ---

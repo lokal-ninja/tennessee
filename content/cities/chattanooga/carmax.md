@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /chattanooga/carmax/
-shop: Autohaus
+shop: car
 ---

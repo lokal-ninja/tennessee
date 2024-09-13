@@ -1,5 +1,5 @@
 ---
-title: "MAPCO"
+title: "Mapco"
 url: /old-fort/mapco/
-shop: Lebensmittel
+shop: convenience
 ---

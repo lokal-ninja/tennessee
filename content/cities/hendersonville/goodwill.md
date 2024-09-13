@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hendersonville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

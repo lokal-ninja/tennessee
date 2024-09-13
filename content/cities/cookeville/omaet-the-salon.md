@@ -1,5 +1,5 @@
 ---
 title: "OMAET The Salon"
 url: /cookeville/omaet-the-salon/
-shop: Kosmetik
+shop: beauty
 ---

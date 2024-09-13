@@ -1,5 +1,5 @@
 ---
 title: "Mercado Chapalita"
 url: /clarksville/mercado-chapalita/
-shop: Supermarkt
+shop: supermarket
 ---

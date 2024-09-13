@@ -1,5 +1,5 @@
 ---
 title: "Breadbox"
 url: /knoxville/breadbox/
-shop: Lebensmittel
+shop: convenience
 ---

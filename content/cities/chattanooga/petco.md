@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /chattanooga/petco/
-shop: Tiere
+shop: pet
 ---

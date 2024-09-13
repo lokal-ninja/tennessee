@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /knoxville/kroger-chapman-highway/
-shop: Supermarkt
+shop: supermarket
 ---

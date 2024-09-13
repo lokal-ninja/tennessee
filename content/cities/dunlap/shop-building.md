@@ -1,5 +1,5 @@
 ---
 title: "Shop Building"
 url: /dunlap/shop-building/
-shop: Allgemein
+shop: shop
 ---

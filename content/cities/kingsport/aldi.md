@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kingsport/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

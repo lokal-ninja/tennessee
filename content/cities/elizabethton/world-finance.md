@@ -1,5 +1,5 @@
 ---
 title: "World Finance"
 url: /elizabethton/world-finance/
-shop: Leiher
+shop: pawnbroker
 ---

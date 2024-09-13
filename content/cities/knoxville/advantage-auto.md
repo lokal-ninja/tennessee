@@ -1,5 +1,5 @@
 ---
 title: "Advantage Auto"
 url: /knoxville/advantage-auto/
-shop: Autohaus
+shop: car
 ---

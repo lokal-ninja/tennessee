@@ -1,5 +1,5 @@
 ---
 title: "Jay's Auto Repair"
 url: /clarksville/jays-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

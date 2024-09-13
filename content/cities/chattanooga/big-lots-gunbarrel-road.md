@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /chattanooga/big-lots-gunbarrel-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /nashville/ross-sawyer-brown-road/
-shop: Warenhaus
+shop: department store
 ---

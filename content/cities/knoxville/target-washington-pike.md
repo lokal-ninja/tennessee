@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /knoxville/target-washington-pike/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Luxury Pool Design"
 url: /knoxville/american-luxury-pool-design/
-shop: Pool
+shop: swimming pool
 ---

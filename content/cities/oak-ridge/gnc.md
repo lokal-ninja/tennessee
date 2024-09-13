@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /oak-ridge/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

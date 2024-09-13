@@ -1,5 +1,5 @@
 ---
 title: "Mattress King"
 url: /hendersonville/mattress-king/
-shop: Betten
+shop: bed
 ---

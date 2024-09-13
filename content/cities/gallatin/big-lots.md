@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /gallatin/big-lots/
-shop: Warenhaus
+shop: department store
 ---

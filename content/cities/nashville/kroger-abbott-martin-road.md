@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /nashville/kroger-abbott-martin-road/
-shop: Supermarkt
+shop: supermarket
 ---

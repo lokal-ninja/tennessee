@@ -1,5 +1,5 @@
 ---
 title: "Hempsterville"
 url: /nashville/hempsterville/
-shop: Bioladen
+shop: health food
 ---

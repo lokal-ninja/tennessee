@@ -1,5 +1,5 @@
 ---
 title: "United Grocery Outlet"
 url: /new-tazewell/united-grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

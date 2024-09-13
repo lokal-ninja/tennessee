@@ -1,5 +1,5 @@
 ---
 title: "Reagan Terrace Mall"
 url: /gatlinburg/reagan-terrace-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

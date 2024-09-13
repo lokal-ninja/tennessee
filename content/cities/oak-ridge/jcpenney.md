@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /oak-ridge/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /baxter/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

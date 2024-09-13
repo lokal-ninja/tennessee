@@ -1,5 +1,5 @@
 ---
 title: "Merry Blu Boutique"
 url: /lebanon/merry-blu-boutique/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /chattanooga/dsw/
-shop: Schuhe
+shop: shoes
 ---

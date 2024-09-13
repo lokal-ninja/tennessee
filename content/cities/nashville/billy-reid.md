@@ -1,5 +1,5 @@
 ---
 title: "Billy Reid"
 url: /nashville/billy-reid/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dodge's Pizza"
 url: /clarksville/dodges-pizza/
-shop: Lebensmittel
+shop: convenience
 ---

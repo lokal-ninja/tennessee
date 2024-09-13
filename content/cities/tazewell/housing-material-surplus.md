@@ -1,5 +1,5 @@
 ---
 title: "Housing Material Surplus"
 url: /tazewell/housing-material-surplus/
-shop: Großhandel
+shop: wholesale
 ---

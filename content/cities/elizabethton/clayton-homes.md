@@ -1,5 +1,5 @@
 ---
 title: "Clayton Homes"
 url: /elizabethton/clayton-homes/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /chattanooga/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

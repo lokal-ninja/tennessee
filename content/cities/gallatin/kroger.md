@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /gallatin/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

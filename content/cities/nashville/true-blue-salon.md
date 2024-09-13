@@ -1,5 +1,5 @@
 ---
 title: "True Blue Salon"
 url: /nashville/true-blue-salon/
-shop: Kosmetik
+shop: beauty
 ---

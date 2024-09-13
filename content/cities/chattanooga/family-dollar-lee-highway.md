@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /chattanooga/family-dollar-lee-highway/
-shop: Kramladen
+shop: variety store
 ---

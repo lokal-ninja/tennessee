@@ -1,5 +1,5 @@
 ---
 title: "O.K. Barber Shop"
 url: /cleveland/o-k-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

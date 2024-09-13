@@ -1,5 +1,5 @@
 ---
 title: "Beauty Plus"
 url: /nashville/beauty-plus/
-shop: Kosmetik
+shop: beauty
 ---

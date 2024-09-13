@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /knoxville/publix-parkside-drive/
-shop: Supermarkt
+shop: supermarket
 ---

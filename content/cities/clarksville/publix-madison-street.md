@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /clarksville/publix-madison-street/
-shop: Supermarkt
+shop: supermarket
 ---

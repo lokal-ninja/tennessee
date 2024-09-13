@@ -1,5 +1,5 @@
 ---
 title: "David Hall Automotive"
 url: /whitwell/david-hall-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

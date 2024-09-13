@@ -1,5 +1,5 @@
 ---
 title: "JL's Computers"
 url: /jacksboro/jls-computers/
-shop: Computer
+shop: computer
 ---

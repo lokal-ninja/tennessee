@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /kingsport/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simply Southern"
 url: /livingston/simply-southern/
-shop: Kleidung
+shop: clothes
 ---

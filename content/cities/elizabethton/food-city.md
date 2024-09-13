@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /elizabethton/food-city/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /clarksville/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

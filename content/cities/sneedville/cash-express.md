@@ -1,5 +1,5 @@
 ---
 title: "Cash Express"
 url: /sneedville/cash-express/
-shop: Leiher
+shop: pawnbroker
 ---

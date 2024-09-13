@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /brentwood/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waves Inc."
 url: /knoxville/waves-inc/
-shop: Hifi
+shop: hifi
 ---

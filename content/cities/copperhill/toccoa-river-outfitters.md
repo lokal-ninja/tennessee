@@ -1,5 +1,5 @@
 ---
 title: "Toccoa River Outfitters"
 url: /copperhill/toccoa-river-outfitters/
-shop: Angeln
+shop: fishing
 ---

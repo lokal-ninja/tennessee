@@ -1,5 +1,5 @@
 ---
 title: "Peed Family"
 url: /clarksville/peed-family/
-shop: Autowerkstatt
+shop: car repair
 ---

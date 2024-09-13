@@ -1,5 +1,5 @@
 ---
 title: "Brady's Classic Barbershop"
 url: /columbia/bradys-classic-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

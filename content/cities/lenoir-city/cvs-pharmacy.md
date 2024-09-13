@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /lenoir-city/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

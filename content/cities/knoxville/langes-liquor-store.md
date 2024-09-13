@@ -1,5 +1,5 @@
 ---
 title: "Lange's Liquor Store"
 url: /knoxville/langes-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

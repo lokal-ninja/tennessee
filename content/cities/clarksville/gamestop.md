@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /clarksville/gamestop/
-shop: Videospiele
+shop: video games
 ---

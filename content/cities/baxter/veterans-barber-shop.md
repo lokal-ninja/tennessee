@@ -1,5 +1,5 @@
 ---
 title: "Veterans Barber Shop"
 url: /baxter/veterans-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

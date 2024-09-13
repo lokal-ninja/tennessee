@@ -1,5 +1,5 @@
 ---
 title: "FreeService Tire and Auto Center"
 url: /oak-ridge/freeservice-tire-and-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /chattanooga/dollar-general-east-23rd-street/
-shop: Kramladen
+shop: variety store
 ---

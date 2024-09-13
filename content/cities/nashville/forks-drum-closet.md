@@ -1,5 +1,5 @@
 ---
 title: "Fork's Drum Closet"
 url: /nashville/forks-drum-closet/
-shop: Instrumente
+shop: musical instrument
 ---

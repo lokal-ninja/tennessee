@@ -1,5 +1,5 @@
 ---
 title: "Azlinn Hope"
 url: /johnson-city/azlinn-hope/
-shop: Kleidung
+shop: clothes
 ---

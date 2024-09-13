@@ -1,5 +1,5 @@
 ---
 title: "Byrd's Famous Cookies - Gatlinburg, TN"
 url: /gatlinburg/byrds-famous-cookies-gatlinburg-tn/
-shop: Süßwaren
+shop: confectionery
 ---

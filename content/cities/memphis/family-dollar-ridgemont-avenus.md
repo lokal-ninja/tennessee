@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /memphis/family-dollar-ridgemont-avenus/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /memphis/firestone-whitten-road/
-shop: Autowerkstatt
+shop: car repair
 ---

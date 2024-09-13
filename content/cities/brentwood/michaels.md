@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brentwood/michaels/
-shop: Basteln
+shop: craft
 ---

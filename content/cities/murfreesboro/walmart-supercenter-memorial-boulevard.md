@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /murfreesboro/walmart-supercenter-memorial-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

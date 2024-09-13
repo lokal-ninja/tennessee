@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /oak-ridge/bealls/
-shop: Warenhaus
+shop: department store
 ---

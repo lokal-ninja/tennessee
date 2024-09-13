@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /oak-ridge/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /cleveland/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

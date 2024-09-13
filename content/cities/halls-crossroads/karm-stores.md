@@ -1,5 +1,5 @@
 ---
 title: "KARM Stores"
 url: /halls-crossroads/karm-stores/
-shop: Gebrauchtwaren
+shop: charity
 ---

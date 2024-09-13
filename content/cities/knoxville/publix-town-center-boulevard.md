@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /knoxville/publix-town-center-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

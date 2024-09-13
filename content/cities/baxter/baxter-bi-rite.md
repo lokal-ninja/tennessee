@@ -1,5 +1,5 @@
 ---
 title: "Baxter Bi-Rite"
 url: /baxter/baxter-bi-rite/
-shop: Supermarkt
+shop: supermarket
 ---

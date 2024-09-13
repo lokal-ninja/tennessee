@@ -1,5 +1,5 @@
 ---
 title: "Fresh N' Low"
 url: /georgetown/fresh-n-low/
-shop: Supermarkt
+shop: supermarket
 ---

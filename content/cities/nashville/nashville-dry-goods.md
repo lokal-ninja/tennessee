@@ -1,5 +1,5 @@
 ---
 title: "Nashville Dry Goods"
 url: /nashville/nashville-dry-goods/
-shop: Kleidung
+shop: clothes
 ---

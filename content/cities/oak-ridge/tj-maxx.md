@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /oak-ridge/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

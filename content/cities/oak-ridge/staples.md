@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /oak-ridge/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

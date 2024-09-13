@@ -1,5 +1,5 @@
 ---
 title: "Broadway Boutique Mall"
 url: /cookeville/broadway-boutique-mall/
-shop: Andenken
+shop: gift
 ---

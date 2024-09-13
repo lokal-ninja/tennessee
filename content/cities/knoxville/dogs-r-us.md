@@ -1,5 +1,5 @@
 ---
 title: "Dogs R Us"
 url: /knoxville/dogs-r-us/
-shop: Tiersalon
+shop: pet grooming
 ---

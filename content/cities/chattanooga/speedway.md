@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chattanooga/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DG Market"
 url: /lyles/dg-market/
-shop: Supermarkt
+shop: supermarket
 ---

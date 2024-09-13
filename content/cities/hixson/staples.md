@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hixson/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

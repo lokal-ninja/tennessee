@@ -1,5 +1,5 @@
 ---
 title: "Joe's Kwik Mart"
 url: /la-vergne/joes-kwik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

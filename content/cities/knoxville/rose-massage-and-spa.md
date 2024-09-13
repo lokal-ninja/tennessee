@@ -1,5 +1,5 @@
 ---
 title: "Rose Massage And Spa"
 url: /knoxville/rose-massage-and-spa/
-shop: Massage
+shop: massage
 ---

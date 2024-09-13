@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /brentwood/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

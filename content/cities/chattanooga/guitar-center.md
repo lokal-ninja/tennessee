@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /chattanooga/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

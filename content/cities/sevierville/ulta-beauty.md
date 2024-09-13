@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /sevierville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

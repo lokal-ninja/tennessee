@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /chattanooga/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /crossville/autozone/
-shop: Autoteile
+shop: car parts
 ---

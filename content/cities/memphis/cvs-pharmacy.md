@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /memphis/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

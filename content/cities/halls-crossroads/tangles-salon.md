@@ -1,5 +1,5 @@
 ---
 title: "Tangles Salon"
 url: /halls-crossroads/tangles-salon/
-shop: Friseur
+shop: hairdresser
 ---

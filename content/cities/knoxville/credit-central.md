@@ -1,5 +1,5 @@
 ---
 title: "Credit Central"
 url: /knoxville/credit-central/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /memphis/kroger-frayser-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

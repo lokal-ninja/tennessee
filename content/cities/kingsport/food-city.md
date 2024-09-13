@@ -1,5 +1,5 @@
 ---
 title: "Food City"
 url: /kingsport/food-city/
-shop: Supermarkt
+shop: supermarket
 ---

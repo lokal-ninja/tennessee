@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /fairview/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob's Garage"
 url: /new-tazewell/bobs-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

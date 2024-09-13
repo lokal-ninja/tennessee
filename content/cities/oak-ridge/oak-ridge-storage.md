@@ -1,5 +1,5 @@
 ---
 title: "Oak Ridge Storage"
 url: /oak-ridge/oak-ridge-storage/
-shop: Mieten
+shop: storage rental
 ---

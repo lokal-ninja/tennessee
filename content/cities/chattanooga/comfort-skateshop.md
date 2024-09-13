@@ -1,5 +1,5 @@
 ---
 title: "Comfort Skateshop"
 url: /chattanooga/comfort-skateshop/
-shop: Sport
+shop: sports
 ---

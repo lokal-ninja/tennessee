@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /brentwood/kroger-nolensville-road/
-shop: Supermarkt
+shop: supermarket
 ---

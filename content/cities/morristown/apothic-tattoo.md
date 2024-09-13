@@ -1,5 +1,5 @@
 ---
 title: "Apothic Tattoo"
 url: /morristown/apothic-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

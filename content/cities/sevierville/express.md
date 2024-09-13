@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /sevierville/express/
-shop: Kleidung
+shop: clothes
 ---

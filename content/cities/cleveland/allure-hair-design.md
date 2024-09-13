@@ -1,5 +1,5 @@
 ---
 title: "Allure Hair Design"
 url: /cleveland/allure-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

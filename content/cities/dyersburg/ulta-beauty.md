@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /dyersburg/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /oak-ridge/gamestop/
-shop: Videospiele
+shop: video games
 ---

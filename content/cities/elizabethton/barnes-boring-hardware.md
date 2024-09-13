@@ -1,5 +1,5 @@
 ---
 title: "Barnes Boring Hardware"
 url: /elizabethton/barnes-boring-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Under Armour"
 url: /sevierville/under-armour/
-shop: Kleidung
+shop: clothes
 ---

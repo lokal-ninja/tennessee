@@ -1,5 +1,5 @@
 ---
 title: "Taylor's Mercantile"
 url: /sewanee/taylors-mercantile/
-shop: Blumen
+shop: florist
 ---

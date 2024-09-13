@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /clarksville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

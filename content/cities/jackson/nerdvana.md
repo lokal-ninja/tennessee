@@ -1,5 +1,5 @@
 ---
 title: "Nerdvana"
 url: /jackson/nerdvana/
-shop: Videospiele
+shop: video games
 ---

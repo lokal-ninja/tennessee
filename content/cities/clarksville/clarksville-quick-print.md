@@ -1,5 +1,5 @@
 ---
 title: "Clarksville Quick Print"
 url: /clarksville/clarksville-quick-print/
-shop: Kopieren
+shop: copyshop
 ---

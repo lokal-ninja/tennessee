@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /smyrna/petsmart/
-shop: Tiere
+shop: pet
 ---

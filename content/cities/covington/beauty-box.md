@@ -1,5 +1,5 @@
 ---
 title: "Beauty Box"
 url: /covington/beauty-box/
-shop: Kosmetik
+shop: beauty
 ---

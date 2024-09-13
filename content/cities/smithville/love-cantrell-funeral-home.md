@@ -1,5 +1,5 @@
 ---
 title: "Love-Cantrell Funeral Home"
 url: /smithville/love-cantrell-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

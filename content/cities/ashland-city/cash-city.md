@@ -1,5 +1,5 @@
 ---
 title: "Cash City"
 url: /ashland-city/cash-city/
-shop: Leiher
+shop: pawnbroker
 ---

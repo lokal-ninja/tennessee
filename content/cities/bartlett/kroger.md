@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bartlett/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

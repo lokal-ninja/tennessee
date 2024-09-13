@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /jonesborough/autozone/
-shop: Autoteile
+shop: car parts
 ---

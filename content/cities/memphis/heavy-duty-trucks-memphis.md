@@ -1,5 +1,5 @@
 ---
 title: "Heavy Duty Trucks Memphis"
 url: /memphis/heavy-duty-trucks-memphis/
-shop: Allgemein
+shop: shop
 ---

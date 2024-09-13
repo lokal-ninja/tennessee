@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /nashville/cvs-pharmacy-gallatin-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /knoxville/rei/
-shop: Outdoor
+shop: outdoor
 ---

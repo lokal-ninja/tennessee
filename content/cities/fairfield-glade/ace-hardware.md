@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /fairfield-glade/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

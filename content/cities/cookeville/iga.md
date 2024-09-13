@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /cookeville/iga/
-shop: Supermarkt
+shop: supermarket
 ---

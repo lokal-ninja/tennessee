@@ -1,5 +1,5 @@
 ---
 title: "Gold Cross Tattoo Co."
 url: /johnson-city/gold-cross-tattoo-co/
-shop: Tattoo
+shop: tattoo
 ---

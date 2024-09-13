@@ -1,5 +1,5 @@
 ---
 title: "BMW of Chattanooga"
 url: /chattanooga/bmw-of-chattanooga/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splendid Nails"
 url: /memphis/splendid-nails/
-shop: Kosmetik
+shop: beauty
 ---

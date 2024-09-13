@@ -1,5 +1,5 @@
 ---
 title: "Parafrog Airsoft"
 url: /knoxville/parafrog-airsoft/
-shop: Outdoor
+shop: outdoor
 ---
