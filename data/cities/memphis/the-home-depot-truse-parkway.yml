@@ -1,11 +1,11 @@
 id: 687220645
-type: way
+type: node
 latitude: 35.10942
 longitude: -89.89198
 postcode: "38117"
 city: Memphis
-street: "Truse Parkway"
-housenumber: 800
-phone: "+1 901-818-0266"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Truse-In-Town/TN/Memphis/38117/703"
+street: Truse Parkway
+housenumber: "800"
+phone: +1 901-818-0266
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Truse-In-Town/TN/Memphis/38117/703

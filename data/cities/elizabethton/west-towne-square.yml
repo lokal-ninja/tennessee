@@ -1,11 +1,11 @@
 id: 676023281
-type: way
+type: node
 latitude: 36.34598
 longitude: -82.24467
 postcode: "37643"
 city: Elizabethton
-street: "Hudson Drive"
-housenumber: 101
+street: Hudson Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

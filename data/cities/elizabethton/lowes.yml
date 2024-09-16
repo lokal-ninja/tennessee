@@ -1,11 +1,11 @@
 id: 515937907
-type: way
+type: node
 latitude: 36.35136
 longitude: -82.24247
 postcode: "37643"
 city: Elizabethton
-street: "Patriot Drive"
-housenumber: 925
-phone: "+1 423-547-1340"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/TN-Elizabethton/2509"
+street: Patriot Drive
+housenumber: "925"
+phone: +1 423-547-1340
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/TN-Elizabethton/2509

@@ -1,11 +1,11 @@
 id: 895764585
-type: way
+type: node
 latitude: 36.2367
 longitude: -83.28204
 postcode: "37814"
 city: Morristown
-street: "Buffalo Trail"
-housenumber: 1997
-phone: "+1 423-254-6595"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5467-morristown-tn"
+street: Buffalo Trail
+housenumber: "1997"
+phone: +1 423-254-6595
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5467-morristown-tn

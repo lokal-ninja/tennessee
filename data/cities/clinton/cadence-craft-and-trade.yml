@@ -1,11 +1,11 @@
 id: 502600417
-type: way
+type: node
 latitude: 36.10276
 longitude: -84.13216
 postcode: "37716"
 city: Clinton
-street: "North Main Street"
-housenumber: 307
+street: North Main Street
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

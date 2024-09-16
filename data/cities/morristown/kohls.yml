@@ -1,11 +1,11 @@
 id: 908522633
-type: way
+type: node
 latitude: 36.22106
 longitude: -83.26058
 postcode: "37813"
 city: Morristown
-street: "East Morris Boulevard"
-housenumber: 2550
-phone: "+1 423-587-6509"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/tn/morristown-1055.shtml"
+street: East Morris Boulevard
+housenumber: "2550"
+phone: +1 423-587-6509
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/tn/morristown-1055.shtml

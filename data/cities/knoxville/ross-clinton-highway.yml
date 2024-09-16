@@ -1,11 +1,11 @@
 id: 758366177
-type: way
+type: node
 latitude: 36.00485
 longitude: -84.02422
 postcode: "37912"
 city: Knoxville
-street: "Clinton Highway"
-housenumber: 6725
-phone: "+1 865-938-6502"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 09:30-23:00; Su 10:00-22:00"
+street: Clinton Highway
+housenumber: "6725"
+phone: +1 865-938-6502
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:30-23:00; Su 10:00-22:00
 website: ""

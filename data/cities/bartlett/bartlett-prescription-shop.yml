@@ -1,11 +1,11 @@
 id: 841401726
-type: way
+type: node
 latitude: 35.2042
 longitude: -89.87421
 postcode: "38134"
 city: Bartlett
-street: "Stage Road"
-housenumber: 5675
+street: Stage Road
+housenumber: "5675"
 phone: ""
 opening_hours: ""
 website: ""

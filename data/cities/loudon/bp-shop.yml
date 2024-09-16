@@ -1,11 +1,11 @@
 id: 956446309
-type: way
+type: node
 latitude: 35.73837
 longitude: -84.33579
 postcode: "37774"
 city: Loudon
-street: "Grove Street"
-housenumber: 900
+street: Grove Street
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

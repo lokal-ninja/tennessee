@@ -1,11 +1,11 @@
 id: 1227855972
-type: way
+type: node
 latitude: 35.17415
 longitude: -87.73738
 postcode: "38450"
 city: Collinwood
-street: "E Broadway St"
-housenumber: 208
-phone: "(931) 724-4616"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 07:00-12:00, Su closed"
+street: E Broadway St
+housenumber: "208"
+phone: (931) 724-4616
+opening_hours: Mo-Fr 07:00-17:00, Sa 07:00-12:00, Su closed
 website: ""

@@ -1,11 +1,11 @@
 id: 652926357
-type: way
+type: node
 latitude: 36.11404
 longitude: -86.92147
 postcode: "37209"
 city: Nashville
-street: "Old Hickory Boulevard"
-housenumber: 636
+street: Old Hickory Boulevard
+housenumber: "636"
 phone: ""
 opening_hours: ""
-website: "https://www.mckaybooks.com/locations"
+website: https://www.mckaybooks.com/locations

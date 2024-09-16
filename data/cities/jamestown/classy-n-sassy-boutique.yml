@@ -1,11 +1,11 @@
 id: 1110290121
-type: way
+type: node
 latitude: 36.42756
 longitude: -84.93382
 postcode: "38556"
 city: Jamestown
-street: "West Central Avenue"
-housenumber: 205
+street: West Central Avenue
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

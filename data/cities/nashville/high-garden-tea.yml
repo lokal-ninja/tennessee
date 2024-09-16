@@ -1,11 +1,11 @@
 id: 1245821383
-type: way
+type: node
 latitude: 36.17404
 longitude: -86.75082
 postcode: "37206"
 city: Nashville
-street: "Fatherland Street"
-housenumber: 1006
+street: Fatherland Street
+housenumber: "1006"
 phone: ""
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://www.highgardentea.com/"
+opening_hours: Tu-Sa 11:00-18:00
+website: https://www.highgardentea.com/

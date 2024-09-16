@@ -1,11 +1,11 @@
 id: 559485479
-type: way
+type: node
 latitude: 35.76539
 longitude: -83.97348
 postcode: "37701"
 city: Alcoa
-street: "South Hall Road"
-housenumber: 116
-phone: "+1 865-982-8891"
-opening_hours: "Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tn/alcoa/116-s-hall-rd"
+street: South Hall Road
+housenumber: "116"
+phone: +1 865-982-8891
+opening_hours: Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tn/alcoa/116-s-hall-rd

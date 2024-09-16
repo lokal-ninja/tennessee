@@ -1,11 +1,11 @@
 id: 862784715
-type: way
+type: node
 latitude: 36.00584
 longitude: -85.051
 postcode: "38571"
 city: Crossville
-street: "Interchange Drive"
-housenumber: 339
-phone: "+1 931-484-3589"
-opening_hours: "Mo-Fr 07:00-16:00; Sa 07:00-12:00; Su off"
-website: "https://www.mtnfarm.com/"
+street: Interchange Drive
+housenumber: "339"
+phone: +1 931-484-3589
+opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-12:00; Su off
+website: https://www.mtnfarm.com/

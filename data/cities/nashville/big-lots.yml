@@ -1,11 +1,11 @@
 id: 737467117
-type: way
+type: node
 latitude: 36.04673
 longitude: -86.71062
 postcode: "37211"
 city: Nashville
-street: "Nolensville Road"
-housenumber: 5702
-phone: "+1 615-333-1106"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tn/nashville/5702-nolensville-rd"
+street: Nolensville Road
+housenumber: "5702"
+phone: +1 615-333-1106
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tn/nashville/5702-nolensville-rd

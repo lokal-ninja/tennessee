@@ -1,11 +1,11 @@
 id: 1061569245
-type: way
+type: node
 latitude: 36.46841
 longitude: -86.67739
 postcode: "37188"
 city: White House
-street: "Hester Drive"
-housenumber: 322
+street: Hester Drive
+housenumber: "322"
 phone: ""
 opening_hours: ""
 website: ""

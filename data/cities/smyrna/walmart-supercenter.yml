@@ -1,11 +1,11 @@
 id: 515097442
-type: way
+type: node
 latitude: 35.97035
 longitude: -86.49677
 postcode: "37167"
 city: Smyrna
-street: "Enon Springs Road East"
-housenumber: 570
-phone: "+1 615-355-1029"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/406/smyrna-tn/whats-new"
+street: Enon Springs Road East
+housenumber: "570"
+phone: +1 615-355-1029
+opening_hours: 24/7
+website: https://www.walmart.com/store/406/smyrna-tn/whats-new

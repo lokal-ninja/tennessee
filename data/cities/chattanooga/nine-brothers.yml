@@ -1,11 +1,11 @@
 id: 1076076340
-type: way
+type: node
 latitude: 35.00544
 longitude: -85.31111
-postcode: "37410-1316"
+postcode: 37410-1316
 city: Chattanooga
-street: "West 38th Street"
-housenumber: 101
+street: West 38th Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

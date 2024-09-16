@@ -1,11 +1,11 @@
 id: 461647734
-type: way
+type: node
 latitude: 36.5955
 longitude: -87.28574
 postcode: "37040"
 city: Clarksville
-street: "Wilma Rudolph Boulevard"
-housenumber: 3077
-phone: "+1 931-647-4005"
-opening_hours: "Mo-Sa 09:00-21:00; Su 12:00-18:00"
-website: "https://www.facebook.com/HayesBootsPlus"
+street: Wilma Rudolph Boulevard
+housenumber: "3077"
+phone: +1 931-647-4005
+opening_hours: Mo-Sa 09:00-21:00; Su 12:00-18:00
+website: https://www.facebook.com/HayesBootsPlus

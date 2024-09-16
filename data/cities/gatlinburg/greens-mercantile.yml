@@ -1,11 +1,11 @@
 id: 1081050261
-type: way
+type: node
 latitude: 35.75025
 longitude: -83.4022
 postcode: "37876"
 city: Gatlinburg
-street: "E Parkway"
-housenumber: 2709
+street: E Parkway
+housenumber: "2709"
 phone: ""
 opening_hours: ""
 website: ""

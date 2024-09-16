@@ -1,11 +1,11 @@
 id: 956007052
-type: way
+type: node
 latitude: 35.04756
 longitude: -89.73623
 postcode: "38017"
 city: Collierville
-street: "South Houston Levee Road"
-housenumber: 3685
-phone: "+1 901-854-2705"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tn/collierville/houston-levee-collierville/025/00481"
+street: South Houston Levee Road
+housenumber: "3685"
+phone: +1 901-854-2705
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tn/collierville/houston-levee-collierville/025/00481

@@ -1,11 +1,11 @@
 id: 779604026
-type: way
+type: node
 latitude: 35.13793
 longitude: -90.05634
 postcode: "38103"
 city: Memphis
-street: "South Main Street"
-housenumber: 300
+street: South Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 503699579
-type: way
+type: node
 latitude: 36.11178
 longitude: -84.12399
 postcode: "37716"
 city: Clinton
-street: "North Charles G Seivers Boulevard"
-housenumber: 926
+street: North Charles G Seivers Boulevard
+housenumber: "926"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/tn/clinton/926-n-seivers-blvd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/tn/clinton/926-n-seivers-blvd

@@ -1,11 +1,11 @@
 id: 582546833
-type: way
+type: node
 latitude: 34.99212
 longitude: -85.35453
 postcode: "37350"
 city: Lookout Mountain
-street: "North Watauga Lane"
-housenumber: 124
+street: North Watauga Lane
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Sa 12:00-20:00, Su 14:00-18:00"
+opening_hours: Mo-Sa 12:00-20:00, Su 14:00-18:00
 website: ""

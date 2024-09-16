@@ -1,11 +1,11 @@
 id: 1219053288
-type: way
+type: node
 latitude: 35.82064
 longitude: -84.26255
 postcode: "37772"
 city: Lenoir City
-street: "Abbie Drive"
-housenumber: 250
-phone: "+1 865-986-6116"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/lenoir-city/tn/lenoir-city/37772/740"
+street: Abbie Drive
+housenumber: "250"
+phone: +1 865-986-6116
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/lenoir-city/tn/lenoir-city/37772/740

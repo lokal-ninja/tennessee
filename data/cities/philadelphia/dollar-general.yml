@@ -1,11 +1,11 @@
 id: 956873744
-type: way
+type: node
 latitude: 35.68068
 longitude: -84.39917
 postcode: "37846"
 city: Philadelphia
-street: "Christian Street"
-housenumber: 104
+street: Christian Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tn/philadelphia/15630"
+website: https://www.dollargeneral.com/store-directory/tn/philadelphia/15630

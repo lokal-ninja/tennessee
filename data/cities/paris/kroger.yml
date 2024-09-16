@@ -1,11 +1,11 @@
 id: 796668941
-type: way
+type: node
 latitude: 36.28769
 longitude: -88.30858
 postcode: "38242"
 city: Paris
-street: "Mineral Wells Avenue"
-housenumber: 1059
-phone: "+1 731-644-1075"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tn/paris/paris/025/00391"
+street: Mineral Wells Avenue
+housenumber: "1059"
+phone: +1 731-644-1075
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tn/paris/paris/025/00391

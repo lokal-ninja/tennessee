@@ -1,11 +1,11 @@
 id: 1198963911
-type: way
+type: node
 latitude: 35.50842
 longitude: -86.45539
 postcode: "37160"
 city: Shelbyville
-street: "North Main Street"
-housenumber: 1714
-phone: "+1 931-680-9644"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Main Street
+housenumber: "1714"
+phone: +1 931-680-9644
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

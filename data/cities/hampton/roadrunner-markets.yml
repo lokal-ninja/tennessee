@@ -1,11 +1,11 @@
 id: 511328637
-type: way
+type: node
 latitude: 36.28656
 longitude: -82.17371
 postcode: "37658"
 city: Hampton
-street: "State Line Road"
-housenumber: 4953
+street: State Line Road
+housenumber: "4953"
 phone: ""
-opening_hours: "24/7"
-website: "http://roadrunnermarkets.com"
+opening_hours: 24/7
+website: http://roadrunnermarkets.com

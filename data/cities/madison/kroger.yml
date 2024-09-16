@@ -1,11 +1,11 @@
 id: 568781906
-type: way
+type: node
 latitude: 36.26162
 longitude: -86.71463
 postcode: "37115"
 city: Madison
-street: "Gallatin Pike South"
-housenumber: 200
-phone: "+1 615-865-3937"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/tn/madison/old-hickory-sc/026/00514"
+street: Gallatin Pike South
+housenumber: "200"
+phone: +1 615-865-3937
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/tn/madison/old-hickory-sc/026/00514

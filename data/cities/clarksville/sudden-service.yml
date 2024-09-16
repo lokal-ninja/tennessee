@@ -1,11 +1,11 @@
 id: 463593905
-type: way
+type: node
 latitude: 36.5867
 longitude: -87.41391
 postcode: "37042"
 city: Clarksville
-street: "Fort Campbell Boulevard"
-housenumber: 1820
-phone: "+1 931-645-6475"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10047748/en_US"
+street: Fort Campbell Boulevard
+housenumber: "1820"
+phone: +1 931-645-6475
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10047748/en_US

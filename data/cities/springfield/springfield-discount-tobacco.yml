@@ -1,11 +1,11 @@
 id: 1136861342
-type: way
+type: node
 latitude: 36.50188
 longitude: -86.88501
 postcode: "37172"
 city: Springfield
-street: "Central Avenue East"
-housenumber: 202
+street: Central Avenue East
+housenumber: "202"
 phone: "+16153840084"
 opening_hours: ""
 website: ""

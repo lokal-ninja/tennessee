@@ -1,11 +1,11 @@
 id: 917883152
-type: way
+type: node
 latitude: 36.18995
 longitude: -86.74438
 postcode: "37206"
 city: Nashville
-street: "Gallatin Avenue"
-housenumber: 1111
-phone: "+1 615-226-7100"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1732"
+street: Gallatin Avenue
+housenumber: "1111"
+phone: +1 615-226-7100
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1732

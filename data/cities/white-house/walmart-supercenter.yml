@@ -1,11 +1,11 @@
 id: 656890336
-type: way
+type: node
 latitude: 36.47263
 longitude: -86.67687
 postcode: "37188"
 city: White House
-street: "Wilkinson Lane"
-housenumber: 225
-phone: "+1 615-672-6773"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/4483/white-house-tn/whats-new"
+street: Wilkinson Lane
+housenumber: "225"
+phone: +1 615-672-6773
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/4483/white-house-tn/whats-new

@@ -1,11 +1,11 @@
 id: 511328642
-type: way
+type: node
 latitude: 36.27924
 longitude: -82.17829
 postcode: "37658"
 city: Hampton
-street: "US 19E"
-housenumber: 5124
-phone: "423-725-2770"
-opening_hours: "Tu-Sa 10:00-16:00"
-website: "http://www.pickersfineantiques.com"
+street: US 19E
+housenumber: "5124"
+phone: 423-725-2770
+opening_hours: Tu-Sa 10:00-16:00
+website: http://www.pickersfineantiques.com

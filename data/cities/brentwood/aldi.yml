@@ -4,8 +4,8 @@ latitude: 35.96605
 longitude: -86.8149
 postcode: "37027"
 city: Brentwood
-street: "Mallory Lane"
-housenumber: 1701
-phone: "+1 833-470-7003"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/brentwood/1701-mallory-lane"
+street: Mallory Lane
+housenumber: "1701"
+phone: +1 833-470-7003
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/brentwood/1701-mallory-lane

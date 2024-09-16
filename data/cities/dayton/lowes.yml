@@ -1,11 +1,11 @@
 id: 469614002
-type: way
+type: node
 latitude: 35.46685
 longitude: -85.04024
 postcode: "37321"
 city: Dayton
-street: "Rhea County Highway"
-housenumber: 3535
-phone: "+1 423-775-8914"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-20:00"
-website: "https://www.lowes.com/store/tn-dayton/2866"
+street: Rhea County Highway
+housenumber: "3535"
+phone: +1 423-775-8914
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-20:00
+website: https://www.lowes.com/store/tn-dayton/2866

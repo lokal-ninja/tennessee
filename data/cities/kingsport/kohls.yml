@@ -1,11 +1,11 @@
 id: 545666125
-type: way
+type: node
 latitude: 36.55273
 longitude: -82.49373
 postcode: "37660"
 city: Kingsport
-street: "East Stone Drive"
-housenumber: 2626
-phone: "+1 423-247-1466"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/tn/kingsport-1196.shtml"
+street: East Stone Drive
+housenumber: "2626"
+phone: +1 423-247-1466
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/tn/kingsport-1196.shtml

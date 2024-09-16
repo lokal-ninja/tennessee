@@ -1,11 +1,11 @@
 id: 1069441600
-type: way
+type: node
 latitude: 36.58664
 longitude: -87.29307
-postcode: "37040-5002"
+postcode: 37040-5002
 city: Clarksville
-street: "Wilma Rudolph Boulevard"
-housenumber: 2823
-phone: "+1 931-645-8007"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/clarksville/959"
+street: Wilma Rudolph Boulevard
+housenumber: "2823"
+phone: +1 931-645-8007
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/clarksville/959

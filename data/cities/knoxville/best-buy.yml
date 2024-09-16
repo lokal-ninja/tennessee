@@ -1,11 +1,11 @@
 id: 164371569
-type: way
+type: node
 latitude: 35.91836
 longitude: -84.08437
 postcode: "37923"
 city: Knoxville
-street: "Town and Country Circle"
-housenumber: 8925
-phone: "+1 865-769-5358"
-opening_hours: "Mo-Sa 10:00-20:00;Su 11:00-19:00"
-website: "https://stores.bestbuy.com/tn/knoxville/8925-towne-and-country-cir-169.html"
+street: Town and Country Circle
+housenumber: "8925"
+phone: +1 865-769-5358
+opening_hours: Mo-Sa 10:00-20:00;Su 11:00-19:00
+website: https://stores.bestbuy.com/tn/knoxville/8925-towne-and-country-cir-169.html

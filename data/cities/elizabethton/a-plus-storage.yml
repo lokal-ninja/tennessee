@@ -1,11 +1,11 @@
 id: 511233054
-type: way
+type: node
 latitude: 36.32635
 longitude: -82.2025
 postcode: "37643"
 city: Elizabethton
-street: "Veterans Memorial Parkway"
-housenumber: 2149
-phone: "+1-423-542-9555"
+street: Veterans Memorial Parkway
+housenumber: "2149"
+phone: +1-423-542-9555
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 783790493
-type: way
+type: node
 latitude: 36.19017
 longitude: -86.73847
 postcode: "37206"
 city: Nashville
-street: "Chapel Avenue"
-housenumber: 1203
+street: Chapel Avenue
+housenumber: "1203"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 820791605
-type: way
+type: node
 latitude: 35.62365
 longitude: -86.69547
-postcode: "37034-3108"
+postcode: 37034-3108
 city: Chapel Hill
-street: "South Horton Parkway"
-housenumber: 305
-phone: "+1 931-364-3277"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 11:00-18:00"
+street: South Horton Parkway
+housenumber: "305"
+phone: +1 931-364-3277
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 11:00-18:00
 website: ""

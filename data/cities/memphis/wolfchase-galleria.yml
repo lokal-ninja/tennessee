@@ -1,11 +1,11 @@
 id: 1051651764
-type: way
+type: node
 latitude: 35.20183
 longitude: -89.78652
 postcode: "38133"
 city: Memphis
-street: "North Germantown Parkway"
-housenumber: 2760
+street: North Germantown Parkway
+housenumber: "2760"
 phone: ""
 opening_hours: ""
 website: ""

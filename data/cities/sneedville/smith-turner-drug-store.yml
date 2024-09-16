@@ -1,11 +1,11 @@
 id: 583056382
-type: way
+type: node
 latitude: 36.53023
 longitude: -83.21796
 postcode: "37869"
 city: Sneedville
-street: "Church Street"
-housenumber: 140
+street: Church Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

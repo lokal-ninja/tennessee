@@ -1,11 +1,11 @@
 id: 832439569
-type: way
+type: node
 latitude: 35.03711
 longitude: -85.15014
-postcode: "37421-3895"
+postcode: 37421-3895
 city: Chattanooga
-street: "Gunbarrel Road"
-housenumber: 2288
-phone: "+1 423-499-1011"
-opening_hours: "Mo-We 09:00-20:00; Th 07:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tn/chattanooga/pet-supplies-chattanooga-tn-1573.html"
+street: Gunbarrel Road
+housenumber: "2288"
+phone: +1 423-499-1011
+opening_hours: Mo-We 09:00-20:00; Th 07:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/tn/chattanooga/pet-supplies-chattanooga-tn-1573.html

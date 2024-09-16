@@ -1,11 +1,11 @@
 id: 1299112612
-type: way
+type: node
 latitude: 36.00582
 longitude: -83.98864
 postcode: "37912"
 city: Knoxville
-street: "Clinton Highway"
-housenumber: 5713
+street: Clinton Highway
+housenumber: "5713"
 phone: ""
 opening_hours: ""
 website: ""

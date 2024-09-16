@@ -1,11 +1,11 @@
 id: 1247436160
-type: way
+type: node
 latitude: 36.18861
 longitude: -85.02009
 postcode: "38553"
 city: Clarkrange
-street: "South York Highway"
-housenumber: 6853
+street: South York Highway
+housenumber: "6853"
 phone: ""
 opening_hours: ""
 website: ""

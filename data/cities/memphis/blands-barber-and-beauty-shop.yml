@@ -1,11 +1,11 @@
 id: 791061906
-type: way
+type: node
 latitude: 35.16512
 longitude: -90.03369
 postcode: "38107"
 city: Memphis
-street: "Chelsea Avenue"
-housenumber: 714
-phone: "+1-901-527-6695"
+street: Chelsea Avenue
+housenumber: "714"
+phone: +1-901-527-6695
 opening_hours: ""
 website: ""

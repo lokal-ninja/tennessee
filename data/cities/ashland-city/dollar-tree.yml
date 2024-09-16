@@ -1,11 +1,11 @@
 id: 1194657468
-type: way
+type: node
 latitude: 36.24897
 longitude: -87.03562
 postcode: "37015"
 city: Ashland City
-street: "Hutton Place"
-housenumber: 290
-phone: "+1-615-434-0117"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/tn/ashland-city/6343/"
+street: Hutton Place
+housenumber: "290"
+phone: +1-615-434-0117
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/tn/ashland-city/6343/

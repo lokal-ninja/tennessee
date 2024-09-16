@@ -1,11 +1,11 @@
 id: 656524413
-type: way
+type: node
 latitude: 35.05176
 longitude: -89.80485
 postcode: "38125"
 city: Memphis
-street: "Polo Grounds Boulevard"
-housenumber: 7746
+street: Polo Grounds Boulevard
+housenumber: "7746"
 phone: ""
 opening_hours: ""
 website: ""

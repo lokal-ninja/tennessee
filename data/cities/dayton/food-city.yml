@@ -1,11 +1,11 @@
 id: 429985967
-type: way
+type: node
 latitude: 35.48219
 longitude: -85.02444
 postcode: "37321"
 city: Dayton
-street: "Market Street"
-housenumber: 420
-phone: "+1 423 775 5051"
-opening_hours: "07:00-00:00"
+street: Market Street
+housenumber: "420"
+phone: +1 423 775 5051
+opening_hours: 07:00-00:00
 website: ""

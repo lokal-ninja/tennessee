@@ -1,11 +1,11 @@
 id: 659182570
-type: way
+type: node
 latitude: 35.46038
 longitude: -84.61545
 postcode: "37303"
 city: Athens
-street: "South Congress Parkway"
-housenumber: 622
-phone: "+1 423-746-1657"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Congress Parkway
+housenumber: "622"
+phone: +1 423-746-1657
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

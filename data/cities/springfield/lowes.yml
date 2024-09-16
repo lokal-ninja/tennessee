@@ -1,11 +1,11 @@
 id: 783514813
-type: way
+type: node
 latitude: 36.48828
 longitude: -86.88492
 postcode: "37172"
 city: Springfield
-street: "Tom Austin Highway"
-housenumber: 3480
-phone: "+1 615-382-6220"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-springfield/1747"
+street: Tom Austin Highway
+housenumber: "3480"
+phone: +1 615-382-6220
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-springfield/1747

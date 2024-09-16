@@ -1,11 +1,11 @@
 id: 1221406869
-type: way
+type: node
 latitude: 36.31616
 longitude: -82.35173
 postcode: "37604"
 city: Johnson City
-street: "Spring Street"
-housenumber: 111
-phone: "(423) 268-2626"
-opening_hours: "Tu-Fr08:00-18:00; Sa 08:00-15:00"
-website: "https://jclaresnailsalon.com/"
+street: Spring Street
+housenumber: "111"
+phone: (423) 268-2626
+opening_hours: Tu-Fr08:00-18:00; Sa 08:00-15:00
+website: https://jclaresnailsalon.com/

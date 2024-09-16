@@ -1,11 +1,11 @@
 id: 1114741312
-type: way
+type: node
 latitude: 35.89132
 longitude: -84.73752
 postcode: "37854"
 city: Rockwood
-street: "Westel Road"
-housenumber: 338
+street: Westel Road
+housenumber: "338"
 phone: ""
 opening_hours: ""
 website: ""

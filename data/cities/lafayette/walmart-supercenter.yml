@@ -1,11 +1,11 @@
 id: 191939929
-type: way
+type: node
 latitude: 36.51831
 longitude: -86.0386
 postcode: "37083"
 city: Lafayette
-street: "Highway 52 Bypass West"
-housenumber: 419
-phone: "+1 615-666-2135"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/879/lafayette-tn/whats-new"
+street: Highway 52 Bypass West
+housenumber: "419"
+phone: +1 615-666-2135
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/879/lafayette-tn/whats-new

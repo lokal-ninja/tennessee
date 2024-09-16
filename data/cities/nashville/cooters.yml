@@ -1,11 +1,11 @@
 id: 362647003
-type: way
+type: node
 latitude: 36.21751
 longitude: -86.69797
 postcode: "37214"
 city: Nashville
-street: "McGavock Pike Road"
-housenumber: 2613
-phone: "+1 (615) 872-8358"
-opening_hours: "Su-Sa 08:30-22:00+"
-website: "https://cootersplace.com/cooters-nashville/"
+street: McGavock Pike Road
+housenumber: "2613"
+phone: +1 (615) 872-8358
+opening_hours: Su-Sa 08:30-22:00+
+website: https://cootersplace.com/cooters-nashville/

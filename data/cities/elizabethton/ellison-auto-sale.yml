@@ -1,11 +1,11 @@
 id: 511233073
-type: way
+type: node
 latitude: 36.32262
 longitude: -82.19986
 postcode: "37643"
 city: Elizabethton
-street: "Veterans Memorial Parkway"
-housenumber: 3663
-phone: "+1-423-543-3057"
+street: Veterans Memorial Parkway
+housenumber: "3663"
+phone: +1-423-543-3057
 opening_hours: ""
-website: "https://www.ellisonautosale.com/"
+website: https://www.ellisonautosale.com/

@@ -4,8 +4,8 @@ latitude: 35.03523
 longitude: -85.30456
 postcode: "37408"
 city: Chattanooga
-street: "East Main Street"
-housenumber: 217
+street: East Main Street
+housenumber: "217"
 phone: ""
-opening_hours: "11:00-19:00"
-website: "https://www.mainstreetmeatschatt.com/"
+opening_hours: 11:00-19:00
+website: https://www.mainstreetmeatschatt.com/

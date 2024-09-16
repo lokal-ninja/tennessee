@@ -1,11 +1,11 @@
 id: 795009017
-type: way
+type: node
 latitude: 36.57727
 longitude: -87.40764
 postcode: "37042"
 city: Clarksville
-street: "Fort Campbell Boulevard"
-housenumber: 1635
-phone: "+1 931-245-1616"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.serviceking.com/locations/service-king-ft-campbell"
+street: Fort Campbell Boulevard
+housenumber: "1635"
+phone: +1 931-245-1616
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.serviceking.com/locations/service-king-ft-campbell

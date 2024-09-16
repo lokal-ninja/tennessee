@@ -1,11 +1,11 @@
 id: 806696742
-type: way
+type: node
 latitude: 36.49215
 longitude: -88.87433
 postcode: "38257"
 city: South Fulton
-street: "East Paducah Street"
-housenumber: 103
-phone: "(731) 223-0044"
-opening_hours: "Tu-Sa 10:00-17:00"
+street: East Paducah Street
+housenumber: "103"
+phone: (731) 223-0044
+opening_hours: Tu-Sa 10:00-17:00
 website: ""

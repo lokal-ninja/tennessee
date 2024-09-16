@@ -1,11 +1,11 @@
 id: 689401240
-type: way
+type: node
 latitude: 35.01797
 longitude: -85.19325
 postcode: "37421"
 city: Chattanooga
-street: "East Brainerd Road"
-housenumber: 6496
+street: East Brainerd Road
+housenumber: "6496"
 phone: ""
 opening_hours: ""
 website: ""

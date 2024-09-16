@@ -1,11 +1,11 @@
 id: 439376783
-type: way
+type: node
 latitude: 35.04642
 longitude: -89.79809
-postcode: "38125-2302"
+postcode: 38125-2302
 city: Memphis
-street: "Hacks Cross Road"
-housenumber: 3775
-phone: "+1 901-214-0054"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/se-memphis-memphis-tn-353.html"
+street: Hacks Cross Road
+housenumber: "3775"
+phone: +1 901-214-0054
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/se-memphis-memphis-tn-353.html

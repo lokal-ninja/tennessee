@@ -1,11 +1,11 @@
 id: 511149291
-type: way
+type: node
 latitude: 36.34862
 longitude: -82.21155
 postcode: "37643"
 city: Elizabethton
-street: "East Elk Avenue"
-housenumber: 707
-phone: "423-543-9109"
+street: East Elk Avenue
+housenumber: "707"
+phone: 423-543-9109
 opening_hours: ""
 website: ""

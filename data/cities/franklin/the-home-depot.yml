@@ -1,11 +1,11 @@
 id: 345754917
-type: way
+type: node
 latitude: 35.90989
 longitude: -86.82802
 postcode: "37064"
 city: Franklin
-street: "South Royal Oaks Boulevard"
-housenumber: 224
-phone: "+1 615-599-4578"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/franklin-tn/tn/franklin/37064/734"
+street: South Royal Oaks Boulevard
+housenumber: "224"
+phone: +1 615-599-4578
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/franklin-tn/tn/franklin/37064/734

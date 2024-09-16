@@ -1,11 +1,11 @@
 id: 307851530
-type: way
+type: node
 latitude: 36.576
 longitude: -87.41034
 postcode: "37042"
 city: Clarksville
-street: "Fort Campbell Boulevard"
-housenumber: 1604
-phone: "+1 931-920-4337"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://stores.rainbowshops.com/tn/clarksville/1463/"
+street: Fort Campbell Boulevard
+housenumber: "1604"
+phone: +1 931-920-4337
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://stores.rainbowshops.com/tn/clarksville/1463/

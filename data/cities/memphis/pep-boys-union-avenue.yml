@@ -1,11 +1,11 @@
 id: 778716243
-type: way
+type: node
 latitude: 35.14008
 longitude: -90.0423
 postcode: "38103"
 city: Memphis
-street: "Union Avenue"
-housenumber: 455
-phone: "+1-901-525-0897"
+street: Union Avenue
+housenumber: "455"
+phone: +1-901-525-0897
 opening_hours: ""
-website: "https://pepboys.com"
+website: https://pepboys.com

@@ -1,11 +1,11 @@
 id: 783784889
-type: way
+type: node
 latitude: 36.19206
 longitude: -86.74655
 postcode: "37206"
 city: Nashville
-street: "Gallatin Avenue"
-housenumber: 1216
+street: Gallatin Avenue
+housenumber: "1216"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1303722438
-type: way
+type: node
 latitude: 35.75616
 longitude: -83.93477
 postcode: "37804"
 city: Maryville
-street: "East Lamar Alexander Parkway"
-housenumber: 2401
+street: East Lamar Alexander Parkway
+housenumber: "2401"
 phone: "+18653369277"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su 12:00-16:00"
-website: "https://www.tristar911.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
+website: https://www.tristar911.com/

@@ -1,11 +1,11 @@
 id: 510530937
-type: way
+type: node
 latitude: 36.08484
 longitude: -86.73036
 postcode: "37211"
 city: Nashville
-street: "Nolensville Pike"
-housenumber: 3955
+street: Nolensville Pike
+housenumber: "3955"
 phone: ""
 opening_hours: ""
-website: "https://plazamariachi.com/"
+website: https://plazamariachi.com/

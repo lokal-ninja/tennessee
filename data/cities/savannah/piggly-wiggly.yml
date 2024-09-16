@@ -1,11 +1,11 @@
 id: 594329498
-type: way
+type: node
 latitude: 35.22567
 longitude: -88.23061
 postcode: "38372"
 city: Savannah
-street: "Wayne Road"
-housenumber: 940
-phone: "+1 731-925-3276"
+street: Wayne Road
+housenumber: "940"
+phone: +1 731-925-3276
 opening_hours: ""
 website: ""

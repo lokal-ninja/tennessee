@@ -1,11 +1,11 @@
 id: 42083998
-type: way
+type: node
 latitude: 35.90758
 longitude: -86.87597
 postcode: "37064"
 city: Franklin
-street: "Downs Boulevard"
-housenumber: 203
-phone: "+1 615-794-3641"
+street: Downs Boulevard
+housenumber: "203"
+phone: +1 615-794-3641
 opening_hours: ""
-website: "https://stores.truevalue.com/tn/franklin/23150/"
+website: https://stores.truevalue.com/tn/franklin/23150/

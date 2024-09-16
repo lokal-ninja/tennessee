@@ -1,11 +1,11 @@
 id: 1012903451
-type: way
+type: node
 latitude: 36.15695
 longitude: -82.40635
 postcode: "37650"
 city: Erwin
-street: "North Main Avenue"
-housenumber: 1041
+street: North Main Avenue
+housenumber: "1041"
 phone: "14232705012"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://www.dollartree.com/locations/tn/erwin/6965/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://www.dollartree.com/locations/tn/erwin/6965/

@@ -1,11 +1,11 @@
 id: 761768168
-type: way
+type: node
 latitude: 35.13666
 longitude: -89.99439
 postcode: "38104"
 city: Memphis
-street: "Madison Avenue"
-housenumber: 1999
-phone: "+1-901-726-6800"
+street: Madison Avenue
+housenumber: "1999"
+phone: +1-901-726-6800
 opening_hours: ""
-website: "https://wizardsmemphis.com"
+website: https://wizardsmemphis.com

@@ -1,11 +1,11 @@
 id: 956873743
-type: way
+type: node
 latitude: 35.68131
 longitude: -84.39649
 postcode: "37846"
 city: Philadelphia
-street: "West Lee Highway"
-housenumber: 19997
+street: West Lee Highway
+housenumber: "19997"
 phone: ""
 opening_hours: ""
 website: ""

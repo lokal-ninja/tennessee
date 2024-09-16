@@ -1,11 +1,11 @@
 id: 45508720
-type: way
+type: node
 latitude: 35.0363
 longitude: -85.30714
 postcode: "37402"
 city: Chattanooga
-street: "Market Street"
-housenumber: 1478
-phone: "+1-423-265-0015"
+street: Market Street
+housenumber: "1478"
+phone: +1-423-265-0015
 opening_hours: ""
-website: "https://www.gallery1401.com/"
+website: https://www.gallery1401.com/

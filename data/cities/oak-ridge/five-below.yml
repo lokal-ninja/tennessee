@@ -4,8 +4,8 @@ latitude: 36.0107
 longitude: -84.25363
 postcode: "37830"
 city: Oak Ridge
-street: "Main Street East"
-housenumber: 181
+street: Main Street East
+housenumber: "181"
 phone: "+18653282372"
-opening_hours: "Mo-Sa 10:00-21:30;Su 10:00-20:00"
-website: "https://www.fivebelow.com/"
+opening_hours: Mo-Sa 10:00-21:30;Su 10:00-20:00
+website: https://www.fivebelow.com/

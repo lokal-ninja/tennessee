@@ -1,11 +1,11 @@
 id: 1118104190
-type: way
+type: node
 latitude: 36.09734
 longitude: -86.13294
 postcode: "37184"
 city: Watertown
-street: "Sparta Pike"
-housenumber: 9000
+street: Sparta Pike
+housenumber: "9000"
 phone: ""
 opening_hours: ""
-website: "https://www.threeforksmarket.com/"
+website: https://www.threeforksmarket.com/

@@ -1,11 +1,11 @@
 id: 520521655
-type: way
+type: node
 latitude: 36.17504
 longitude: -85.49782
 postcode: "38501"
 city: Cookeville
-street: "North Washington Avenue"
-housenumber: 950
+street: North Washington Avenue
+housenumber: "950"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-950+n+washington+ave-cookeville-tn-38501/id=11969"
+website: https://www.walgreens.com/locator/walgreens-950+n+washington+ave-cookeville-tn-38501/id=11969

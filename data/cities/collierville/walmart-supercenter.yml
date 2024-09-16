@@ -1,11 +1,11 @@
 id: 487844680
-type: way
+type: node
 latitude: 35.04906
 longitude: -89.68001
 postcode: "38017"
 city: Collierville
-street: "West Poplar Avenue"
-housenumber: 560
-phone: "+1 901-854-5100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/175/collierville-tn/whats-new"
+street: West Poplar Avenue
+housenumber: "560"
+phone: +1 901-854-5100
+opening_hours: 24/7
+website: https://www.walmart.com/store/175/collierville-tn/whats-new

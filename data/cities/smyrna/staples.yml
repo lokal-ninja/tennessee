@@ -1,11 +1,11 @@
 id: 636880362
-type: way
+type: node
 latitude: 35.97974
 longitude: -86.56944
 postcode: "37167"
 city: Smyrna
-street: "Industrial Boulevard"
-housenumber: 809
+street: Industrial Boulevard
+housenumber: "809"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/tn/smyrna/809-industrial-blvd"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/tn/smyrna/809-industrial-blvd

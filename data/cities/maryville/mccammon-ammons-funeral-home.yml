@@ -1,11 +1,11 @@
 id: 745392024
-type: way
+type: node
 latitude: 35.75411
 longitude: -83.97291
 postcode: "37804"
 city: Maryville
-street: "West Broadway Avenue"
-housenumber: 220
+street: West Broadway Avenue
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

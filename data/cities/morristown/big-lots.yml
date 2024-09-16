@@ -1,11 +1,11 @@
 id: 931099739
-type: way
+type: node
 latitude: 36.22473
 longitude: -83.26509
 postcode: "37814"
 city: Morristown
-street: "East Andrew Johnson Highway"
-housenumber: 2342
-phone: "+1 423-587-7327"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tn/morristown/2342-e-andrew-johnson-hwy"
+street: East Andrew Johnson Highway
+housenumber: "2342"
+phone: +1 423-587-7327
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tn/morristown/2342-e-andrew-johnson-hwy

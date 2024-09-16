@@ -1,11 +1,11 @@
 id: 1308910098
-type: way
+type: node
 latitude: 35.17507
 longitude: -89.86504
 postcode: "38134"
 city: Memphis
-street: "Summer Avenue"
-housenumber: 5937
+street: Summer Avenue
+housenumber: "5937"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241070258
-type: way
+type: node
 latitude: 35.13121
 longitude: -89.95836
 postcode: "38111"
 city: Memphis
-street: "Poplar Avenue"
-housenumber: 3109
+street: Poplar Avenue
+housenumber: "3109"
 phone: ""
 opening_hours: ""
-website: "http://www.goodwill.org/"
+website: http://www.goodwill.org/

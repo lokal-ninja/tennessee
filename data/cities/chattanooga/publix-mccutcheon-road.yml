@@ -1,11 +1,11 @@
 id: 823684640
-type: way
+type: node
 latitude: 35.04359
 longitude: -85.15046
 postcode: "37421"
 city: Chattanooga
-street: "McCutcheon Road"
-housenumber: 7326
-phone: "+1 423-855-1376"
-opening_hours: "07:00-22:00"
-website: "https://www.publix.com/locations/1621"
+street: McCutcheon Road
+housenumber: "7326"
+phone: +1 423-855-1376
+opening_hours: 07:00-22:00
+website: https://www.publix.com/locations/1621

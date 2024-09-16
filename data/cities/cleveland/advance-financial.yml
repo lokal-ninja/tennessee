@@ -1,11 +1,11 @@
 id: 1005462238
-type: way
+type: node
 latitude: 35.19115
 longitude: -84.88474
 postcode: "37311"
 city: Cleveland
-street: "25th Street NW"
-housenumber: 1695
-phone: "+1-423-438-1417"
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su 10:00-16:00"
-website: "https://locations.af247.com/cleveland/1695-25th-st-nw/"
+street: 25th Street NW
+housenumber: "1695"
+phone: +1-423-438-1417
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su 10:00-16:00
+website: https://locations.af247.com/cleveland/1695-25th-st-nw/

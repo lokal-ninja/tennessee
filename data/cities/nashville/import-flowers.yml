@@ -1,11 +1,11 @@
 id: 837480707
-type: way
+type: node
 latitude: 36.1404
 longitude: -86.82893
 postcode: "37209"
 city: Nashville
-street: "Murphy Road"
-housenumber: 3636
+street: Murphy Road
+housenumber: "3636"
 phone: ""
 opening_hours: ""
-website: "https://www.impfl.com/"
+website: https://www.impfl.com/

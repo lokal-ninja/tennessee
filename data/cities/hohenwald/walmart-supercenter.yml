@@ -1,11 +1,11 @@
 id: 240889730
-type: way
+type: node
 latitude: 35.55665
 longitude: -87.52884
 postcode: "38462"
 city: Hohenwald
-street: "East Main Street"
-housenumber: 612
-phone: "+1 931-796-3282"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1115/hohenwald-tn/whats-new"
+street: East Main Street
+housenumber: "612"
+phone: +1 931-796-3282
+opening_hours: 24/7
+website: https://www.walmart.com/store/1115/hohenwald-tn/whats-new

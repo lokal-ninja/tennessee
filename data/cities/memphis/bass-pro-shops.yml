@@ -4,8 +4,8 @@ latitude: 35.15597
 longitude: -90.05189
 postcode: "38105"
 city: Memphis
-street: "Bass Pro Drive"
-housenumber: 1
-phone: "+1 901 291 8200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.basspro.com/us/tn/memphis/1-bass-pro-dr.html"
+street: Bass Pro Drive
+housenumber: "1"
+phone: +1 901 291 8200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.basspro.com/us/tn/memphis/1-bass-pro-dr.html

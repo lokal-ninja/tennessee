@@ -1,11 +1,11 @@
 id: 399002843
-type: way
+type: node
 latitude: 36.03336
 longitude: -84.32527
 postcode: "37840"
 city: Oliver Springs
-street: "Edmonds Drive"
-housenumber: 51
+street: Edmonds Drive
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

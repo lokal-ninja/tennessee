@@ -1,11 +1,11 @@
 id: 699952730
-type: way
+type: node
 latitude: 36.14016
 longitude: -85.50802
 postcode: "38501"
 city: Cookeville
-street: "Interstate Drive"
-housenumber: 1265
-phone: "+1 931-559-7387"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tn/cookeville-store2750.html"
+street: Interstate Drive
+housenumber: "1265"
+phone: +1 931-559-7387
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tn/cookeville-store2750.html

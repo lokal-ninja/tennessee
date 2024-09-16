@@ -1,11 +1,11 @@
 id: 1000310183
-type: way
+type: node
 latitude: 35.03316
 longitude: -85.58328
 postcode: "37347"
 city: Jasper
-street: "TVA Road"
-housenumber: 520
+street: TVA Road
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

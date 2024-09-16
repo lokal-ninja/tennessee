@@ -1,11 +1,11 @@
 id: 283274613
-type: way
+type: node
 latitude: 36.59703
 longitude: -87.28462
 postcode: "37040"
 city: Clarksville
-street: "Holiday Drive"
-housenumber: 107
-phone: "+1 931-647-0923"
-opening_hours: "06:00-22:00"
-website: "http://mymarathonstation.com/StoreHome/150169"
+street: Holiday Drive
+housenumber: "107"
+phone: +1 931-647-0923
+opening_hours: 06:00-22:00
+website: http://mymarathonstation.com/StoreHome/150169

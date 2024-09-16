@@ -1,11 +1,11 @@
 id: 474905525
-type: way
+type: node
 latitude: 36.17275
 longitude: -86.79449
 postcode: "37208"
 city: Nashville
-street: "Jefferson Street"
-housenumber: 934
-phone: "+1-615-379-8687"
+street: Jefferson Street
+housenumber: "934"
+phone: +1-615-379-8687
 opening_hours: ""
-website: "https://greenfleetbikes.com/"
+website: https://greenfleetbikes.com/

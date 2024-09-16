@@ -1,11 +1,11 @@
 id: 1155042223
-type: way
+type: node
 latitude: 35.97623
 longitude: -83.60471
 postcode: "37764"
 city: Kodak
-street: "Winfield Dunn Parkway"
-housenumber: 3376
+street: Winfield Dunn Parkway
+housenumber: "3376"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1241792652
-type: way
+type: node
 latitude: 36.29057
 longitude: -86.70523
 postcode: "37115"
 city: Madison
-street: "Gallatin Pike N,"
-housenumber: 1550
+street: Gallatin Pike N,
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

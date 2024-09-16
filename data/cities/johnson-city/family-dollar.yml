@@ -1,11 +1,11 @@
 id: 444929313
-type: way
+type: node
 latitude: 36.31348
 longitude: -82.41284
 postcode: "37604"
 city: Johnson City
-street: "West Market Street #4"
-housenumber: 3302
+street: 'West Market Street #4'
+housenumber: "3302"
 phone: ""
 opening_hours: ""
 website: ""

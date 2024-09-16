@@ -1,11 +1,11 @@
 id: 294251184
-type: way
+type: node
 latitude: 35.8722
 longitude: -83.57265
 postcode: "37862"
 city: Sevierville
-street: "West Main Street"
-housenumber: 330
-phone: "+1 865-453-0777"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Main Street
+housenumber: "330"
+phone: +1 865-453-0777
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1013226920
-type: way
+type: node
 latitude: 35.20397
 longitude: -89.7788
 postcode: "38133"
 city: Memphis
-street: "Stage Road"
-housenumber: 8529
+street: Stage Road
+housenumber: "8529"
 phone: ""
 opening_hours: ""
 website: ""

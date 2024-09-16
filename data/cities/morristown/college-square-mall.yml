@@ -1,11 +1,11 @@
 id: 908522631
-type: way
+type: node
 latitude: 36.21968
 longitude: -83.25985
 postcode: "37813"
 city: Morristown
-street: "East Morris Boulevard"
-housenumber: 2550
+street: East Morris Boulevard
+housenumber: "2550"
 phone: ""
 opening_hours: ""
-website: "https://collegesquaremall.com"
+website: https://collegesquaremall.com

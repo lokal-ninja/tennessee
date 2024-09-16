@@ -1,11 +1,11 @@
 id: 425532993
-type: way
+type: node
 latitude: 36.33456
 longitude: -84.18172
 postcode: "37757"
 city: Jacksboro
-street: "Mt Perkins Lane"
-housenumber: 134
+street: Mt Perkins Lane
+housenumber: "134"
 phone: ""
 opening_hours: ""
-website: "https://www.aarons.com/"
+website: https://www.aarons.com/

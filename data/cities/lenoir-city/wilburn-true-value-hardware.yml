@@ -1,11 +1,11 @@
 id: 698424889
-type: way
+type: node
 latitude: 35.79098
 longitude: -84.2662
-postcode: "37771-2914"
+postcode: 37771-2914
 city: Lenoir City
-street: "West Broadway"
-housenumber: 109
-phone: "+1 865-986-3501"
+street: West Broadway
+housenumber: "109"
+phone: +1 865-986-3501
 opening_hours: ""
-website: "https://www.wilburnhardware.com/"
+website: https://www.wilburnhardware.com/

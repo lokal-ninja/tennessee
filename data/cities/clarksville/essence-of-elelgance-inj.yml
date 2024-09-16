@@ -1,11 +1,11 @@
 id: 374966694
-type: way
+type: node
 latitude: 36.55072
 longitude: -87.40156
 postcode: "37042"
 city: Clarksville
-street: "Dover Road"
-housenumber: 315
-phone: "+1 931-802-8351"
+street: Dover Road
+housenumber: "315"
+phone: +1 931-802-8351
 opening_hours: ""
-website: "http://www.essenceofeinj.com/"
+website: http://www.essenceofeinj.com/

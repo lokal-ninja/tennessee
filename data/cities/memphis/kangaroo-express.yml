@@ -1,11 +1,11 @@
 id: 822303012
-type: way
+type: node
 latitude: 35.17908
 longitude: -89.83561
 postcode: "38133"
 city: Memphis
-street: "Whitten Road"
-housenumber: 1974
+street: Whitten Road
+housenumber: "1974"
 phone: ""
-opening_hours: "24/7"
-website: "https://circlek.com"
+opening_hours: 24/7
+website: https://circlek.com

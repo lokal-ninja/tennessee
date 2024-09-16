@@ -1,11 +1,11 @@
 id: 1311795730
-type: way
+type: node
 latitude: 35.94476
 longitude: -83.21261
 postcode: "37821"
 city: Newport
-street: "Cosby Highway"
-housenumber: 1075
-phone: "+1 423-623-0429"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/678/newport-tn/whats-new"
+street: Cosby Highway
+housenumber: "1075"
+phone: +1 423-623-0429
+opening_hours: 24/7
+website: https://www.walmart.com/store/678/newport-tn/whats-new

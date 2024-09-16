@@ -1,11 +1,11 @@
 id: 934493601
-type: way
+type: node
 latitude: 35.96301
 longitude: -84.03917
 postcode: "37921"
 city: Knoxville
-street: "Amherst Road"
-housenumber: 2309
-phone: "+1-865-558-6252"
+street: Amherst Road
+housenumber: "2309"
+phone: +1-865-558-6252
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164280130
-type: way
+type: node
 latitude: 35.92488
 longitude: -84.06547
 postcode: "37923"
 city: Knoxville
-street: "Walker Springs Road"
-housenumber: 206
+street: Walker Springs Road
+housenumber: "206"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

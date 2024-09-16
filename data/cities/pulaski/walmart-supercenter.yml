@@ -1,11 +1,11 @@
 id: 1210477179
-type: way
+type: node
 latitude: 35.20132
 longitude: -87.06126
 postcode: "38478"
 city: Pulaski
-street: "West College Street"
-housenumber: 1655
-phone: "+1 931-363-7618"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/238/pulaski-tn/whats-new"
+street: West College Street
+housenumber: "1655"
+phone: +1 931-363-7618
+opening_hours: 24/7
+website: https://www.walmart.com/store/238/pulaski-tn/whats-new

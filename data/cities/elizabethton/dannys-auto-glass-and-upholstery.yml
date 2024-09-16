@@ -1,11 +1,11 @@
 id: 511149335
-type: way
+type: node
 latitude: 36.3464
 longitude: -82.21429
 postcode: "37643"
 city: Elizabethton
-street: "Hattie Avenue"
-housenumber: 520
-phone: "423-542-2201"
+street: Hattie Avenue
+housenumber: "520"
+phone: 423-542-2201
 opening_hours: ""
 website: ""

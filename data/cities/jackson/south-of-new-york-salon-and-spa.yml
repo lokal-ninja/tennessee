@@ -1,11 +1,11 @@
 id: 1006002700
-type: way
+type: node
 latitude: 35.69871
 longitude: -88.85617
 postcode: "38305"
 city: Jackson
-street: "US Hwy 45 Bypass"
-housenumber: 3021
+street: US Hwy 45 Bypass
+housenumber: "3021"
 phone: "+17316647585"
 opening_hours: ""
-website: "https://www.southofnewyorksalon.com/"
+website: https://www.southofnewyorksalon.com/

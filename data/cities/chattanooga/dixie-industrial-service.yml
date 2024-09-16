@@ -1,11 +1,11 @@
 id: 761115874
-type: way
+type: node
 latitude: 35.02466
 longitude: -85.27691
-postcode: "37404-5132"
+postcode: 37404-5132
 city: Chattanooga
-street: "East Main Street"
-housenumber: 2108
-phone: "+1 423 698 8063"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa-Su off"
-website: "https://www.dixieindustrialservice.com/"
+street: East Main Street
+housenumber: "2108"
+phone: +1 423 698 8063
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa-Su off
+website: https://www.dixieindustrialservice.com/

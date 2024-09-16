@@ -1,11 +1,11 @@
 id: 645460229
-type: way
+type: node
 latitude: 34.99584
 longitude: -85.2464
 postcode: "37412"
 city: East Ridge
-street: "Ringgold Road"
-housenumber: 4150
-phone: "+1 423-508-1157"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4692/east-ridge-tn/whats-new"
+street: Ringgold Road
+housenumber: "4150"
+phone: +1 423-508-1157
+opening_hours: 24/7
+website: https://www.walmart.com/store/4692/east-ridge-tn/whats-new

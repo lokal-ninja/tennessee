@@ -1,11 +1,11 @@
 id: 1307725532
-type: way
+type: node
 latitude: 36.30693
 longitude: -86.68197
 postcode: "37115"
 city: Madison
-street: "Gallatin Pike North"
-housenumber: 2311
-phone: "+1 615-859-0115"
+street: Gallatin Pike North
+housenumber: "2311"
+phone: +1 615-859-0115
 opening_hours: ""
-website: "https://stores.bestbuy.com/tn/madison/2311-gallatin-pike-n-172.html"
+website: https://stores.bestbuy.com/tn/madison/2311-gallatin-pike-n-172.html

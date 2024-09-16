@@ -1,11 +1,11 @@
 id: 502800703
-type: way
+type: node
 latitude: 36.10403
 longitude: -84.13085
 postcode: "37716"
 city: Clinton
-street: "Market Street"
-housenumber: 362
+street: Market Street
+housenumber: "362"
 phone: ""
 opening_hours: ""
-website: "https://mysistersclosetclintontn.wordpress.com/"
+website: https://mysistersclosetclintontn.wordpress.com/

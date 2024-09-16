@@ -1,11 +1,11 @@
 id: 970113193
-type: way
+type: node
 latitude: 35.76118
 longitude: -89.54375
 postcode: "38063"
 city: Ripley
-street: "Highway 51 North"
-housenumber: 628
-phone: "+1 731-635-8904"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/97-ripley-tn"
+street: Highway 51 North
+housenumber: "628"
+phone: +1 731-635-8904
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/97-ripley-tn

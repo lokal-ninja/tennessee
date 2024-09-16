@@ -4,8 +4,8 @@ latitude: 36.01214
 longitude: -84.25332
 postcode: "37830"
 city: Oak Ridge
-street: "Main Street East"
-housenumber: 333
+street: Main Street East
+housenumber: "333"
 phone: "+18654821782"
-opening_hours: "Mo-Sa 11:00-19:00;Su 12:00-18:00"
-website: "https://www.jcpenney.com"
+opening_hours: Mo-Sa 11:00-19:00;Su 12:00-18:00
+website: https://www.jcpenney.com

@@ -1,11 +1,11 @@
 id: 262034092
-type: way
+type: node
 latitude: 35.44515
 longitude: -84.62797
 postcode: "37303"
 city: Athens
-street: "South Congress Parkway"
-housenumber: 1751
-phone: "+1 423-745-1153"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1196"
+street: South Congress Parkway
+housenumber: "1751"
+phone: +1 423-745-1153
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1196

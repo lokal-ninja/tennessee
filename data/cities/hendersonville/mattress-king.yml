@@ -1,11 +1,11 @@
 id: 1042769615
-type: way
+type: node
 latitude: 36.3195
 longitude: -86.60125
 postcode: "37075"
 city: Hendersonville
-street: "Indian Lake Boulevard"
-housenumber: 209
-phone: "615-826-1972"
+street: Indian Lake Boulevard
+housenumber: "209"
+phone: 615-826-1972
 opening_hours: ""
-website: "https://mattresskingonline.com"
+website: https://mattresskingonline.com

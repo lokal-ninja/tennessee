@@ -1,11 +1,11 @@
 id: 1112035585
-type: way
+type: node
 latitude: 35.95841
 longitude: -84.97884
 postcode: "38555"
 city: Crossville
-street: "Chestnut Hill Road"
-housenumber: 353
+street: Chestnut Hill Road
+housenumber: "353"
 phone: ""
 opening_hours: ""
 website: ""

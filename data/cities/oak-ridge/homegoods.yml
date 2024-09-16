@@ -4,8 +4,8 @@ latitude: 36.01131
 longitude: -84.25349
 postcode: "37830"
 city: Oak Ridge
-street: "Main Street East"
-housenumber: 161
+street: Main Street East
+housenumber: "161"
 phone: "+18654828095"
-opening_hours: "09:00-22:00"
-website: "https://www.homegoods.com"
+opening_hours: 09:00-22:00
+website: https://www.homegoods.com

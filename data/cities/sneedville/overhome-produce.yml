@@ -1,11 +1,11 @@
 id: 590261258
-type: way
+type: node
 latitude: 36.52992
 longitude: -83.21595
 postcode: "37869"
 city: Sneedville
-street: "Jail Street"
-housenumber: 268
+street: Jail Street
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 875299299
-type: way
+type: node
 latitude: 36.21058
 longitude: -86.73187
 postcode: "37216"
 city: Nashville
-street: "Gallatin Pike"
-housenumber: 3410
-phone: "+1 615-227-5053"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/nashville/inglewood/026/00884"
+street: Gallatin Pike
+housenumber: "3410"
+phone: +1 615-227-5053
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/nashville/inglewood/026/00884

@@ -1,11 +1,11 @@
 id: 51805299
-type: way
+type: node
 latitude: 35.01031
 longitude: -85.21983
 postcode: "37411"
 city: Chattanooga
-street: "Brainerd Road"
-housenumber: 5503
-phone: "+1-423-664-5503"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/chattanooga/tn/0923/"
+street: Brainerd Road
+housenumber: "5503"
+phone: +1-423-664-5503
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/chattanooga/tn/0923/

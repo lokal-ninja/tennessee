@@ -1,11 +1,11 @@
 id: 745188049
-type: way
+type: node
 latitude: 36.35542
 longitude: -82.39998
 postcode: "37604"
 city: Johnson City
-street: "Franklin Terrace Drive"
-housenumber: 3060
-phone: "+1 423-282-2303"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/johnson-city-tn-sams-club/8222"
+street: Franklin Terrace Drive
+housenumber: "3060"
+phone: +1 423-282-2303
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/johnson-city-tn-sams-club/8222

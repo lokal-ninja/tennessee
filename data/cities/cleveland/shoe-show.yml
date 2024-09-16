@@ -1,11 +1,11 @@
 id: 594770836
-type: way
+type: node
 latitude: 35.18563
 longitude: -84.87074
 postcode: "37312"
 city: Cleveland
-street: "Keith Street Northwest"
-housenumber: 2600
-phone: "+1 423 479 2481"
-opening_hours: "Mo-Sa 10:00-21:00; Su 13:00-18:00"
-website: "https://www.shoeshowmega.com/"
+street: Keith Street Northwest
+housenumber: "2600"
+phone: +1 423 479 2481
+opening_hours: Mo-Sa 10:00-21:00; Su 13:00-18:00
+website: https://www.shoeshowmega.com/

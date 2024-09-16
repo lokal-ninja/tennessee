@@ -1,11 +1,11 @@
 id: 1110285858
-type: way
+type: node
 latitude: 36.42598
 longitude: -84.93245
 postcode: "38556"
 city: Jamestown
-street: "South Main Street"
-housenumber: 229
+street: South Main Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

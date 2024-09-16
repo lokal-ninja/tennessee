@@ -1,11 +1,11 @@
 id: 727516380
-type: way
+type: node
 latitude: 36.15664
 longitude: -83.70174
 postcode: "37709"
 city: Blaine
-street: "Rutledge Pike"
-housenumber: 1036
-phone: "865-933-2244"
+street: Rutledge Pike
+housenumber: "1036"
+phone: 865-933-2244
 opening_hours: ""
 website: ""

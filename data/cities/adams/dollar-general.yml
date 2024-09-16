@@ -1,11 +1,11 @@
 id: 249675942
-type: way
+type: node
 latitude: 36.58295
 longitude: -87.068
 postcode: "37010"
 city: Adams
-street: "US Highway 41"
-housenumber: 7730
-phone: "(615) 696-1777"
-opening_hours: "8:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/tn/adams/11451"
+street: US Highway 41
+housenumber: "7730"
+phone: (615) 696-1777
+opening_hours: 8:00-22:00
+website: https://www.dollargeneral.com/store-directory/tn/adams/11451

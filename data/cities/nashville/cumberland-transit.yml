@@ -1,11 +1,11 @@
 id: 446534679
-type: way
+type: node
 latitude: 36.14495
 longitude: -86.81227
 postcode: "37203"
 city: Nashville
-street: "West End Avenue"
-housenumber: 2807
+street: West End Avenue
+housenumber: "2807"
 phone: ""
 opening_hours: ""
-website: "https://cumberlandtransit.com/"
+website: https://cumberlandtransit.com/

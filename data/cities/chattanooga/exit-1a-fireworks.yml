@@ -1,11 +1,11 @@
 id: 700180714
-type: way
+type: node
 latitude: 34.98949
 longitude: -85.19772
 postcode: "37412"
 city: Chattanooga
-street: "Ringgold Road"
-housenumber: 6726
+street: Ringgold Road
+housenumber: "6726"
 phone: ""
 opening_hours: ""
 website: ""

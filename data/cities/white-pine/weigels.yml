@@ -1,11 +1,11 @@
 id: 1038009786
-type: way
+type: node
 latitude: 36.11009
 longitude: -83.34076
 postcode: ""
 city: White Pine
-street: "Roy Messer Highway"
-housenumber: 3685
-phone: "+1 865-765-2363"
-opening_hours: "24/7"
-website: "https://weigels.com/store/store-96/"
+street: Roy Messer Highway
+housenumber: "3685"
+phone: +1 865-765-2363
+opening_hours: 24/7
+website: https://weigels.com/store/store-96/

@@ -1,11 +1,11 @@
 id: 1162045280
-type: way
+type: node
 latitude: 35.75045
 longitude: -85.45669
 postcode: "38585"
 city: Spencer
-street: "State Route111"
-housenumber: 15516
+street: State Route111
+housenumber: "15516"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tn/spencer/10556"
+website: https://www.dollargeneral.com/store-directory/tn/spencer/10556

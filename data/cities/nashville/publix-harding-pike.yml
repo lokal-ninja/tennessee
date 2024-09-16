@@ -1,11 +1,11 @@
 id: 731679140
-type: way
+type: node
 latitude: 36.12722
 longitude: -86.84747
-postcode: "37205-2202"
+postcode: 37205-2202
 city: Nashville
-street: "Harding Pike"
-housenumber: 4324
-phone: "+1 615-279-2038"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1211"
+street: Harding Pike
+housenumber: "4324"
+phone: +1 615-279-2038
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1211

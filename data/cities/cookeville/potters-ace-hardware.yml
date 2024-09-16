@@ -1,11 +1,11 @@
 id: 561364462
-type: way
+type: node
 latitude: 36.14678
 longitude: -85.52349
-postcode: "38501-4126"
+postcode: 38501-4126
 city: Cookeville
-street: "Newman Drive"
-housenumber: 325
-phone: "+1 931-528-8413"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+street: Newman Drive
+housenumber: "325"
+phone: +1 931-528-8413
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

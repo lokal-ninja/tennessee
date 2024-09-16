@@ -1,11 +1,11 @@
 id: 748864752
-type: way
+type: node
 latitude: 36.1947
 longitude: -86.61548
 postcode: "37076"
 city: Hermitage
-street: "Old Hickory Boulevard"
-housenumber: 5010
-phone: "+1 615-889-7211"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Hermitage/TN/Hermitage/37076/733"
+street: Old Hickory Boulevard
+housenumber: "5010"
+phone: +1 615-889-7211
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Hermitage/TN/Hermitage/37076/733

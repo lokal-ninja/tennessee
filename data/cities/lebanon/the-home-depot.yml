@@ -1,11 +1,11 @@
 id: 532022092
-type: way
+type: node
 latitude: 36.18668
 longitude: -86.32211
 postcode: "37090"
 city: Lebanon
-street: "South Hartmann Drive"
-housenumber: 955
-phone: "+1 615-444-5472"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Lebanon-TN/TN/Lebanon/37090/745"
+street: South Hartmann Drive
+housenumber: "955"
+phone: +1 615-444-5472
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Lebanon-TN/TN/Lebanon/37090/745

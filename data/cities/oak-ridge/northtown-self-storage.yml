@@ -1,11 +1,11 @@
 id: 1223374278
-type: way
+type: node
 latitude: 36.0404
 longitude: -84.2113
 postcode: "37830"
 city: Oak Ridge
-street: "Cairo Road"
-housenumber: 150
+street: Cairo Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.northtownstorage.com/"
+website: https://www.northtownstorage.com/

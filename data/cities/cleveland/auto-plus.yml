@@ -1,11 +1,11 @@
 id: 592203502
-type: way
+type: node
 latitude: 35.15926
 longitude: -84.87067
 postcode: "37311"
 city: Cleveland
-street: "Central Avenue Northeast"
-housenumber: 360
-phone: "+1 423 472 3311"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+street: Central Avenue Northeast
+housenumber: "360"
+phone: +1 423 472 3311
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

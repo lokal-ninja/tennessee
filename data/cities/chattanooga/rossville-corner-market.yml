@@ -1,11 +1,11 @@
 id: 1076889940
-type: way
+type: node
 latitude: 35.00112
 longitude: -85.29153
-postcode: "37407-2472"
+postcode: 37407-2472
 city: Chattanooga
-street: "Rossville Boulevard"
-housenumber: 3700
+street: Rossville Boulevard
+housenumber: "3700"
 phone: ""
-opening_hours: "07:00-23:00"
+opening_hours: 07:00-23:00
 website: ""

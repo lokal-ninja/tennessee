@@ -1,11 +1,11 @@
 id: 1085126815
-type: way
+type: node
 latitude: 35.0405
 longitude: -85.3583
-postcode: "37419-1507"
+postcode: 37419-1507
 city: Chattanooga
-street: "Browns Ferry Road"
-housenumber: 541
-phone: "+1 423 825 7060"
-opening_hours: "Mo-Th 05:30-22:30; Fr 05:30-23:00; Sa 07:30-23:00; Su 08:30-22:00"
+street: Browns Ferry Road
+housenumber: "541"
+phone: +1 423 825 7060
+opening_hours: Mo-Th 05:30-22:30; Fr 05:30-23:00; Sa 07:30-23:00; Su 08:30-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 51791062
-type: way
+type: node
 latitude: 35.01456
 longitude: -85.21205
 postcode: "37411"
 city: Chattanooga
-street: "Brainerd Road"
-housenumber: 5839
-phone: "+1 423-899-0130"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/5839-brainerd-rd-chattanooga-37411?number=106"
+street: Brainerd Road
+housenumber: "5839"
+phone: +1 423-899-0130
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/5839-brainerd-rd-chattanooga-37411?number=106

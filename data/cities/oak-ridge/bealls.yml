@@ -4,8 +4,8 @@ latitude: 36.0099
 longitude: -84.2538
 postcode: "37830"
 city: Oak Ridge
-street: "East Main Street"
-housenumber: 223
+street: East Main Street
+housenumber: "223"
 phone: "+18654821360"
-opening_hours: "Mo-Th 09:00-21:00;Fr-Sa 09:00-21:30;Su 10:00-20:00"
-website: "https://www.bealls.com/"
+opening_hours: Mo-Th 09:00-21:00;Fr-Sa 09:00-21:30;Su 10:00-20:00
+website: https://www.bealls.com/

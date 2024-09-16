@@ -1,11 +1,11 @@
 id: 657097363
-type: way
+type: node
 latitude: 35.03989
 longitude: -85.68199
 postcode: "37347"
 city: Kimball
-street: "Kimball Crossing Drive"
-housenumber: 525
-phone: "+1 423-837-6732"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1089/kimball-tn/whats-new"
+street: Kimball Crossing Drive
+housenumber: "525"
+phone: +1 423-837-6732
+opening_hours: 24/7
+website: https://www.walmart.com/store/1089/kimball-tn/whats-new

@@ -1,11 +1,11 @@
 id: 955571561
-type: way
+type: node
 latitude: 35.71904
 longitude: -84.36462
 postcode: "37774"
 city: Loudon
-street: "State Route 72"
-housenumber: 2111
+street: State Route 72
+housenumber: "2111"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2111+highway+72+n-loudon-tn-37774/id=19231"
+website: https://www.walgreens.com/locator/walgreens-2111+highway+72+n-loudon-tn-37774/id=19231

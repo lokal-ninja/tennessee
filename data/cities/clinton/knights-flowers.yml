@@ -1,11 +1,11 @@
 id: 503008794
-type: way
+type: node
 latitude: 36.10488
 longitude: -84.13165
 postcode: "37716"
 city: Clinton
-street: "North Main Street"
-housenumber: 397
+street: North Main Street
+housenumber: "397"
 phone: ""
 opening_hours: ""
-website: "https://www.knightsflowers.com/"
+website: https://www.knightsflowers.com/

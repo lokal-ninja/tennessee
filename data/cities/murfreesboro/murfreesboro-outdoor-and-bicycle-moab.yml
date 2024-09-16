@@ -1,11 +1,11 @@
 id: 304554264
-type: way
+type: node
 latitude: 35.85136
 longitude: -86.39611
 postcode: "37130"
 city: Murfreesboro
-street: "Memorial Boulevard"
-housenumber: 710
-phone: "(615) 893-7725"
+street: Memorial Boulevard
+housenumber: "710"
+phone: (615) 893-7725
 opening_hours: ""
-website: "https://moabbikes.com/"
+website: https://moabbikes.com/

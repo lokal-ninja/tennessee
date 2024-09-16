@@ -1,11 +1,11 @@
 id: 363836829
-type: way
+type: node
 latitude: 35.91566
 longitude: -86.8402
 postcode: "37064"
 city: Franklin
-street: "Murfreesboro Road"
-housenumber: 1010
+street: Murfreesboro Road
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

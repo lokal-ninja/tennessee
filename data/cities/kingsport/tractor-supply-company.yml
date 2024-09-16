@@ -1,11 +1,11 @@
 id: 408017052
-type: way
+type: node
 latitude: 36.55728
 longitude: -82.60692
 postcode: "37660"
 city: Kingsport
-street: "Minnich Trail"
-housenumber: 2606
-phone: "+1 423-245-6660"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Minnich Trail
+housenumber: "2606"
+phone: +1 423-245-6660
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

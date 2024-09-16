@@ -1,11 +1,12 @@
 id: 558555861
-type: way
+type: node
 latitude: 36.16185
 longitude: -85.51461
 postcode: "38501"
 city: Cookeville
-street: "West Spring Street"
-housenumber: 330
-phone: "1-931-526-2163"
-opening_hours: "Sales: M-Sat 8-6 Service: M-W+Friday 7-5 Thur 7-7 Sat 8-12 Bodyshop: M-F 8-4"
-website: "https://www.carlenchevrolet.com"
+street: West Spring Street
+housenumber: "330"
+phone: 1-931-526-2163
+opening_hours: 'Sales: M-Sat 8-6 Service: M-W+Friday 7-5 Thur 7-7 Sat 8-12 Bodyshop:
+    M-F 8-4'
+website: https://www.carlenchevrolet.com

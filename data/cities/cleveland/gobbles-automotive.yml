@@ -1,11 +1,11 @@
 id: 605099615
-type: way
+type: node
 latitude: 35.20399
 longitude: -84.84197
 postcode: "37312"
 city: Cleveland
-street: "North Lee Highway"
-housenumber: 4640
-phone: "+1-423-472-6900"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.gobblesauto.com/"
+street: North Lee Highway
+housenumber: "4640"
+phone: +1-423-472-6900
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.gobblesauto.com/

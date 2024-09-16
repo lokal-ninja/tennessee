@@ -1,11 +1,11 @@
 id: 1156426775
-type: way
+type: node
 latitude: 35.93798
 longitude: -87.29403
 postcode: "37025"
 city: Bon Aqua
-street: "State Highway 46"
-housenumber: 9592
+street: State Highway 46
+housenumber: "9592"
 phone: "+19316704876"
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

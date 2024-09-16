@@ -1,11 +1,11 @@
 id: 470083802
-type: way
+type: node
 latitude: 36.16948
 longitude: -86.50852
-postcode: "37122-6309"
+postcode: 37122-6309
 city: Mount Juliet
-street: "South Mount Juliet Road"
-housenumber: 401
-phone: "+1 615-773-2800"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/mt-juliet/2126"
+street: South Mount Juliet Road
+housenumber: "401"
+phone: +1 615-773-2800
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/mt-juliet/2126

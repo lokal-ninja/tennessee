@@ -1,11 +1,11 @@
 id: 636880361
-type: way
+type: node
 latitude: 35.97929
 longitude: -86.56987
 postcode: "37167"
 city: Smyrna
-street: "Industrial Boulevard"
-housenumber: 807
-phone: "+1 615-220-8487"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tn/smyrna-store1866.html"
+street: Industrial Boulevard
+housenumber: "807"
+phone: +1 615-220-8487
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tn/smyrna-store1866.html

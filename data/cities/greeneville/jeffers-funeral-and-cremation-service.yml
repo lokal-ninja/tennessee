@@ -1,11 +1,11 @@
 id: 560105222
-type: way
+type: node
 latitude: 36.16452
 longitude: -82.82797
 postcode: "37745"
 city: Greeneville
-street: "North College Street"
-housenumber: 208
+street: North College Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

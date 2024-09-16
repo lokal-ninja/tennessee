@@ -1,11 +1,11 @@
 id: 1055468342
-type: way
+type: node
 latitude: 35.91174
 longitude: -85.05722
-postcode: "38572-1732"
+postcode: 38572-1732
 city: crossville
-street: "Highland Drive"
-housenumber: 3125
-phone: "+1 931-788-1807"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+street: Highland Drive
+housenumber: "3125"
+phone: +1 931-788-1807
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

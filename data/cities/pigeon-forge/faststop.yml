@@ -1,11 +1,11 @@
 id: 985012548
-type: way
+type: node
 latitude: 35.81273
 longitude: -83.53814
 postcode: "37863"
 city: Pigeon Forge
-street: "Veterans Boulevard"
-housenumber: 2540
+street: Veterans Boulevard
+housenumber: "2540"
 phone: ""
 opening_hours: ""
-website: "https://faststopmarkets.com/"
+website: https://faststopmarkets.com/

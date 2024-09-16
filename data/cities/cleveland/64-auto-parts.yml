@@ -1,11 +1,11 @@
 id: 415301466
-type: way
+type: node
 latitude: 35.13668
 longitude: -84.76987
 postcode: "37323"
 city: Cleveland
-street: "Waterlevel Highway"
-housenumber: 5761
-phone: "+1 423 476 4477"
+street: Waterlevel Highway
+housenumber: "5761"
+phone: +1 423 476 4477
 opening_hours: ""
-website: "https://autoplusap.com/"
+website: https://autoplusap.com/

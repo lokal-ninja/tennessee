@@ -1,11 +1,11 @@
 id: 544476909
-type: way
+type: node
 latitude: 36.07463
 longitude: -86.9232
 postcode: "37221"
 city: Nashville
-street: "Highway 70 South"
-housenumber: 7120
-phone: "+1-615-486-3706"
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su 10:00-16:00"
-website: "https://locations.af247.com/nashville/7120-hwy-70-s"
+street: Highway 70 South
+housenumber: "7120"
+phone: +1-615-486-3706
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su 10:00-16:00
+website: https://locations.af247.com/nashville/7120-hwy-70-s

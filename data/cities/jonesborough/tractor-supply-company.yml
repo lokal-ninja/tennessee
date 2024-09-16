@@ -1,11 +1,11 @@
 id: 444951903
-type: way
+type: node
 latitude: 36.30171
 longitude: -82.46849
 postcode: "37659"
 city: Jonesborough
-street: "Boones Creek Road"
-housenumber: 507
-phone: "+1 423-753-3232"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Boones Creek Road
+housenumber: "507"
+phone: +1 423-753-3232
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

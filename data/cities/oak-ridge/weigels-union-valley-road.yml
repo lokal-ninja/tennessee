@@ -4,8 +4,8 @@ latitude: 35.99859
 longitude: -84.22652
 postcode: "37830"
 city: Oak Ridge
-street: "Union Valley Road"
-housenumber: 118
+street: Union Valley Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://weigels.com/"
+website: https://weigels.com/

@@ -1,11 +1,11 @@
 id: 602979914
-type: way
+type: node
 latitude: 35.1707
 longitude: -84.88033
 postcode: "37311"
 city: Cleveland
-street: "Keith Street"
-housenumber: 919
+street: Keith Street
+housenumber: "919"
 phone: ""
 opening_hours: ""
 website: ""

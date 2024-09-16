@@ -4,8 +4,8 @@ latitude: 35.20491
 longitude: -89.75967
 postcode: "38002"
 city: Lakeland
-street: "U.S. 64"
-housenumber: 9106
-phone: "+1-901-384-7182"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/lakeland/tn/0908/"
+street: U.S. 64
+housenumber: "9106"
+phone: +1-901-384-7182
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/lakeland/tn/0908/

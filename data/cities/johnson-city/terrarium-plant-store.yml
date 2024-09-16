@@ -4,8 +4,8 @@ latitude: 36.31676
 longitude: -82.35188
 postcode: "37604"
 city: Johnson City
-street: "East Main Street"
-housenumber: 221
-phone: "(423) 202-7930"
-opening_hours: "Su 11:00-18:00; Mo,We-Sa 11:00-19:00; Tu closed"
+street: East Main Street
+housenumber: "221"
+phone: (423) 202-7930
+opening_hours: Su 11:00-18:00; Mo,We-Sa 11:00-19:00; Tu closed
 website: ""

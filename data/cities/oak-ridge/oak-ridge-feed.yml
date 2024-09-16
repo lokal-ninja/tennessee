@@ -4,8 +4,8 @@ latitude: 36.034
 longitude: -84.22374
 postcode: "37830"
 city: Oak Ridge
-street: "Dresden Road"
-housenumber: 100
-phone: "+1 865 482 3229"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-16:00"
+street: Dresden Road
+housenumber: "100"
+phone: +1 865 482 3229
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-16:00
 website: ""

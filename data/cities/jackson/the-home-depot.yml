@@ -1,11 +1,11 @@
 id: 373067729
-type: way
+type: node
 latitude: 35.66519
 longitude: -88.85614
 postcode: "38305"
 city: Jackson
-street: "Vann Drive"
-housenumber: 1120
-phone: "+1 731-660-4322"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/jackson-tn/tn/jackson/38305/727"
+street: Vann Drive
+housenumber: "1120"
+phone: +1 731-660-4322
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/jackson-tn/tn/jackson/38305/727

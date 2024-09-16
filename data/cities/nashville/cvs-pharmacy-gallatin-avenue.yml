@@ -1,11 +1,11 @@
 id: 1000027390
-type: way
+type: node
 latitude: 36.19631
 longitude: -86.74194
 postcode: "37206"
 city: Nashville
-street: "Gallatin Avenue"
-housenumber: 2516
+street: Gallatin Avenue
+housenumber: "2516"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/nashville-tn-pharmacies/2516-gallatin-rd-nashville-tn-37206/storeid=6433"
+website: https://www.cvs.com/store-locator/nashville-tn-pharmacies/2516-gallatin-rd-nashville-tn-37206/storeid=6433

@@ -1,11 +1,11 @@
 id: 511246156
-type: way
+type: node
 latitude: 36.31131
 longitude: -82.19677
 postcode: "37643"
 city: Elizabethton
-street: "Veterans Memorial Parkway"
-housenumber: 4074
-phone: "423-543-8566"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://hayworthtire.com/"
+street: Veterans Memorial Parkway
+housenumber: "4074"
+phone: 423-543-8566
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://hayworthtire.com/

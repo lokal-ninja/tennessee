@@ -1,11 +1,11 @@
 id: 511233100
-type: way
+type: node
 latitude: 36.31645
 longitude: -82.19892
 postcode: "37643"
 city: Elizabethton
-street: "Veterans Memorial Parkway"
-housenumber: 3861
-phone: "+1-423-543-8300"
+street: Veterans Memorial Parkway
+housenumber: "3861"
+phone: +1-423-543-8300
 opening_hours: ""
-website: "https://www.sportsmansauto.com/"
+website: https://www.sportsmansauto.com/

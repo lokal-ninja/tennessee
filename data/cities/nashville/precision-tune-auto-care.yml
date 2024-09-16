@@ -1,11 +1,11 @@
 id: 469868200
-type: way
+type: node
 latitude: 36.08744
 longitude: -86.6503
 postcode: "37217"
 city: Nashville
-street: "Murfreesboro Pike"
-housenumber: 2251
+street: Murfreesboro Pike
+housenumber: "2251"
 phone: ""
 opening_hours: ""
 website: ""

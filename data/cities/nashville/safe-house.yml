@@ -1,11 +1,11 @@
 id: 847836006
-type: way
+type: node
 latitude: 36.14881
 longitude: -86.76901
 postcode: "37210"
 city: Nashville
-street: "4th Avenue South"
-housenumber: 1004
+street: 4th Avenue South
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

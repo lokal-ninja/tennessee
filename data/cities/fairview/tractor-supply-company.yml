@@ -1,11 +1,11 @@
 id: 448837176
-type: way
+type: node
 latitude: 35.96794
 longitude: -87.13374
 postcode: "37062"
 city: Fairview
-street: "Fairview Boulevard"
-housenumber: 2320
-phone: "+1 615 799 1935"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_FAIRVIEW-TN-37062_1157"
+street: Fairview Boulevard
+housenumber: "2320"
+phone: +1 615 799 1935
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_FAIRVIEW-TN-37062_1157

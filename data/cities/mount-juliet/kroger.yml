@@ -1,11 +1,11 @@
 id: 470079740
-type: way
+type: node
 latitude: 36.16525
 longitude: -86.51227
 postcode: "37122"
 city: Mount Juliet
-street: "South Mount Juliet Road"
-housenumber: 401
-phone: "+1 615-758-3300"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/mount-juliet/providence-market-place/026/00578"
+street: South Mount Juliet Road
+housenumber: "401"
+phone: +1 615-758-3300
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/mount-juliet/providence-market-place/026/00578

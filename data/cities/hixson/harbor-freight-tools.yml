@@ -1,11 +1,11 @@
 id: 130663577
-type: way
+type: node
 latitude: 35.12869
 longitude: -85.24538
 postcode: "37343"
 city: Hixson
-street: "Hixson Pike"
-housenumber: 4860
-phone: "+1 423-877-3648"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4860-hixson-pike-ste-112-hixson-37343?number=689"
+street: Hixson Pike
+housenumber: "4860"
+phone: +1 423-877-3648
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4860-hixson-pike-ste-112-hixson-37343?number=689

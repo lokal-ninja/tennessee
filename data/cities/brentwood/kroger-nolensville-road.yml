@@ -1,11 +1,11 @@
 id: 238448341
-type: way
+type: node
 latitude: 36.00091
 longitude: -86.69134
 postcode: "37027"
 city: Brentwood
-street: "Nolensville Road"
-housenumber: 6690
-phone: "+1 615-941-7643"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/brentwood/mill-creek/026/00589"
+street: Nolensville Road
+housenumber: "6690"
+phone: +1 615-941-7643
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/brentwood/mill-creek/026/00589

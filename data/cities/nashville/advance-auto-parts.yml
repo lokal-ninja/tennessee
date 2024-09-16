@@ -1,11 +1,11 @@
 id: 452579080
-type: way
+type: node
 latitude: 36.04692
 longitude: -86.95053
 postcode: "37221"
 city: Nashville
-street: "Temple Road"
-housenumber: 5737
-phone: "+1-615-646-4161"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://stores.advanceautoparts.com/tn/nashville/5737-temple-rd"
+street: Temple Road
+housenumber: "5737"
+phone: +1-615-646-4161
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://stores.advanceautoparts.com/tn/nashville/5737-temple-rd

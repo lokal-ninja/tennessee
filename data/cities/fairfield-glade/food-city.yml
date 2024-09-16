@@ -1,11 +1,11 @@
 id: 713418838
-type: way
+type: node
 latitude: 36.00136
 longitude: -84.92174
 postcode: "38558"
 city: Fairfield Glade
-street: "Town Centre Drive"
-housenumber: 141
+street: Town Centre Drive
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

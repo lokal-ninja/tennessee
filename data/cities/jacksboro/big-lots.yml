@@ -1,11 +1,11 @@
 id: 425557733
-type: way
+type: node
 latitude: 36.34192
 longitude: -84.16956
 postcode: "37757"
 city: Jacksboro
-street: "Jacksboro Pike"
-housenumber: 2500
-phone: "+1 423-562-4463"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tn/jacksboro/2500-jacksboro-pike"
+street: Jacksboro Pike
+housenumber: "2500"
+phone: +1 423-562-4463
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tn/jacksboro/2500-jacksboro-pike

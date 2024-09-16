@@ -1,11 +1,11 @@
 id: 956440885
-type: way
+type: node
 latitude: 35.74525
 longitude: -84.32412
 postcode: "37774"
 city: Loudon
-street: "East Lee Highway"
-housenumber: 707
+street: East Lee Highway
+housenumber: "707"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 239156710
-type: way
+type: node
 latitude: 36.52779
 longitude: -87.35927
 postcode: "37040"
 city: Clarksville
-street: "Franklin Street"
-housenumber: 131
-phone: "+1 931-802-6700"
-opening_hours: "Tu-Th 12:00-20:00; Fr-Sa 12:00-21:00"
-website: "https://www.facebook.com/SweetMemoriesCandyandGifts"
+street: Franklin Street
+housenumber: "131"
+phone: +1 931-802-6700
+opening_hours: Tu-Th 12:00-20:00; Fr-Sa 12:00-21:00
+website: https://www.facebook.com/SweetMemoriesCandyandGifts

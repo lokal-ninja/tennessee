@@ -1,11 +1,11 @@
 id: 930319366
-type: way
+type: node
 latitude: 36.10891
 longitude: -83.33373
 postcode: "37890"
 city: White Pine
-street: "Roy Messer Highway"
-housenumber: 3624
+street: Roy Messer Highway
+housenumber: "3624"
 phone: ""
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/tn/white-pine/3624-roy-messer-highway"
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/tn/white-pine/3624-roy-messer-highway

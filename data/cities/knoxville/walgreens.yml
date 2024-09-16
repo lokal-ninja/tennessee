@@ -1,11 +1,11 @@
 id: 786098187
-type: way
+type: node
 latitude: 35.90966
 longitude: -83.84613
 postcode: "37920"
 city: Knoxville
-street: "Chapman Highway"
-housenumber: 7400
+street: Chapman Highway
+housenumber: "7400"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7400+chapman+hwy-knoxville-tn-37920/id=11174"
+website: https://www.walgreens.com/locator/walgreens-7400+chapman+hwy-knoxville-tn-37920/id=11174

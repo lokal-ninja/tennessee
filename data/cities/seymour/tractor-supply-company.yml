@@ -1,11 +1,11 @@
 id: 1131419237
-type: way
+type: node
 latitude: 35.86565
 longitude: -83.7475
 postcode: "37865"
 city: Seymour
-street: "Chapman Highway"
-housenumber: 11638
-phone: "+1 865-573-0255"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Chapman Highway
+housenumber: "11638"
+phone: +1 865-573-0255
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

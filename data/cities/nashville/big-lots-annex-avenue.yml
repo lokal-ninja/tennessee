@@ -1,11 +1,11 @@
 id: 1018535991
-type: way
+type: node
 latitude: 36.14113
 longitude: -86.88104
 postcode: "37209"
 city: Nashville
-street: "Annex Avenue"
-housenumber: 3734
-phone: "+1 615-352-1297"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://local.biglots.com/tn/nashville/3734-annex-ave"
+street: Annex Avenue
+housenumber: "3734"
+phone: +1 615-352-1297
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://local.biglots.com/tn/nashville/3734-annex-ave

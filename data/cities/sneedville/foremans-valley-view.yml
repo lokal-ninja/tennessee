@@ -1,11 +1,11 @@
 id: 1292805416
-type: way
+type: node
 latitude: 36.55236
 longitude: -83.1718
 postcode: "37869"
 city: Sneedville
-street: "Main Street"
-housenumber: 4399
+street: Main Street
+housenumber: "4399"
 phone: ""
 opening_hours: ""
 website: ""

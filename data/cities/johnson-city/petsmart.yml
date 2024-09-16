@@ -1,11 +1,11 @@
 id: 451260113
-type: way
+type: node
 latitude: 36.34521
 longitude: -82.40082
 postcode: "37604"
 city: Johnson City
-street: "Peoples Street"
-housenumber: 3211
-phone: "+1 423-854-8833"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tn/johnson-city-store0655.html"
+street: Peoples Street
+housenumber: "3211"
+phone: +1 423-854-8833
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tn/johnson-city-store0655.html

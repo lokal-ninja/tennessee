@@ -1,11 +1,11 @@
 id: 1043316193
-type: way
+type: node
 latitude: 36.32092
 longitude: -86.60211
 postcode: "37075"
 city: Hendersonville
-street: "Indian Lake Boulevard"
-housenumber: 217
-phone: "615-822-1806"
+street: Indian Lake Boulevard
+housenumber: "217"
+phone: 615-822-1806
 opening_hours: ""
-website: "https://locations.oshkosh.com/TN/Hendersonville/OshKosh-Hendersonville-TN"
+website: https://locations.oshkosh.com/TN/Hendersonville/OshKosh-Hendersonville-TN

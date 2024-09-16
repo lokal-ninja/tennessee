@@ -1,11 +1,11 @@
 id: 914319840
-type: way
+type: node
 latitude: 35.99645
 longitude: -86.68602
 postcode: "37027"
 city: Brentwood
-street: "Southpoint Parkway"
-housenumber: 7117
-phone: "+1 833-470-7050"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/brentwood/7117-southpoint-parkway"
+street: Southpoint Parkway
+housenumber: "7117"
+phone: +1 833-470-7050
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/brentwood/7117-southpoint-parkway

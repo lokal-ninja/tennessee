@@ -1,11 +1,11 @@
 id: 605099613
-type: way
+type: node
 latitude: 35.20299
 longitude: -84.84277
 postcode: "37312"
 city: Cleveland
-street: "North Lee Highway"
-housenumber: 4600
-phone: "423-790-5609"
-opening_hours: "24/7"
+street: North Lee Highway
+housenumber: "4600"
+phone: 423-790-5609
+opening_hours: 24/7
 website: ""

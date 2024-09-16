@@ -1,11 +1,11 @@
 id: 979692083
-type: way
+type: node
 latitude: 36.37782
 longitude: -82.40648
 postcode: "37601"
 city: Johnson City
-street: "North Roan Street"
-housenumber: 4210
-phone: "423-262-0201"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-4210+n+roan+st-johnson+city-tn-37601/id=10918"
+street: North Roan Street
+housenumber: "4210"
+phone: 423-262-0201
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-4210+n+roan+st-johnson+city-tn-37601/id=10918

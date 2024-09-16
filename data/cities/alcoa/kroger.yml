@@ -1,11 +1,11 @@
 id: 558845989
-type: way
+type: node
 latitude: 35.76399
 longitude: -83.97202
 postcode: "37701"
 city: Alcoa
-street: "South Hall Road"
-housenumber: 244
-phone: "+1 865-977-7441"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/alcoa/alcoa/026/00862"
+street: South Hall Road
+housenumber: "244"
+phone: +1 865-977-7441
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/alcoa/alcoa/026/00862

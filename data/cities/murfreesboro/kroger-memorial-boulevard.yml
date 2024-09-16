@@ -4,8 +4,8 @@ latitude: 35.8865
 longitude: -86.38453
 postcode: "37129"
 city: Murfreesboro
-street: "Memorial Boulevard"
-housenumber: 2325
-phone: "+1 615-848-9255"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/murfreesboro/irongate-village/026/00539"
+street: Memorial Boulevard
+housenumber: "2325"
+phone: +1 615-848-9255
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/murfreesboro/irongate-village/026/00539

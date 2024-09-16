@@ -1,11 +1,11 @@
 id: 309673507
-type: way
+type: node
 latitude: 35.50992
 longitude: -86.45298
 postcode: "37160"
 city: Shelbyville
-street: "North Main Street"
-housenumber: 1734
-phone: "+1 931-680-5045"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1767"
+street: North Main Street
+housenumber: "1734"
+phone: +1 931-680-5045
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1767

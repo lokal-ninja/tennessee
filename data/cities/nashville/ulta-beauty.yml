@@ -4,8 +4,8 @@ latitude: 36.10953
 longitude: -86.765
 postcode: "37204"
 city: Nashville
-street: "Thompson Lane"
-housenumber: 719
-phone: "+1 615-385-2897"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/nashville-tn-722"
+street: Thompson Lane
+housenumber: "719"
+phone: +1 615-385-2897
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/nashville-tn-722

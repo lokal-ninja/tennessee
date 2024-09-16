@@ -1,11 +1,11 @@
 id: 515114521
-type: way
+type: node
 latitude: 36.01923
 longitude: -84.30611
 postcode: "37840"
 city: Oliver Springs
-street: "Midway Drive"
-housenumber: 402
+street: Midway Drive
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

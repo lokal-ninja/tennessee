@@ -1,11 +1,11 @@
 id: 854145507
-type: way
+type: node
 latitude: 36.13583
 longitude: -86.77913
 postcode: "37203"
 city: Nashville
-street: "8th Avenue South"
-housenumber: 1809
+street: 8th Avenue South
+housenumber: "1809"
 phone: ""
 opening_hours: ""
-website: "https://www.thepreservationstation.com/"
+website: https://www.thepreservationstation.com/

@@ -1,11 +1,11 @@
 id: 839176271
-type: way
+type: node
 latitude: 35.03303
 longitude: -85.15116
 postcode: "37421"
 city: Chattanooga
-street: "Gunbarrel Road"
-housenumber: 2020
-phone: "+1 833-470-7090"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/chattanooga/2020-gunbarrel-rd"
+street: Gunbarrel Road
+housenumber: "2020"
+phone: +1 833-470-7090
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/chattanooga/2020-gunbarrel-rd

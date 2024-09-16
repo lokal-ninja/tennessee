@@ -1,11 +1,11 @@
 id: 502600453
-type: way
+type: node
 latitude: 36.10357
 longitude: -84.13165
 postcode: "37716"
 city: Clinton
-street: "Market Street"
-housenumber: 320
+street: Market Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 750615081
-type: way
+type: node
 latitude: 36.43716
 longitude: -84.93673
 postcode: "38556"
 city: Jamestown
-street: "N Main Street"
-housenumber: 471
-phone: "(931) 752-2886"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-19:00"
-website: "https://www.usedcarsjamestowntn.com/"
+street: N Main Street
+housenumber: "471"
+phone: (931) 752-2886
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-19:00
+website: https://www.usedcarsjamestowntn.com/

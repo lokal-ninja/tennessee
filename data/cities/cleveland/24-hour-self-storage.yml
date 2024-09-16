@@ -1,11 +1,11 @@
 id: 592087725
-type: way
+type: node
 latitude: 35.1602
 longitude: -84.87153
 postcode: "37311"
 city: Cleveland
-street: "Central Avenue"
-housenumber: 301
-phone: "+1 423 728 2947"
+street: Central Avenue
+housenumber: "301"
+phone: +1 423 728 2947
 opening_hours: ""
-website: "https://24hourclimatecontrol.com/"
+website: https://24hourclimatecontrol.com/

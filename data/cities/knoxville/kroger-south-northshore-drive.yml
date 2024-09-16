@@ -1,11 +1,11 @@
 id: 372325368
-type: way
+type: node
 latitude: 35.86282
 longitude: -84.06955
 postcode: "37922"
 city: Knoxville
-street: "South Northshore Drive"
-housenumber: 9501
-phone: "+1 865-693-9005"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tn/knoxville/northshore/026/00525"
+street: South Northshore Drive
+housenumber: "9501"
+phone: +1 865-693-9005
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/tn/knoxville/northshore/026/00525

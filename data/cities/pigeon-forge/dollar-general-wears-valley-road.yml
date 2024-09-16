@@ -1,11 +1,11 @@
 id: 1234911718
-type: way
+type: node
 latitude: 35.7954
 longitude: -83.59351
 postcode: ""
 city: Pigeon Forge
-street: "Wears Valley Road"
-housenumber: 730
+street: Wears Valley Road
+housenumber: "730"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tn/pigeon-forge/17649"
+website: https://www.dollargeneral.com/store-directory/tn/pigeon-forge/17649

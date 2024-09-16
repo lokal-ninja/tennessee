@@ -1,11 +1,11 @@
 id: 583290709
-type: way
+type: node
 latitude: 36.14151
 longitude: -86.76967
 postcode: "37203"
 city: Nashville
-street: "Martin Street"
-housenumber: 1229
+street: Martin Street
+housenumber: "1229"
 phone: ""
 opening_hours: ""
-website: "https://fruitshairlab.com/"
+website: https://fruitshairlab.com/

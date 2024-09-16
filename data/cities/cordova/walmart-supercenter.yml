@@ -1,11 +1,11 @@
 id: 828611618
-type: way
+type: node
 latitude: 35.14174
 longitude: -89.79779
 postcode: "38018"
 city: Cordova
-street: "North Germantown Parkway"
-housenumber: 577
-phone: "+1 901-758-1591"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2322-cordova-tn"
+street: North Germantown Parkway
+housenumber: "577"
+phone: +1 901-758-1591
+opening_hours: 24/7
+website: https://www.walmart.com/store/2322-cordova-tn

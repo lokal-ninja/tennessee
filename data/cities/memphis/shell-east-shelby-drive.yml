@@ -1,11 +1,11 @@
 id: 965096591
-type: way
+type: node
 latitude: 35.02003
 longitude: -89.93724
 postcode: "38118"
 city: Memphis
-street: "East Shelby Drive"
-housenumber: 3799
+street: East Shelby Drive
+housenumber: "3799"
 phone: ""
 opening_hours: ""
 website: ""

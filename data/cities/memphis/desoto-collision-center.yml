@@ -1,11 +1,11 @@
 id: 779983278
-type: way
+type: node
 latitude: 35.14083
 longitude: -90.0422
 postcode: "38103"
 city: Memphis
-street: "Union Avenue"
-housenumber: 440
-phone: "+1-901-552-4395"
+street: Union Avenue
+housenumber: "440"
+phone: +1-901-552-4395
 opening_hours: ""
-website: "https://desotocollision.com"
+website: https://desotocollision.com

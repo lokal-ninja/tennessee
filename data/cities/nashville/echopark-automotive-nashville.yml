@@ -1,11 +1,12 @@
 id: 666486934
-type: way
+type: node
 latitude: 36.19222
 longitude: -86.80096
 postcode: "37228"
 city: Nashville
-street: "Rosa L Parks Blvd"
-housenumber: 2121
-phone: "(615) 800-6317"
-opening_hours: "M: 09:00-21:00 | T: 09:00-21:00 | W: 09:00-21:00 | Th: 09:00-21:00 | F: 09:00-21:00 | Sat: 09:00-21:00 | Sun: closed"
-website: "https://www.echopark.com/dealerships/nashville.htm"
+street: Rosa L Parks Blvd
+housenumber: "2121"
+phone: (615) 800-6317
+opening_hours: 'M: 09:00-21:00 | T: 09:00-21:00 | W: 09:00-21:00 | Th: 09:00-21:00
+    | F: 09:00-21:00 | Sat: 09:00-21:00 | Sun: closed'
+website: https://www.echopark.com/dealerships/nashville.htm

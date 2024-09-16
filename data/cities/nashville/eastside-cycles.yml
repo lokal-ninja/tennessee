@@ -1,11 +1,11 @@
 id: 589263312
-type: way
+type: node
 latitude: 36.17731
 longitude: -86.74957
 postcode: "37206"
 city: Nashville
-street: "South 11th Street"
-housenumber: 103
+street: South 11th Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

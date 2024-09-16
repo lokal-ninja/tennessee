@@ -1,11 +1,11 @@
 id: 1029900952
-type: way
+type: node
 latitude: 35.54466
 longitude: -89.66844
 postcode: "38019"
 city: Covington
-street: "Holly Grove Road"
-housenumber: 110
-phone: "+1 901-475-0438"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/covington-tn/tn/covington/38019/779"
+street: Holly Grove Road
+housenumber: "110"
+phone: +1 901-475-0438
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/covington-tn/tn/covington/38019/779

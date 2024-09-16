@@ -1,11 +1,11 @@
 id: 1110289263
-type: way
+type: node
 latitude: 36.42722
 longitude: -84.93328
 postcode: "38556"
 city: Jamestown
-street: "North Smith Street"
-housenumber: 107
+street: North Smith Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

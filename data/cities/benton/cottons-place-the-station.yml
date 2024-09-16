@@ -1,11 +1,11 @@
 id: 1187732546
-type: way
+type: node
 latitude: 35.16944
 longitude: -84.65636
 postcode: "37307"
 city: Benton
-street: "Highway 411"
-housenumber: 6103
-phone: "+1 423 375 5027"
+street: Highway 411
+housenumber: "6103"
+phone: +1 423 375 5027
 opening_hours: ""
 website: ""

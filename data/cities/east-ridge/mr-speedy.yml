@@ -1,11 +1,11 @@
 id: 850317498
-type: way
+type: node
 latitude: 34.99898
 longitude: -85.21734
-postcode: "37412-3910"
+postcode: 37412-3910
 city: East Ridge
-street: "Spring Creek Road"
-housenumber: 948
+street: Spring Creek Road
+housenumber: "948"
 phone: ""
-opening_hours: "Mo-Th,Sa 07:00-22:00; Fr 07:00-23:00; Su 09:00-22:00"
+opening_hours: Mo-Th,Sa 07:00-22:00; Fr 07:00-23:00; Su 09:00-22:00
 website: ""

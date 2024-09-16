@@ -1,11 +1,11 @@
 id: 296699867
-type: way
+type: node
 latitude: 35.84879
 longitude: -86.44318
 postcode: "37129"
 city: Murfreesboro
-street: "John R. Rice Boulevard"
-housenumber: 125
-phone: "+1 615-895-4246"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/murfreesboro-tn-sams-club/6501"
+street: John R. Rice Boulevard
+housenumber: "125"
+phone: +1 615-895-4246
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/murfreesboro-tn-sams-club/6501

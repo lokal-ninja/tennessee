@@ -1,11 +1,11 @@
 id: 239156703
-type: way
+type: node
 latitude: 36.52777
 longitude: -87.35935
 postcode: "37040"
 city: Clarksville
-street: "Franklin Street"
-housenumber: 129
-phone: "+1 931-906-3563"
-opening_hours: "Mo-Th 14:00-22:00; Fr-Sa 12:00-0:00"
-website: "https://www.tattootechnique97.com/"
+street: Franklin Street
+housenumber: "129"
+phone: +1 931-906-3563
+opening_hours: Mo-Th 14:00-22:00; Fr-Sa 12:00-0:00
+website: https://www.tattootechnique97.com/

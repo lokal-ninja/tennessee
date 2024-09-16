@@ -1,11 +1,11 @@
 id: 1278544111
-type: way
+type: node
 latitude: 36.01516
 longitude: -83.97016
 postcode: "37912"
 city: Knoxville
-street: "Cedar Lane Northeast"
-housenumber: 215
+street: Cedar Lane Northeast
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

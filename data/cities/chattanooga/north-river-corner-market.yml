@@ -1,11 +1,11 @@
 id: 149021799
-type: way
+type: node
 latitude: 35.06832
 longitude: -85.31037
 postcode: "37405"
 city: Chattanooga
-street: "West Bell Avenue"
-housenumber: 100
-phone: "+1-423-266-5006"
+street: West Bell Avenue
+housenumber: "100"
+phone: +1-423-266-5006
 opening_hours: ""
 website: ""

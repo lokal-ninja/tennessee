@@ -1,11 +1,11 @@
 id: 334446692
-type: way
+type: node
 latitude: 36.34319
 longitude: -84.17072
 postcode: "37766"
 city: La Follette
-street: "Jacksboro Pike"
-housenumber: 2444
-phone: "+1 423-563-6020"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2823"
+street: Jacksboro Pike
+housenumber: "2444"
+phone: +1 423-563-6020
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2823

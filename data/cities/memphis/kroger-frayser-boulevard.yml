@@ -4,8 +4,8 @@ latitude: 35.22269
 longitude: -89.97678
 postcode: "38127"
 city: Memphis
-street: "Frayser Boulevard"
-housenumber: 2632
-phone: "+1 901-353-8284"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.kroger.com/stores/grocery/tn/memphis/frayser/025/00425"
+street: Frayser Boulevard
+housenumber: "2632"
+phone: +1 901-353-8284
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.kroger.com/stores/grocery/tn/memphis/frayser/025/00425

@@ -1,11 +1,11 @@
 id: 1211671333
-type: way
+type: node
 latitude: 35.44296
 longitude: -88.66228
 postcode: "38340"
 city: Henderson
-street: "Highway 45 North"
-housenumber: 635
-phone: "+1 731-989-5556"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 45 North
+housenumber: "635"
+phone: +1 731-989-5556
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

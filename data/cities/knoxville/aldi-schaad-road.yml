@@ -1,11 +1,11 @@
 id: 758365041
-type: way
+type: node
 latitude: 36.00385
 longitude: -84.02329
 postcode: "37921"
 city: Knoxville
-street: "Schaad Road"
-housenumber: 2801
-phone: "+1 833-470-7010"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/knoxville/2801-schaad-rd"
+street: Schaad Road
+housenumber: "2801"
+phone: +1 833-470-7010
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/knoxville/2801-schaad-rd

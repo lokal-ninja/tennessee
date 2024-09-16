@@ -1,11 +1,11 @@
 id: 710611410
-type: way
+type: node
 latitude: 36.2565
 longitude: -86.6535
 postcode: "37138"
 city: Old Hickory
-street: "Robinson Road"
-housenumber: 1439
-phone: "+1 615-847-2347"
+street: Robinson Road
+housenumber: "1439"
+phone: +1 615-847-2347
 opening_hours: ""
 website: ""

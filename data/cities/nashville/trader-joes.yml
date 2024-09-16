@@ -1,11 +1,11 @@
 id: 260115284
-type: way
+type: node
 latitude: 36.10535
 longitude: -86.81539
 postcode: "37215"
 city: Nashville
-street: "Hillsboro Pike"
-housenumber: 3909
-phone: "+1 615-297-6560"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/"
+street: Hillsboro Pike
+housenumber: "3909"
+phone: +1 615-297-6560
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/

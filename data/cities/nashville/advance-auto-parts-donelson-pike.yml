@@ -1,11 +1,11 @@
 id: 747937766
-type: way
+type: node
 latitude: 36.1494
 longitude: -86.66571
 postcode: "37214"
 city: Nashville
-street: "Donelson Pike"
-housenumber: 517
+street: Donelson Pike
+housenumber: "517"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tn/nashville/517-donelson-pike"
+website: https://stores.advanceautoparts.com/tn/nashville/517-donelson-pike

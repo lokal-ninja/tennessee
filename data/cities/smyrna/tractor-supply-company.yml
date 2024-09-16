@@ -1,11 +1,11 @@
 id: 264754853
-type: way
+type: node
 latitude: 35.9947
 longitude: -86.5268
 postcode: "37167"
 city: Smyrna
-street: "Nolan Drive"
-housenumber: 513
-phone: "+1 615-459-0225"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Nolan Drive
+housenumber: "513"
+phone: +1 615-459-0225
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

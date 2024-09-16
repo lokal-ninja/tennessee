@@ -1,11 +1,11 @@
 id: 95136900
-type: way
+type: node
 latitude: 35.13963
 longitude: -90.05252
 postcode: "38103"
 city: Memphis
-street: "Beale Street"
-housenumber: 163
+street: Beale Street
+housenumber: "163"
 phone: ""
 opening_hours: ""
-website: "https://a-schwab.com/"
+website: https://a-schwab.com/

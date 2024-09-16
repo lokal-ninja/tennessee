@@ -1,11 +1,11 @@
 id: 615036091
-type: way
+type: node
 latitude: 35.15034
 longitude: -84.82374
 postcode: "37323"
 city: Cleveland
-street: "Minnis Road Northeast"
-housenumber: 315
+street: Minnis Road Northeast
+housenumber: "315"
 phone: ""
-opening_hours: "We-Sa 10:00-18:00"
-website: "https://www.facebook.com/pg/miscellaneousjoans/"
+opening_hours: We-Sa 10:00-18:00
+website: https://www.facebook.com/pg/miscellaneousjoans/

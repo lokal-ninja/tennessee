@@ -1,11 +1,11 @@
 id: 503008823
-type: way
+type: node
 latitude: 36.10412
 longitude: -84.12922
 postcode: "37716"
 city: Clinton
-street: "Eagle Bend Road"
-housenumber: 419
+street: Eagle Bend Road
+housenumber: "419"
 phone: ""
 opening_hours: ""
-website: "http://www.williebakery.com/"
+website: http://www.williebakery.com/

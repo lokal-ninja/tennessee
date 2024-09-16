@@ -1,11 +1,11 @@
 id: 560400744
-type: way
+type: node
 latitude: 36.30964
 longitude: -86.68629
 postcode: "37115"
 city: Madison
-street: "Gallatin Pike North"
-housenumber: 2232
-phone: "+1 615-859-7212"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/695/madison-tn/whats-new"
+street: Gallatin Pike North
+housenumber: "2232"
+phone: +1 615-859-7212
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/695/madison-tn/whats-new

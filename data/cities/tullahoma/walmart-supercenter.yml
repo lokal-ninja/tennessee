@@ -1,11 +1,11 @@
 id: 1158298871
-type: way
+type: node
 latitude: 35.38995
 longitude: -86.24065
 postcode: "37388"
 city: Tullahoma
-street: "North Jackson Street"
-housenumber: 2111
-phone: "+1 931-455-1382"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/667/tullahoma-tn/whats-new"
+street: North Jackson Street
+housenumber: "2111"
+phone: +1 931-455-1382
+opening_hours: 24/7
+website: https://www.walmart.com/store/667/tullahoma-tn/whats-new

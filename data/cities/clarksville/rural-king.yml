@@ -1,11 +1,11 @@
 id: 376398983
-type: way
+type: node
 latitude: 36.55273
 longitude: -87.39399
 postcode: "37042"
 city: Clarksville
-street: "Fort Campbell Boulevard"
-housenumber: 1141
-phone: "+1 931-542-0051"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/clarksville-tn"
+street: Fort Campbell Boulevard
+housenumber: "1141"
+phone: +1 931-542-0051
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/clarksville-tn

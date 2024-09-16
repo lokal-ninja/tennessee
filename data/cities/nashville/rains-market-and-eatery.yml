@@ -1,11 +1,11 @@
 id: 703420993
-type: way
+type: node
 latitude: 36.13964
 longitude: -86.76376
 postcode: "37203"
 city: Nashville
-street: "Rains Avenue"
-housenumber: 106
+street: Rains Avenue
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

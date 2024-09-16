@@ -1,11 +1,11 @@
 id: 330808079
-type: way
+type: node
 latitude: 36.56969
 longitude: -87.40567
 postcode: "37042"
 city: Clarksville
-street: "Fort Campbell Boulevard"
-housenumber: 1506
-phone: "+1 931-648-0347"
-opening_hours: "24/7"
-website: "http://www.DodgesPizza.com"
+street: Fort Campbell Boulevard
+housenumber: "1506"
+phone: +1 931-648-0347
+opening_hours: 24/7
+website: http://www.DodgesPizza.com

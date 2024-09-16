@@ -1,11 +1,11 @@
 id: 1012903450
-type: way
+type: node
 latitude: 36.15793
 longitude: -82.40248
 postcode: "37650"
 city: Erwin
-street: "North Main Avenue"
-housenumber: 1128
-phone: "423-388-3835"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/tn/erwin/autoparts-5082.html"
+street: North Main Avenue
+housenumber: "1128"
+phone: 423-388-3835
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/tn/erwin/autoparts-5082.html

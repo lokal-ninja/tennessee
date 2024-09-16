@@ -1,11 +1,11 @@
 id: 576288012
-type: way
+type: node
 latitude: 36.15421
 longitude: -85.64137
 postcode: "38544"
 city: Baxter
-street: "Broad Street"
-housenumber: 221
-phone: "(931) 858-3012"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Broad Street
+housenumber: "221"
+phone: (931) 858-3012
+opening_hours: Mo-Su 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 302750901
-type: way
+type: node
 latitude: 35.18182
 longitude: -89.89565
 postcode: "38128"
 city: Memphis
-street: "Covington Way"
-housenumber: 2110
-phone: "(901) 373-2700"
+street: Covington Way
+housenumber: "2110"
+phone: (901) 373-2700
 opening_hours: ""
-website: "https://www.subarumemphis.com/"
+website: https://www.subarumemphis.com/

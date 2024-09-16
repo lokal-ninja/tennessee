@@ -1,11 +1,11 @@
 id: 758365039
-type: way
+type: node
 latitude: 36.00447
 longitude: -84.02244
 postcode: "37921"
 city: Knoxville
-street: "Schaad Road"
-housenumber: 2751
-phone: "+1 865-938-3574"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/n-knoxville/tn/knoxville/37921/728"
+street: Schaad Road
+housenumber: "2751"
+phone: +1 865-938-3574
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/n-knoxville/tn/knoxville/37921/728

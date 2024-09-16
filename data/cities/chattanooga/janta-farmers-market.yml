@@ -1,11 +1,11 @@
 id: 859941391
-type: way
+type: node
 latitude: 35.03457
 longitude: -85.1781
 postcode: ""
 city: Chattanooga
-street: "Lee Highway"
-housenumber: 6500
-phone: "+1 423 551 8285"
-opening_hours: "09:30-20:30"
+street: Lee Highway
+housenumber: "6500"
+phone: +1 423 551 8285
+opening_hours: 09:30-20:30
 website: ""

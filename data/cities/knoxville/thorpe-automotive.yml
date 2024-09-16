@@ -1,11 +1,11 @@
 id: 1299497444
-type: way
+type: node
 latitude: 36.00676
 longitude: -84.01533
 postcode: "37912"
 city: Knoxville
-street: "Clinton Highway"
-housenumber: 6537
+street: Clinton Highway
+housenumber: "6537"
 phone: "+18655072277"
 opening_hours: ""
-website: "https://thorpeautomotive.com/"
+website: https://thorpeautomotive.com/

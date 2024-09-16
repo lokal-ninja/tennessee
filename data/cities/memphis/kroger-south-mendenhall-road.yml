@@ -1,11 +1,11 @@
 id: 277183442
-type: way
+type: node
 latitude: 35.11691
 longitude: -89.89377
 postcode: "38117"
 city: Memphis
-street: "South Mendenhall Road"
-housenumber: 540
-phone: "+1 901-683-8843"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tn/memphis/mendenhall-sanderlin/025/00430"
+street: South Mendenhall Road
+housenumber: "540"
+phone: +1 901-683-8843
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tn/memphis/mendenhall-sanderlin/025/00430

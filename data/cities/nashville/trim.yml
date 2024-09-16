@@ -4,8 +4,8 @@ latitude: 36.12666
 longitude: -86.7894
 postcode: ""
 city: Nashville
-street: "12th Avenue South"
-housenumber: 2315
-phone: "+1-615-269-8029"
-opening_hours: "Tu-Fr 08:00-20:00; Sa 08:00-17:00"
-website: "https://www.trimnashville.com/"
+street: 12th Avenue South
+housenumber: "2315"
+phone: +1-615-269-8029
+opening_hours: Tu-Fr 08:00-20:00; Sa 08:00-17:00
+website: https://www.trimnashville.com/

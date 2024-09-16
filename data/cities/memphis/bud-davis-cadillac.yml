@@ -1,11 +1,11 @@
 id: 675914136
-type: way
+type: node
 latitude: 35.10582
 longitude: -89.88226
 postcode: "38119"
 city: Memphis
-street: "Poplar Avenue"
-housenumber: 5433
+street: Poplar Avenue
+housenumber: "5433"
 phone: ""
 opening_hours: ""
 website: ""

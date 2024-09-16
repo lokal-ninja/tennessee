@@ -1,11 +1,11 @@
 id: 1241567719
-type: way
+type: node
 latitude: 35.98427
 longitude: -84.18361
 postcode: "37931"
 city: Knoxville
-street: "Jim Jones Lane"
-housenumber: 5006
+street: Jim Jones Lane
+housenumber: "5006"
 phone: ""
 opening_hours: ""
-website: "https://solwaystorage.com/"
+website: https://solwaystorage.com/

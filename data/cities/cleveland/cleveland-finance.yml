@@ -1,11 +1,11 @@
 id: 979905288
-type: way
+type: node
 latitude: 35.16139
 longitude: -84.87972
 postcode: "37311"
 city: Cleveland
-street: "Inman Street West"
-housenumber: 430
-phone: "+1 423 472 3314"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Inman Street West
+housenumber: "430"
+phone: +1 423 472 3314
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

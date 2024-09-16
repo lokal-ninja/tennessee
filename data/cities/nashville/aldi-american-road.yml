@@ -1,11 +1,11 @@
 id: 852476060
-type: way
+type: node
 latitude: 36.14469
 longitude: -86.87395
 postcode: "37209"
 city: Nashville
-street: "American Road"
-housenumber: 405
-phone: "+1 833-470-7046"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/nashville/405-american-rd"
+street: American Road
+housenumber: "405"
+phone: +1 833-470-7046
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/nashville/405-american-rd

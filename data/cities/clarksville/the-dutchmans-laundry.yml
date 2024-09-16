@@ -1,11 +1,11 @@
 id: 382143830
-type: way
+type: node
 latitude: 36.55266
 longitude: -87.41834
 postcode: "37042"
 city: Clarksville
-street: "Dover Road"
-housenumber: 551
-phone: "+1 931-896-2600"
-opening_hours: "07:00-22:00"
+street: Dover Road
+housenumber: "551"
+phone: +1 931-896-2600
+opening_hours: 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 941617147
-type: way
+type: node
 latitude: 35.04564
 longitude: -89.68041
 postcode: "38017"
 city: Collierville
-street: "West Poplar Avenue"
-housenumber: 523
-phone: "+1 833-470-7074"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/tn/collierville/523-w-poplar-ave"
+street: West Poplar Avenue
+housenumber: "523"
+phone: +1 833-470-7074
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/tn/collierville/523-w-poplar-ave

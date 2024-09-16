@@ -1,11 +1,11 @@
 id: 372497368
-type: way
+type: node
 latitude: 35.88147
 longitude: -84.15855
 postcode: "37934"
 city: Farragut
-street: "Brooklawn Street"
-housenumber: 119
+street: Brooklawn Street
+housenumber: "119"
 phone: "8659663473"
-opening_hours: "10:30-21:00"
-website: "https://www.firehousesubs.com/store-locator/store/YovCMfxpB1oQyjVdBmgEdG"
+opening_hours: 10:30-21:00
+website: https://www.firehousesubs.com/store-locator/store/YovCMfxpB1oQyjVdBmgEdG

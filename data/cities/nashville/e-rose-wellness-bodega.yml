@@ -1,11 +1,11 @@
 id: 647470221
-type: way
+type: node
 latitude: 36.14003
 longitude: -86.76981
 postcode: "37203"
 city: Nashville
-street: "Merritt Avenue"
-housenumber: 610
+street: Merritt Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://eandrose.com/"
+website: https://eandrose.com/

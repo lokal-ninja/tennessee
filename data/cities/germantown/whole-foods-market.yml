@@ -1,11 +1,11 @@
 id: 1218535991
-type: way
+type: node
 latitude: 35.08926
 longitude: -89.80219
 postcode: "38138"
 city: Germantown
-street: "US Highway 72"
-housenumber: 7825
-phone: "+1 901-896-3245"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/germantown"
+street: US Highway 72
+housenumber: "7825"
+phone: +1 901-896-3245
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/germantown

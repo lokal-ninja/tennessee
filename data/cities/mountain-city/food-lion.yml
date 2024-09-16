@@ -1,11 +1,11 @@
 id: 941601442
-type: way
+type: node
 latitude: 36.44538
 longitude: -81.79603
 postcode: "37683"
 city: Mountain City
-street: "South Shady Street"
-housenumber: 2291
+street: South Shady Street
+housenumber: "2291"
 phone: ""
 opening_hours: ""
 website: ""

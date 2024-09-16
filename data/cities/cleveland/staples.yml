@@ -4,8 +4,8 @@ latitude: 35.20019
 longitude: -84.84882
 postcode: "37312"
 city: Cleveland
-street: "Keith Street"
-housenumber: 4375
+street: Keith Street
+housenumber: "4375"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/tn/cleveland/4375-keith-st"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/tn/cleveland/4375-keith-st

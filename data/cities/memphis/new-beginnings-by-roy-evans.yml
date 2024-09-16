@@ -1,11 +1,11 @@
 id: 675847240
-type: way
+type: node
 latitude: 35.10181
 longitude: -89.87204
 postcode: "38119"
 city: Memphis
-street: "West Rex Road"
-housenumber: 1086
-phone: "+1-901-405-0480"
+street: West Rex Road
+housenumber: "1086"
+phone: +1-901-405-0480
 opening_hours: ""
-website: "https://royevansnewbeginnings.com"
+website: https://royevansnewbeginnings.com

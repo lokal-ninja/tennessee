@@ -4,8 +4,8 @@ latitude: 35.18469
 longitude: -84.87324
 postcode: "37311"
 city: Cleveland
-street: "25th Street Northwest"
-housenumber: 840
-phone: "+1 423-472-3928"
-opening_hours: "Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tn/cleveland/840-25th-st-nw"
+street: 25th Street Northwest
+housenumber: "840"
+phone: +1 423-472-3928
+opening_hours: Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tn/cleveland/840-25th-st-nw

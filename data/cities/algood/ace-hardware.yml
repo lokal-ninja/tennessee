@@ -1,11 +1,11 @@
 id: 545958364
-type: way
+type: node
 latitude: 36.18366
 longitude: -85.45922
-postcode: "38506-5322"
+postcode: 38506-5322
 city: Algood
-street: "West Main Street"
-housenumber: 615
-phone: "+1 931-537-3312"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+street: West Main Street
+housenumber: "615"
+phone: +1 931-537-3312
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

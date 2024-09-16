@@ -1,11 +1,11 @@
 id: 658884701
-type: way
+type: node
 latitude: 36.08762
 longitude: -86.6903
 postcode: "37211"
 city: Nashville
-street: "Antioch Pike"
-housenumber: 1300
-phone: "+1 615-834-9092"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/nashville-tn-sams-club/8294"
+street: Antioch Pike
+housenumber: "1300"
+phone: +1 615-834-9092
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/nashville-tn-sams-club/8294

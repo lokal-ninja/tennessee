@@ -1,11 +1,11 @@
 id: 386424886
-type: way
+type: node
 latitude: 36.52877
 longitude: -87.36343
 postcode: "37040"
 city: Clarksville
-street: "North Riverside Drive"
-housenumber: 261
-phone: "+1 931-551-4977"
-opening_hours: "24/7"
+street: North Riverside Drive
+housenumber: "261"
+phone: +1 931-551-4977
+opening_hours: 24/7
 website: ""

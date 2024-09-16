@@ -1,11 +1,11 @@
 id: 746819137
-type: way
+type: node
 latitude: 36.48421
 longitude: -82.50334
 postcode: "37663"
 city: Kingsport
-street: "Fort Henry Drive"
-housenumber: 4106
+street: Fort Henry Drive
+housenumber: "4106"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kingsport-tn-pharmacies/4106-ft-henry-dr-kingsport-tn-37663/storeid=5664"
+website: https://www.cvs.com/store-locator/kingsport-tn-pharmacies/4106-ft-henry-dr-kingsport-tn-37663/storeid=5664

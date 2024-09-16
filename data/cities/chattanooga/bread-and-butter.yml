@@ -1,11 +1,11 @@
 id: 939363567
-type: way
+type: node
 latitude: 35.12071
 longitude: -85.28899
 postcode: "37415"
 city: Chattanooga
-street: "Dayton Boulevard"
-housenumber: 3955
+street: Dayton Boulevard
+housenumber: "3955"
 phone: ""
 opening_hours: ""
 website: ""

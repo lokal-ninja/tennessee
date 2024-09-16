@@ -1,11 +1,11 @@
 id: 186058072
-type: way
+type: node
 latitude: 35.20765
 longitude: -89.78353
 postcode: "38133"
 city: Bartlett
-street: "Highway 64"
-housenumber: 8400
-phone: "+1 901-382-6101"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/950/bartlett-tn/whats-new"
+street: Highway 64
+housenumber: "8400"
+phone: +1 901-382-6101
+opening_hours: 24/7
+website: https://www.walmart.com/store/950/bartlett-tn/whats-new

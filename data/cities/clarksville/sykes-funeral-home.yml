@@ -1,11 +1,11 @@
 id: 784970618
-type: way
+type: node
 latitude: 36.52884
 longitude: -87.35554
 postcode: "37040"
 city: Clarksville
-street: "Franklin Street"
-housenumber: 419
+street: Franklin Street
+housenumber: "419"
 phone: ""
 opening_hours: ""
 website: ""

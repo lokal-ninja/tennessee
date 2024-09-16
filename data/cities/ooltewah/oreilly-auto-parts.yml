@@ -1,11 +1,11 @@
 id: 439917525
-type: way
+type: node
 latitude: 35.08287
 longitude: -85.05727
 postcode: "37363"
 city: Ooltewah
-street: "Lee Highway"
-housenumber: 9407
+street: Lee Highway
+housenumber: "9407"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tn/ooltewah/autoparts-956.html"
+website: https://locations.oreillyauto.com/tn/ooltewah/autoparts-956.html

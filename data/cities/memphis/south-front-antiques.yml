@@ -1,11 +1,11 @@
 id: 779422857
-type: way
+type: node
 latitude: 35.13669
 longitude: -90.05867
 postcode: "38103"
 city: Memphis
-street: "South Front Street"
-housenumber: 374
-phone: "+1-901-229-0299"
+street: South Front Street
+housenumber: "374"
+phone: +1-901-229-0299
 opening_hours: ""
 website: ""

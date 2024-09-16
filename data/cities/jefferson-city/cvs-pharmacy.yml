@@ -1,11 +1,11 @@
 id: 954341647
-type: way
+type: node
 latitude: 36.11548
 longitude: -83.48994
 postcode: ""
 city: Jefferson City
-street: "E Broadway Blvd"
-housenumber: 139
+street: E Broadway Blvd
+housenumber: "139"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jefferson-city-tn-pharmacies/139-e-broadway-blvd-jefferson-city-tn-37760/storeid=3769"
+website: https://www.cvs.com/store-locator/jefferson-city-tn-pharmacies/139-e-broadway-blvd-jefferson-city-tn-37760/storeid=3769

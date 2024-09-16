@@ -1,11 +1,11 @@
 id: 627639459
-type: way
+type: node
 latitude: 36.04848
 longitude: -86.71225
 postcode: "37211"
 city: Nashville
-street: "Nolensville Pike"
-housenumber: 5520
-phone: "+1 615-831-6000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2725"
+street: Nolensville Pike
+housenumber: "5520"
+phone: +1 615-831-6000
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2725

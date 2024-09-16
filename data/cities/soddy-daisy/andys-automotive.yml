@@ -1,11 +1,11 @@
 id: 1105797102
-type: way
+type: node
 latitude: 35.22286
 longitude: -85.2181
 postcode: "37379"
 city: Soddy-Daisy
-street: "Industrial Park Drive"
-housenumber: 107
+street: Industrial Park Drive
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

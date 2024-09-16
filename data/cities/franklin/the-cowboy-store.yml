@@ -1,11 +1,11 @@
 id: 345647614
-type: way
+type: node
 latitude: 35.91187
 longitude: -86.83163
 postcode: "37064"
 city: Franklin
-street: "South Royal Oaks Boulevard"
-housenumber: 209
+street: South Royal Oaks Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

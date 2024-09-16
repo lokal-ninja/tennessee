@@ -1,11 +1,11 @@
 id: 346618753
-type: way
+type: node
 latitude: 36.34819
 longitude: -82.37455
 postcode: "37601"
 city: Johnson City
-street: "Princeton Road"
-housenumber: 207
+street: Princeton Road
+housenumber: "207"
 phone: "4232823000"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1302111754
-type: way
+type: node
 latitude: 35.98092
 longitude: -86.56337
 postcode: "37167"
 city: Smyrna
-street: "Grammer Lane"
-housenumber: 900
-phone: "+1 (615) -810-3427"
+street: Grammer Lane
+housenumber: "900"
+phone: +1 (615) -810-3427
 opening_hours: ""
 website: ""

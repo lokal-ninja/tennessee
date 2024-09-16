@@ -1,11 +1,11 @@
 id: 1195313566
-type: way
+type: node
 latitude: 36.29746
 longitude: -87.04711
 postcode: "37015"
 city: Ashland City
-street: "Frey Street"
-housenumber: 356
-phone: "+1 615-792-1903"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_AshlandCity-TN-37015_117"
+street: Frey Street
+housenumber: "356"
+phone: +1 615-792-1903
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_AshlandCity-TN-37015_117

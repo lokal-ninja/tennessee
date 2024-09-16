@@ -1,11 +1,11 @@
 id: 239164984
-type: way
+type: node
 latitude: 36.52716
 longitude: -87.36046
 postcode: ""
 city: Clarksville
-street: "Franklin Street"
-housenumber: 96
-phone: "931-552-4747"
-opening_hours: "We-Fr 12:00-16:00; Sa 9:00-17:00"
-website: "https://www.downtownartistsco-op.com/"
+street: Franklin Street
+housenumber: "96"
+phone: 931-552-4747
+opening_hours: We-Fr 12:00-16:00; Sa 9:00-17:00
+website: https://www.downtownartistsco-op.com/

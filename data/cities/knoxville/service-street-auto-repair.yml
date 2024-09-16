@@ -1,11 +1,11 @@
 id: 1105924446
-type: way
+type: node
 latitude: 35.98362
 longitude: -84.18544
 postcode: "37931"
 city: Knoxville
-street: "Oak Ridge Highway"
-housenumber: 9009
+street: Oak Ridge Highway
+housenumber: "9009"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.servicestreet.com/solway"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.servicestreet.com/solway

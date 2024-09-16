@@ -1,11 +1,11 @@
 id: 600712508
-type: way
+type: node
 latitude: 36.04115
 longitude: -86.70973
 postcode: "37211"
 city: Nashville
-street: "Nolensville Pike"
-housenumber: 5824
-phone: "+1 615-331-4666"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/688/nashville-tn"
+street: Nolensville Pike
+housenumber: "5824"
+phone: +1 615-331-4666
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/688/nashville-tn

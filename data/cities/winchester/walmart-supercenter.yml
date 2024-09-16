@@ -1,11 +1,11 @@
 id: 1015904523
-type: way
+type: node
 latitude: 35.21832
 longitude: -86.10452
 postcode: "37398"
 city: Winchester
-street: "Decherd Boulevard"
-housenumber: 2675
-phone: "+1 931-967-0207"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/735/winchester-tn/whats-new"
+street: Decherd Boulevard
+housenumber: "2675"
+phone: +1 931-967-0207
+opening_hours: 24/7
+website: https://www.walmart.com/store/735/winchester-tn/whats-new

@@ -1,11 +1,11 @@
 id: 1228081693
-type: way
+type: node
 latitude: 36.04531
 longitude: -84.34025
 postcode: "37840"
 city: Oliver Springs
-street: "Main Street"
-housenumber: 409
+street: Main Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

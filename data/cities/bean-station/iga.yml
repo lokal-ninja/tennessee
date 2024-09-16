@@ -1,11 +1,11 @@
 id: 895716053
-type: way
+type: node
 latitude: 36.34195
 longitude: -83.27821
 postcode: "37708"
 city: Bean Station
-street: "Main Street"
-housenumber: 1050
-phone: "+1 865-448-3010"
+street: Main Street
+housenumber: "1050"
+phone: +1 865-448-3010
 opening_hours: ""
 website: ""

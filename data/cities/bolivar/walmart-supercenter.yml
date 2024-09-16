@@ -1,11 +1,11 @@
 id: 1311908162
-type: way
+type: node
 latitude: 35.2805
 longitude: -89.02501
 postcode: "38008"
 city: Bolivar
-street: "West Market Street"
-housenumber: 1604
-phone: "+1 731-658-7794"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/466/bolivar-tn/whats-new"
+street: West Market Street
+housenumber: "1604"
+phone: +1 731-658-7794
+opening_hours: 24/7
+website: https://www.walmart.com/store/466/bolivar-tn/whats-new

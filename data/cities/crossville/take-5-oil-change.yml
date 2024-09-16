@@ -1,11 +1,11 @@
 id: 863819629
-type: way
+type: node
 latitude: 35.95723
 longitude: -85.03293
 postcode: "38555"
 city: Crossville
-street: "North Main Street"
-housenumber: 743
+street: North Main Street
+housenumber: "743"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-19:00; Su 10:00-16:00
 website: ""

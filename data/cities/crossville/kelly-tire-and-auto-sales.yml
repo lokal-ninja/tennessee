@@ -1,11 +1,11 @@
 id: 863810145
-type: way
+type: node
 latitude: 35.96388
 longitude: -85.04405
 postcode: "38555"
 city: Crossville
-street: "West Avenue"
-housenumber: 
+street: West Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

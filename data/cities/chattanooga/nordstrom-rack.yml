@@ -1,11 +1,11 @@
 id: 919002665
-type: way
+type: node
 latitude: 35.03942
 longitude: -85.15424
 postcode: "37421"
 city: Chattanooga
-street: "Hamilton Place Boulevard"
-housenumber: 2220
-phone: "423-591-6387"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+street: Hamilton Place Boulevard
+housenumber: "2220"
+phone: 423-591-6387
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 190835232
-type: way
+type: node
 latitude: 35.20686
 longitude: -89.78734
 postcode: "38133"
 city: Bartlett
-street: "Highway 64"
-housenumber: 8300
-phone: "+1 901-386-0719"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-bartlett/1187"
+street: Highway 64
+housenumber: "8300"
+phone: +1 901-386-0719
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-bartlett/1187

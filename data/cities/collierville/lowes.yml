@@ -1,11 +1,11 @@
 id: 1227465994
-type: way
+type: node
 latitude: 35.0525
 longitude: -89.69051
 postcode: "38017"
 city: Collierville
-street: "New Byhalia Road"
-housenumber: 425
-phone: "+1 901-316-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-collierville/2543"
+street: New Byhalia Road
+housenumber: "425"
+phone: +1 901-316-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-collierville/2543

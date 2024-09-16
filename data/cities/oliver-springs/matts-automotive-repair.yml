@@ -1,11 +1,11 @@
 id: 399002862
-type: way
+type: node
 latitude: 36.04531
 longitude: -84.3396
 postcode: "37840"
 city: Oliver Springs
-street: "East Spring Street"
-housenumber: 104
+street: East Spring Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

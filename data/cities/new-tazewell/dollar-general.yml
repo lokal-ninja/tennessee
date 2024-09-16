@@ -1,11 +1,11 @@
 id: 340152008
-type: way
+type: node
 latitude: 36.44459
 longitude: -83.59172
 postcode: "37825"
 city: New Tazewell
-street: "Cross Street"
-housenumber: 509
+street: Cross Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tn/new-tazewell/444"
+website: https://www.dollargeneral.com/store-directory/tn/new-tazewell/444

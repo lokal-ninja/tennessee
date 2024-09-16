@@ -1,11 +1,11 @@
 id: 1080085235
-type: way
+type: node
 latitude: 36.02922
 longitude: -86.59014
 postcode: "37013"
 city: Antioch
-street: "Murfreesboro Road"
-housenumber: 4198
-phone: "+1 615-501-0550"
+street: Murfreesboro Road
+housenumber: "4198"
+phone: +1 615-501-0550
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tn/antioch/4198-murfreesboro-rd-41060"
+website: https://www.7-eleven.com/locations/tn/antioch/4198-murfreesboro-rd-41060

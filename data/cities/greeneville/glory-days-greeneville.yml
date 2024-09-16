@@ -1,11 +1,11 @@
 id: 560220813
-type: way
+type: node
 latitude: 36.1624
 longitude: -82.8313
 postcode: "37743"
 city: Greeneville
-street: "South Main Street"
-housenumber: 129
+street: South Main Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

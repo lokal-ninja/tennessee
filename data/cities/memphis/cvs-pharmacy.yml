@@ -1,11 +1,11 @@
 id: 739797364
-type: way
+type: node
 latitude: 35.10832
 longitude: -89.94529
 postcode: "38111"
 city: Memphis
-street: "Park Avenue"
-housenumber: 3502
-phone: "+1-901-324-1050"
+street: Park Avenue
+housenumber: "3502"
+phone: +1-901-324-1050
 opening_hours: ""
-website: "https://cvs.com/?icid=cvsheader:cvslogo"
+website: https://cvs.com/?icid=cvsheader:cvslogo

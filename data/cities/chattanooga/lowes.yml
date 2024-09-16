@@ -1,11 +1,11 @@
 id: 828612678
-type: way
+type: node
 latitude: 35.03548
 longitude: -85.14974
 postcode: "37421"
 city: Chattanooga
-street: "Gunbarrel Road"
-housenumber: 2180
-phone: "+1 423-954-2400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-chattanooga/0425"
+street: Gunbarrel Road
+housenumber: "2180"
+phone: +1 423-954-2400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-chattanooga/0425

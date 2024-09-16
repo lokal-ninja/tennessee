@@ -1,11 +1,11 @@
 id: 1073016241
-type: way
+type: node
 latitude: 36.22327
 longitude: -86.76158
 postcode: "37207"
 city: Nashville
-street: "Dickerson Pike"
-housenumber: 2930
+street: Dickerson Pike
+housenumber: "2930"
 phone: "+16159863700"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/tn/nashville/7487/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/tn/nashville/7487/

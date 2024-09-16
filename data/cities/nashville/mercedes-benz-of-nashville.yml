@@ -1,11 +1,11 @@
 id: 1028433716
-type: way
+type: node
 latitude: 35.96024
 longitude: -86.80434
 postcode: "37067"
 city: Nashville
-street: "Bakers Bridge Avenue"
-housenumber: 630
-phone: "+1 800 7705582"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-19:00"
-website: "https://www.mercedesbenzofnashville.com/"
+street: Bakers Bridge Avenue
+housenumber: "630"
+phone: +1 800 7705582
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-19:00
+website: https://www.mercedesbenzofnashville.com/

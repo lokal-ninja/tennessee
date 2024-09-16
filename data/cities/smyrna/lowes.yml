@@ -1,11 +1,11 @@
 id: 915308543
-type: way
+type: node
 latitude: 35.98711
 longitude: -86.553
 postcode: "37167"
 city: Smyrna
-street: "Genie Lane"
-housenumber: 410
-phone: "+1 615-220-2172"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-smyrna/1626"
+street: Genie Lane
+housenumber: "410"
+phone: +1 615-220-2172
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-smyrna/1626

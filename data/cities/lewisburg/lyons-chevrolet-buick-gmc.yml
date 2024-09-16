@@ -1,11 +1,11 @@
 id: 740008281
-type: way
+type: node
 latitude: 35.46171
 longitude: -86.78451
 postcode: "37091"
 city: Lewisburg
-street: "North Ellington Parkway"
-housenumber: 861
+street: North Ellington Parkway
+housenumber: "861"
 phone: ""
 opening_hours: ""
 website: ""

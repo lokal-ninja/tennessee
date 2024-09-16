@@ -1,11 +1,11 @@
 id: 48210862
-type: way
+type: node
 latitude: 36.0408
 longitude: -86.74186
 postcode: "37211"
 city: Nashville
-street: "Old Hickory Boulevard"
-housenumber: 15544
-phone: "+1 615-331-4912"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1116"
+street: Old Hickory Boulevard
+housenumber: "15544"
+phone: +1 615-331-4912
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1116

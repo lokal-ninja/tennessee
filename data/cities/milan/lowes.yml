@@ -1,11 +1,11 @@
 id: 697073891
-type: way
+type: node
 latitude: 35.87295
 longitude: -88.74573
 postcode: "38358"
 city: Milan
-street: "South First Street"
-housenumber: 15471
-phone: "+1 731-686-0028"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tn-milan/2487"
+street: South First Street
+housenumber: "15471"
+phone: +1 731-686-0028
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tn-milan/2487

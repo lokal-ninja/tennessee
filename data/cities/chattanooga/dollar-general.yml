@@ -1,11 +1,11 @@
 id: 81102279
-type: way
+type: node
 latitude: 34.99393
 longitude: -85.29179
-postcode: "37407-2925"
+postcode: 37407-2925
 city: Chattanooga
-street: "Rossville Boulevard"
-housenumber: 4211
-phone: "+1 423 509 8678"
-opening_hours: "08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/tn/chattanooga/12663"
+street: Rossville Boulevard
+housenumber: "4211"
+phone: +1 423 509 8678
+opening_hours: 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/tn/chattanooga/12663

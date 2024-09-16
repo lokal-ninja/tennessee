@@ -1,11 +1,11 @@
 id: 435124793
-type: way
+type: node
 latitude: 36.33655
 longitude: -84.17572
 postcode: ""
 city: Jacksboro
-street: "Jane Way Lane"
-housenumber: 113
+street: Jane Way Lane
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "http://www.wsginc.com/"
+website: http://www.wsginc.com/

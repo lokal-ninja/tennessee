@@ -1,11 +1,11 @@
 id: 761142300
-type: way
+type: node
 latitude: 35.14251
 longitude: -90.00467
 postcode: "38104"
 city: Memphis
-street: "Poplar Avenue"
-housenumber: 1681
+street: Poplar Avenue
+housenumber: "1681"
 phone: ""
 opening_hours: ""
-website: "https://joeswinesandliquor.com/"
+website: https://joeswinesandliquor.com/

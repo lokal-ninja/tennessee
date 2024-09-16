@@ -1,11 +1,11 @@
 id: 1073463432
-type: way
+type: node
 latitude: 35.84252
 longitude: -86.38877
 postcode: "37130"
 city: Murfreesboro
-street: "East State Street"
-housenumber: 314
-phone: "(615)893-1313"
+street: East State Street
+housenumber: "314"
+phone: (615)893-1313
 opening_hours: ""
 website: ""

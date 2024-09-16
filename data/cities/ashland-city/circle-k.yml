@@ -1,11 +1,11 @@
 id: 1193247914
-type: way
+type: node
 latitude: 36.27031
 longitude: -87.05936
 postcode: "37015"
 city: Ashland City
-street: "South Main Street"
-housenumber: 545
-phone: "+1-615-792-4125"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/ashland-city/545-s-main-st/4703710"
+street: South Main Street
+housenumber: "545"
+phone: +1-615-792-4125
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/ashland-city/545-s-main-st/4703710

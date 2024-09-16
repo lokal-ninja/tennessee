@@ -1,11 +1,11 @@
 id: 1051973315
-type: way
+type: node
 latitude: 35.97606
 longitude: -83.99823
 postcode: "37921"
 city: Knoxville
-street: "Western Avenue"
-housenumber: 4765
-phone: "865-540-6881"
+street: Western Avenue
+housenumber: "4765"
+phone: 865-540-6881
 opening_hours: ""
 website: ""
