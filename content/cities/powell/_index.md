@@ -1,6 +1,6 @@
 ---
 title: Powell
 url: /powell/
-latitude: 36.047
-longitude: -84.005
+latitude: 36.02
+longitude: -84.056
 ---
