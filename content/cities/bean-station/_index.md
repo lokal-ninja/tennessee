@@ -1,6 +1,6 @@
 ---
 title: Bean Station
 url: /bean-station/
-latitude: 36.342
-longitude: -83.278
+latitude: 36.344
+longitude: -83.269
 ---
