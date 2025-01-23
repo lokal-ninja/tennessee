@@ -1,6 +1,6 @@
 ---
 title: Etowah
 url: /etowah/
-latitude: 35.323
-longitude: -84.526
+latitude: 35.342
+longitude: -84.521
 ---
