@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /knoxville/walmart-supercenter-walbrook-drive/
+url: /kingsport/walmart-supercenter-fort-henry-drive/
 shop: supermarket
 ---
