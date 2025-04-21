@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /ashland-city/dollar-general-frey-street/
+url: /clarksville/dollar-general-tn-76/
 shop: variety store
 ---
