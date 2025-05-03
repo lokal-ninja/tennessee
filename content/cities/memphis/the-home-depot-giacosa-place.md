@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /nashville/the-home-depot-joyce-lane/
+url: /memphis/the-home-depot-giacosa-place/
 shop: doityourself
 ---
