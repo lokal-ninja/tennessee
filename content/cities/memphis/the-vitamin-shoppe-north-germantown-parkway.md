@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
-url: /memphis/the-vitamin-shoppe-winchester-road/
+url: /memphis/the-vitamin-shoppe-north-germantown-parkway/
 shop: nutrition supplements
 ---
