@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /knoxville/walmart-supercenter-chapman-highway/
+url: /clarksville/walmart-supercenter-madison-street/
 shop: supermarket
 ---

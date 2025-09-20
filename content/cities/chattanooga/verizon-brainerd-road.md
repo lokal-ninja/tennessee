@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /chattanooga/verizon-gunbarrel-road/
+url: /chattanooga/verizon-brainerd-road/
 shop: mobile phone
 ---
