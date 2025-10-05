@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /memphis/family-dollar-east-shelby-drive/
+url: /memphis/family-dollar-ramill-road/
 shop: variety store
 ---

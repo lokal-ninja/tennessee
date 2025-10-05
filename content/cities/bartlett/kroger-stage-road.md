@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /franklin/kroger-columbia-avenue/
+url: /bartlett/kroger-stage-road/
 shop: supermarket
 ---
