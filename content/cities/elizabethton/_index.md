@@ -1,6 +1,6 @@
 ---
 title: Elizabethton
 url: /elizabethton/
-latitude: 36.349
-longitude: -82.212
+latitude: 36.339
+longitude: -82.207
 ---
