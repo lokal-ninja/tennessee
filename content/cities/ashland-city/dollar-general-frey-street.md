@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /cookeville/dollar-general-west-main-steet/
+url: /ashland-city/dollar-general-frey-street/
 shop: variety store
 ---
