@@ -1,6 +1,6 @@
 ---
 title: Sneedville
 url: /sneedville/
-latitude: 36.529
-longitude: -83.218
+latitude: 36.528
+longitude: -83.22
 ---
