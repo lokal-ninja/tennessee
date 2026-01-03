@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /ashland-city/dollar-general-frey-street/
+url: /pigeon-forge/dollar-general-parkway/
 shop: variety store
 ---
