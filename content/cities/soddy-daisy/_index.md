@@ -1,6 +1,6 @@
 ---
 title: Soddy Daisy
 url: /soddy-daisy/
-latitude: 35.234
-longitude: -85.2
+latitude: 35.256
+longitude: -85.184
 ---
