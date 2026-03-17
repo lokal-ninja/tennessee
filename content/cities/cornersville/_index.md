@@ -1,6 +1,6 @@
 ---
 title: Cornersville
 url: /cornersville/
-latitude: 35.372
-longitude: -86.839
+latitude: 35.37
+longitude: -86.838
 ---
