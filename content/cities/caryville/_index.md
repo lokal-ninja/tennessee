@@ -1,6 +1,6 @@
 ---
 title: Caryville
 url: /caryville/
-latitude: 36.247
-longitude: -84.167
+latitude: 36.293
+longitude: -84.214
 ---
