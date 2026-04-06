@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /memphis/the-home-depot-riverdale-road/
+url: /nashville/the-home-depot-highway-70-south/
 shop: doityourself
 ---
