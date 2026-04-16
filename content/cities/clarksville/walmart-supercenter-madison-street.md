@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /kingsport/walmart-supercenter-west-stone-drive/
+url: /clarksville/walmart-supercenter-madison-street/
 shop: supermarket
 ---

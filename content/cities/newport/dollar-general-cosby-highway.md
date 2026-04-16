@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /newport/dollar-general-2/
+url: /newport/dollar-general-cosby-highway/
 shop: variety store
 ---

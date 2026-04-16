@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
-url: /knoxville/office-depot-north-broadway/
+url: /knoxville/office-depot-kingston-pike/
 shop: office supplies
 ---
