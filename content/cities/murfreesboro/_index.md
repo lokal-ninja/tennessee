@@ -1,6 +1,6 @@
 ---
 title: Murfreesboro
 url: /murfreesboro/
-latitude: 35.873
-longitude: -86.352
+latitude: 35.813
+longitude: -86.368
 ---
