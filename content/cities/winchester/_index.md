@@ -1,6 +1,6 @@
 ---
 title: Winchester
 url: /winchester/
-latitude: 35.199
-longitude: -86.097
+latitude: 35.217
+longitude: -86.103
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cosby
 url: /cosby/
-latitude: 35.767
-longitude: -83.285
+latitude: 35.778
+longitude: -83.245
 ---
