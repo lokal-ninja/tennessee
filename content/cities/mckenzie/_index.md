@@ -1,6 +1,6 @@
 ---
 title: McKenzie
 url: /mckenzie/
-latitude: 36.133
+latitude: 36.132
 longitude: -88.518
 ---

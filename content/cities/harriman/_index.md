@@ -1,6 +1,6 @@
 ---
 title: Harriman
 url: /harriman/
-latitude: 35.892
-longitude: -84.545
+latitude: 35.894
+longitude: -84.623
 ---
