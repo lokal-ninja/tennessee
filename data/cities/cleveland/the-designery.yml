@@ -7,5 +7,5 @@ city: Cleveland
 street: Keith Street
 housenumber: "2538"
 phone: +1 423-472-3020
-opening_hours: Mo-Fr 09:00-17:00; Sa by_appointment
+opening_hours: Mo-Fr 09:00-17:00; Sa "by appointment"
 website: https://thedesignery.com/
