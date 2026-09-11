@@ -1,6 +1,6 @@
 ---
 title: Sevierville
 url: /sevierville/
-latitude: 35.833
-longitude: -83.571
+latitude: 35.834
+longitude: -83.568
 ---
