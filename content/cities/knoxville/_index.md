@@ -1,6 +1,6 @@
 ---
 title: Knoxville
 url: /knoxville/
-latitude: 35.943
-longitude: -84.093
+latitude: 35.953
+longitude: -84.121
 ---
