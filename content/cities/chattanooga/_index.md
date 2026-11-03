@@ -1,6 +1,6 @@
 ---
 title: Chattanooga
 url: /chattanooga/
-latitude: 35.024
-longitude: -85.247
+latitude: 35.061
+longitude: -85.304
 ---
