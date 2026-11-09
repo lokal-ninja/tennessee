@@ -1,6 +1,6 @@
 ---
-title: red bank
+title: Red Bank
 url: /red-bank/
-latitude: 35.092
-longitude: -85.311
+latitude: 35.089
+longitude: -85.313
 ---

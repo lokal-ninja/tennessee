@@ -1,6 +1,6 @@
 ---
 title: Tiptonville
 url: /tiptonville/
-latitude: 36.379
-longitude: -89.487
+latitude: 36.378
+longitude: -89.482
 ---
